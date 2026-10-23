@@ -1,15 +1,15 @@
 {
   "name": "cass-nutri-skills",
-  "version": "0.1.0",
-  "description": "Prescrição dietética assistida para nutricionistas.",
+  "version": "0.2.0",
+  "description": "Prescrição dietética e consulta ao corpus local de Biodisponibilidade de Nutrientes.",
   "author": {
     "name": "Cassiano Diniz"
   },
   "skills": "./skills/",
   "interface": {
     "displayName": "Cass Nutri Skills",
-    "shortDescription": "Prescrição dietética assistida",
-    "longDescription": "Skill de prescrição dietética para nutricionistas, com cálculo em planilha, revisão profissional e geração de documento.",
+    "shortDescription": "Dietas e nutrientes",
+    "longDescription": "Duas skills: prescrição dietética com planilha e consulta ao corpus local do livro Biodisponibilidade de Nutrientes, com conferência de proveniência.",
     "developerName": "Cassiano Diniz",
     "category": "Productivity",
     "defaultPrompt": "Use a cass-dieta para conduzir a prescrição dietética que vou informar."
