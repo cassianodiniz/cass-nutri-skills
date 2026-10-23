@@ -21,6 +21,14 @@ Passou: abra com `paciente.caminho_da_planilha()`, leia `planilha.ler_ficha(pack
 `planilha.ler_opcoes(pack)` (todas as refeições, cada uma seguida das opções dela), e **mostre
 onde ele parou antes de perguntar o que fazer**:
 
+Na mesma abertura, leia `restricoes.md` na pasta desse paciente e apresente as
+restrições guardadas. Antes de filtrar alimentos ou fazer ajustes por qualquer
+porta, confirme se continuam válidas e siga `filtros-alimentares.md`. Isso também
+vale para a porta 1 e para um ajuste iniciado dentro da porta 3, que não passam
+pelo Passo 5. Arquivo ausente ou ilegível não significa “sem restrições”: colha a
+orientação faltante antes do ajuste. Na porta 3 só de consulta, apresente o que
+está registrado sem gravar mudanças; não transforme a consulta em prescrição.
+
 > **João Pedro** — última mexida em 12/06
 > Ganho de massa · Harris-Benedict · 82 kg · 1,78 m · 41 anos · FA 1,6
 > Café da manhã: Pão 60 g · Ovo inteiro 2 · Queijo 20 g

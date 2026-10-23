@@ -2,6 +2,10 @@
 
 # Passo 6 — A dieta ditada
 
+Com restrições informadas, aplique `filtros-alimentares.md` à busca e à conferência
+de alimentos, modelos, opções e trocas. Mostre compatíveis, excluídos e itens a
+conferir com suas porções/fontes. Restrição não autoriza substituição automática.
+
 O catálogo é o cadastro dele mais a tabela da planilha, nessa ordem:
 `catalogo.montar_catalogo(planilha.Pacote(MESTRE), ambiente.arquivo_alimentos(perfil))`.
 Para cada alimento: `catalogo.resolver(texto, catalogo)`.

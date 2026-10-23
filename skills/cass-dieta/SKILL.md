@@ -57,6 +57,7 @@ scripts/planilha.py    → cópia, escrita, cálculo, conferência, extração
 scripts/catalogo.py    → resolver alimento, unidades, cadastro
 scripts/documento.py   → HTML, PDF, verificação, entrega
 scripts/trocas.py      → trocas proporcionais e equivalência por carboidrato (a pedido)
+scripts/restricoes.py  → filtros por restrições e evidências exatas de alimento/porção
 ```
 
 ---
@@ -77,6 +78,12 @@ regras de cada um estão lá, não aqui. Os nomes de função citados existem no
 | 8 | Calcular: o comando único `planilha.calcular_dieta` | `references/7-calcular.md` |
 | 9 | Revisão em duas etapas — sem autorização aqui, não existe PDF | `references/8-revisao.md` |
 | 10 | O documento: `montar_doc`, PDF e entrega | `references/9-documento.md` |
+
+Ao colher restrições alimentares, filtrar alimentos por FODMAPs ou lactose, ou
+revisar uma dieta com essas restrições, leia também
+[filtros alimentares](references/filtros-alimentares.md). Esse filtro executa a
+orientação do nutricionista: não diagnostica, não substitui alimentos e não
+transforma falta de informação em autorização de consumo.
 
 ## Quando algo dá errado
 

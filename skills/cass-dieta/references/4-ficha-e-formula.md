@@ -2,6 +2,11 @@
 
 # Passo 5 — Dados do paciente
 
+Colha também as restrições alimentares ainda não informadas: intolerância à
+lactose, orientação para FODMAPs e exclusões específicas. Leia
+`filtros-alimentares.md` e registre a orientação confirmada na pasta do paciente.
+Na retomada, apresente o que foi guardado para confirmar mudanças.
+
 **Pergunte os dados ANTES da fórmula** (decisão Cassiano 04/08/2026). A ordem:
 
 1. Peso, altura, idade, sexo, fator de atividade, objetivo — numa pergunta só ou como ele

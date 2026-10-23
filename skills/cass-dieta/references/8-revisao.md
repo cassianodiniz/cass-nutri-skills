@@ -2,6 +2,10 @@
 
 # Passo 9 — Revisão, em duas etapas
 
+Inclua as restrições em vigor e a conferência de `filtros-alimentares.md` para
+todas as opções e trocas. Conflitos e pendências presentes na prescrição precisam
+da decisão explícita do profissional antes do documento; não mudam sozinhos a dieta.
+
 **Etapa 1 — só o que a máquina decidiu.** Bloco curto, item a item, resposta obrigatória:
 
 > Você disse "pão" — usei **Pão**

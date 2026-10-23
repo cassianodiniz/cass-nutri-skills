@@ -1,14 +1,20 @@
 # Cass Nutri Skills
 
-Plugin para nutricionistas. Versão 0.2.0. Contém **cass-dieta** e **cass-book-biodisp-nutrients**.
+Plugin para nutricionistas. Versão 0.3.0. Contém **cass-dieta** e **cass-book-biodisp-nutrients**.
 O nutricionista toma as decisões clínicas; a skill executa a prescrição informada,
 confere o cálculo e prepara o documento depois da revisão autorizada.
 
 ## Fonte
 
-Os 22 arquivos foram importados sem alterações de
+A base de 22 arquivos foi importada originalmente de
 [cass-dieta.skill](https://skills.praxios.com.br/assets/cass-dieta.skill).
 SHA-256: `07b57c4fcc1bc16ca2fbcbcc7924ce601dcabc92184930f4c51a56fb65b738c6`.
+Desde a versão 0.3.0, a cass-dieta inclui filtros por FODMAPs, lactose e restrições
+informadas pelo profissional: alimento/porção/fonte, três resultados (compatível,
+incompatível, verificar), conferência de modelos e alternativas. Não inclui uma
+base clínica completa nem presume classificação pela memória do modelo. Dados e
+restrições permanecem nas pastas externas do profissional e do paciente.
+
 A distribuição pública não é uma cópia exata da dieta pessoal do autor: a planilha
 é preparada para distribuição e esta versão ainda não inclui o recurso local de
 alternativas textuais no documento. Não usa pacientes ou perfis do autor.
