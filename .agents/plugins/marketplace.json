@@ -1,0 +1,20 @@
+{
+  "name": "cass-nutri-skills",
+  "interface": {
+    "displayName": "Cass Nutri Skills"
+  },
+  "plugins": [
+    {
+      "name": "cass-nutri-skills",
+      "source": {
+        "source": "local",
+        "path": "./"
+      },
+      "policy": {
+        "installation": "AVAILABLE",
+        "authentication": "ON_INSTALL"
+      },
+      "category": "Productivity"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
+  "name": "cass-nutri-skills",
+  "version": "0.1.0",
+  "description": "Prescrição dietética assistida para nutricionistas.",
+  "author": {
+    "name": "Cassiano Diniz"
+  },
+  "homepage": "https://github.com/cassianodiniz/cass-nutri-skills",
+  "repository": "https://github.com/cassianodiniz/cass-nutri-skills",
+  "extensions": {
+    "com.openai": {
+      "interface": {
+        "displayName": "Cass Nutri Skills",
+        "shortDescription": "Prescrição dietética assistida",
+        "longDescription": "Skill de prescrição dietética para nutricionistas, com cálculo em planilha, revisão profissional e geração de documento.",
+        "developerName": "Cassiano Diniz",
+        "category": "Productivity",
+        "defaultPrompt": "Use a cass-dieta para conduzir a prescrição dietética que vou informar."
+      }
+    }
+  }
+}

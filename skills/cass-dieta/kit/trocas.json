@@ -1,0 +1,8 @@
+[
+ {"base": {"nome": "Arroz ou mandioca ou macarrão", "quantidade": 100},
+  "equivalentes": [{"nome": "Batata doce", "quantidade": 150}, {"nome": "Batata Inglesa", "quantidade": 220}]},
+ {"base": {"nome": "Carne vermelha magra", "quantidade": 100},
+  "equivalentes": [{"nome": "Peito de Frango", "quantidade": 130}, {"nome": "Tilápia", "quantidade": 140}]},
+ {"base": {"nome": "Abacaxi ou Mamão ou Uva ou Kiwi ou Laranja", "quantidade": 200},
+  "equivalentes": [{"nome": "Banana ou Abacate", "quantidade": 100}]}
+]
