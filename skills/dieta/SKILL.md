@@ -1,5 +1,5 @@
 ---
-name: cass-dieta
+name: dieta
 description: Use sempre que um nutricionista for montar, calcular, revisar, refazer ou entregar a prescrição dietética de um paciente. Dispara com "montar dieta", "nova dieta", "prescrição para o paciente", "calcular a dieta", "gerar o PDF da dieta", "cadastrar alimento novo", "retomar o paciente", "abrir a dieta anterior do fulano", "onde ficou a pasta do paciente", "usar a refeição modelo", "trocar a fórmula de gasto calórico", ou quando ele disser que a meta calórica saiu em branco, que um alimento sumiu da conta ou que a planilha do paciente está estranha. Vale mesmo que ele não cite planilha nem PDF. NÃO use para dúvida clínica sem prescrição, cardápio sem planilha, nem para editar a planilha fora do fluxo de prescrição.
 ---
 

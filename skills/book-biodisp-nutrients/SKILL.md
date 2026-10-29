@@ -1,5 +1,5 @@
 ---
-name: cass-book-biodisp-nutrients
+name: book-biodisp-nutrients
 description: "Use when answering questions about nutrient bioavailability, absorption, metabolism, nutrient interactions, or exact tables and values from the user's Cozzolino book corpus. Do not use to create a dietary prescription or claim current evidence without checking appropriate sources."
 ---
 

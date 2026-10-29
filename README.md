@@ -1,6 +1,6 @@
 # Cass Nutri Skills
 
-Plugin para nutricionistas. Versão 0.3.0. Contém **cass-dieta** e **cass-book-biodisp-nutrients**.
+Plugin para nutricionistas. Versão 0.4.0. Contém **dieta** e **book-biodisp-nutrients**.
 O nutricionista toma as decisões clínicas; a skill executa a prescrição informada,
 confere o cálculo e prepara o documento depois da revisão autorizada.
 
@@ -9,7 +9,7 @@ confere o cálculo e prepara o documento depois da revisão autorizada.
 A base de 22 arquivos foi importada originalmente de
 [cass-dieta.skill](https://skills.praxios.com.br/assets/cass-dieta.skill).
 SHA-256: `07b57c4fcc1bc16ca2fbcbcc7924ce601dcabc92184930f4c51a56fb65b738c6`.
-Desde a versão 0.3.0, a cass-dieta inclui filtros por FODMAPs, lactose e restrições
+Desde a versão 0.3.0, a dieta inclui filtros por FODMAPs, lactose e restrições
 informadas pelo profissional: alimento/porção/fonte, três resultados (compatível,
 incompatível, verificar), conferência de modelos e alternativas. Não inclui uma
 base clínica completa nem presume classificação pela memória do modelo. Dados e
@@ -19,6 +19,8 @@ A distribuição pública não é uma cópia exata da dieta pessoal do autor: a 
 é preparada para distribuição e esta versão ainda não inclui o recurso local de
 alternativas textuais no documento. Não usa pacientes ou perfis do autor.
 
+Os nomes de acionamento não repetem o nome do plugin. Use `Cass Nutri Skills: dieta` ou `Cass Nutri Skills: book-biodisp-nutrients`. Os diretórios de dados e o identificador do pacote original do livro foram preservados.
+
 ## Instalar
 
 ```sh
@@ -26,14 +28,14 @@ codex plugin marketplace add cassianodiniz/cass-nutri-skills --ref main
 codex plugin add cass-nutri-skills@cass-nutri-skills
 ```
 
-Depois peça: “Use cass-dieta para montar a prescrição que vou informar”.
-Para consultar a obra, peça: “Use cass-book-biodisp-nutrients para consultar meu corpus local”. A consulta bibliográfica é separada da prescrição; não altera a dieta automaticamente.
+Depois peça: “Use dieta para montar a prescrição que vou informar”.
+Para consultar a obra, peça: “Use book-biodisp-nutrients para consultar meu corpus local”. A consulta bibliográfica é separada da prescrição; não altera a dieta automaticamente.
 
 ## Preparação e arquivos permanentes
 
 Python, LibreOffice e um motor de PDF são necessários. A skill verifica o ambiente
 antes do atendimento e só instala dependências com autorização, sem senha.
-Leia `skills/cass-dieta/references/1-ambiente.md`.
+Leia `skills/dieta/references/1-ambiente.md`.
 
 Perfis, cadastros e o ambiente WeasyPrint ficam em `~/.cass-dieta/`, fora do plugin.
 As planilhas e documentos dos pacientes ficam no consultório confirmado pelo
@@ -60,7 +62,7 @@ plataforma e faz sua própria conferência do cálculo antes de gerar documentos
 
 ## Biodisponibilidade de Nutrientes
 
-A skill `cass-book-biodisp-nutrients` integra o corpus de Cozzolino com busca por
+A skill `book-biodisp-nutrients` integra o corpus de Cozzolino com busca por
 página e conferência de proveniência. O livro é uma fonte histórica; informação
 atual não deve ser atribuída a ele. Sua transcrição, o índice SQLite e os registros
 privados não são distribuídos neste repositório público.
@@ -71,7 +73,7 @@ confere hashes internos, a liberação da extração e a integridade SQLite e pr
 qualquer instalação anterior. O plugin só distribui a integração e o preparador.
 Python 3.10+ com sqlite3 é suficiente; não precisa instalar bibliotecas adicionais.
 
-Comandos a partir da pasta `skills/cass-book-biodisp-nutrients/`:
+Comandos a partir da pasta `skills/book-biodisp-nutrients/`:
 
 ```sh
 python3 scripts/corpus_local.py instalar --pacote /caminho/da-copia-autorizada.skill

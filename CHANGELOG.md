@@ -1,5 +1,11 @@
 # Alterações
 
+## 0.4.0
+
+- Renomeada `cass-dieta` para `dieta` no acionamento e na pasta da skill.
+- Renomeada `cass-book-biodisp-nutrients` para `book-biodisp-nutrients` no acionamento e na pasta da skill.
+- Referências, exemplos de uso e testes apontam para os novos nomes; dados externos e motores preservados.
+
 ## 0.2.0
 
 - Adicionada cass-book-biodisp-nutrients, com busca e proveniência pelo motor original do corpus local.

@@ -1,6 +1,6 @@
 {
   "name": "cass-nutri-skills",
-  "version": "0.3.0",
+  "version": "0.4.0",
   "description": "Prescrição dietética e consulta ao corpus local de Biodisponibilidade de Nutrientes.",
   "author": {
     "name": "Cassiano Diniz"
@@ -12,6 +12,6 @@
     "longDescription": "Duas skills: prescrição dietética com planilha e consulta ao corpus local do livro Biodisponibilidade de Nutrientes, com conferência de proveniência.",
     "developerName": "Cassiano Diniz",
     "category": "Productivity",
-    "defaultPrompt": "Use a cass-dieta para conduzir a prescrição dietética que vou informar."
+    "defaultPrompt": "Use a dieta para conduzir a prescrição dietética que vou informar."
   }
 }
