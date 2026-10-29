@@ -1,5 +1,10 @@
 # Alterações
 
+## 0.4.1
+
+- Renomeada `book-biodisp-nutrients` para `biodisp-nutrients` no acionamento e na pasta da skill.
+- Referências e testes ajustados; corpus e identificador do pacote original preservados.
+
 ## 0.4.0
 
 - Renomeada `cass-dieta` para `dieta` no acionamento e na pasta da skill.

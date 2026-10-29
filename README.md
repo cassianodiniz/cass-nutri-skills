@@ -1,6 +1,6 @@
 # Cass Nutri Skills
 
-Plugin para nutricionistas. Versão 0.4.0. Contém **dieta** e **book-biodisp-nutrients**.
+Plugin para nutricionistas. Versão 0.4.1. Contém **dieta** e **biodisp-nutrients**.
 O nutricionista toma as decisões clínicas; a skill executa a prescrição informada,
 confere o cálculo e prepara o documento depois da revisão autorizada.
 
@@ -19,7 +19,7 @@ A distribuição pública não é uma cópia exata da dieta pessoal do autor: a 
 é preparada para distribuição e esta versão ainda não inclui o recurso local de
 alternativas textuais no documento. Não usa pacientes ou perfis do autor.
 
-Os nomes de acionamento não repetem o nome do plugin. Use `Cass Nutri Skills: dieta` ou `Cass Nutri Skills: book-biodisp-nutrients`. Os diretórios de dados e o identificador do pacote original do livro foram preservados.
+Os nomes de acionamento não repetem o nome do plugin. Use `Cass Nutri Skills: dieta` ou `Cass Nutri Skills: biodisp-nutrients`. Os diretórios de dados e o identificador do pacote original do livro foram preservados.
 
 ## Instalar
 
@@ -29,7 +29,7 @@ codex plugin add cass-nutri-skills@cass-nutri-skills
 ```
 
 Depois peça: “Use dieta para montar a prescrição que vou informar”.
-Para consultar a obra, peça: “Use book-biodisp-nutrients para consultar meu corpus local”. A consulta bibliográfica é separada da prescrição; não altera a dieta automaticamente.
+Para consultar a obra, peça: “Use biodisp-nutrients para consultar meu corpus local”. A consulta bibliográfica é separada da prescrição; não altera a dieta automaticamente.
 
 ## Preparação e arquivos permanentes
 
@@ -62,7 +62,7 @@ plataforma e faz sua própria conferência do cálculo antes de gerar documentos
 
 ## Biodisponibilidade de Nutrientes
 
-A skill `book-biodisp-nutrients` integra o corpus de Cozzolino com busca por
+A skill `biodisp-nutrients` integra o corpus de Cozzolino com busca por
 página e conferência de proveniência. O livro é uma fonte histórica; informação
 atual não deve ser atribuída a ele. Sua transcrição, o índice SQLite e os registros
 privados não são distribuídos neste repositório público.
@@ -73,7 +73,7 @@ confere hashes internos, a liberação da extração e a integridade SQLite e pr
 qualquer instalação anterior. O plugin só distribui a integração e o preparador.
 Python 3.10+ com sqlite3 é suficiente; não precisa instalar bibliotecas adicionais.
 
-Comandos a partir da pasta `skills/book-biodisp-nutrients/`:
+Comandos a partir da pasta `skills/biodisp-nutrients/`:
 
 ```sh
 python3 scripts/corpus_local.py instalar --pacote /caminho/da-copia-autorizada.skill

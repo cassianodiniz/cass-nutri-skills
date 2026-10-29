@@ -10,7 +10,7 @@ from unittest.mock import patch
 import zipfile
 
 ROOT=Path(__file__).resolve().parents[1]
-spec=importlib.util.spec_from_file_location('book_corpus',ROOT/'skills/book-biodisp-nutrients/scripts/corpus_local.py')
+spec=importlib.util.spec_from_file_location('book_corpus',ROOT/'skills/biodisp-nutrients/scripts/corpus_local.py')
 book=importlib.util.module_from_spec(spec);spec.loader.exec_module(book)
 
 class CorpusTests(unittest.TestCase):
