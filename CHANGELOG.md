@@ -1,5 +1,10 @@
 # Alterações
 
+## 0.5.0
+
+- Adicionada Nutrição Canetas (`nutricao-canetas`), com resumos e instruções da skill local.
+- Corpus integral privado externo, preservado entre atualizações; buscador original mantido.
+
 ## 0.4.1
 
 - Renomeada `book-biodisp-nutrients` para `biodisp-nutrients` no acionamento e na pasta da skill.

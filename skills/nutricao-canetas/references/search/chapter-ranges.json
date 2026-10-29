@@ -1,0 +1,19 @@
+{
+  "ranges": [
+    {
+      "chapter": "ch01",
+      "start_page": 1,
+      "end_page": 24
+    },
+    {
+      "chapter": "ch02",
+      "start_page": 25,
+      "end_page": 48
+    },
+    {
+      "chapter": "ch03",
+      "start_page": 49,
+      "end_page": 51
+    }
+  ]
+}

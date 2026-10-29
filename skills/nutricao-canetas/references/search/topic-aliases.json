@@ -1,0 +1,237 @@
+{
+  "topics": [
+    {
+      "canonical": "proteina",
+      "label": "Proteína",
+      "home_chapter": "ch01",
+      "aliases": [
+        "proteína",
+        "protein",
+        "protein intake",
+        "proteinas",
+        "protein requirements"
+      ]
+    },
+    {
+      "canonical": "peso-ajustado",
+      "label": "Peso ajustado",
+      "home_chapter": "ch01",
+      "aliases": [
+        "peso ajustado",
+        "adjusted bodyweight",
+        "adjusted body weight",
+        "peso de referência"
+      ]
+    },
+    {
+      "canonical": "multivitaminico",
+      "label": "Multivitamínico-mineral",
+      "home_chapter": "ch01",
+      "aliases": [
+        "multivitamínico",
+        "multivitamin",
+        "multivitamin–mineral",
+        "multivitamin-mineral",
+        "multivitamínico-mineral",
+        "suplementação",
+        "multivitaminmineral"
+      ]
+    },
+    {
+      "canonical": "micronutrientes",
+      "label": "Micronutrientes",
+      "home_chapter": "ch01",
+      "aliases": [
+        "micronutrientes",
+        "micronutrient",
+        "micronutrient deficiencies",
+        "nutrient deficiencies"
+      ]
+    },
+    {
+      "canonical": "monitoramento",
+      "label": "Exames e monitoramento",
+      "home_chapter": "ch01",
+      "aliases": [
+        "exames",
+        "laboratory monitoring",
+        "biochemical monitoring",
+        "monitoramento",
+        "ferritin",
+        "ferritina",
+        "vitamin B12",
+        "B12"
+      ]
+    },
+    {
+      "canonical": "energia",
+      "label": "Ingestão energética",
+      "home_chapter": "ch01",
+      "aliases": [
+        "energia",
+        "energy intake",
+        "calorie intake",
+        "calorias",
+        "kcal"
+      ]
+    },
+    {
+      "canonical": "fibras",
+      "label": "Fibras",
+      "home_chapter": "ch01",
+      "aliases": [
+        "fibras",
+        "fibre",
+        "fiber",
+        "psyllium"
+      ]
+    },
+    {
+      "canonical": "hidratacao",
+      "label": "Hidratação",
+      "home_chapter": "ch01",
+      "aliases": [
+        "hidratação",
+        "hydration",
+        "fluid intake",
+        "líquidos"
+      ]
+    },
+    {
+      "canonical": "constipacao",
+      "label": "Constipação",
+      "home_chapter": "ch01",
+      "aliases": [
+        "constipação",
+        "constipation",
+        "intestino preso"
+      ]
+    },
+    {
+      "canonical": "nausea",
+      "label": "Náusea e vômitos",
+      "home_chapter": "ch01",
+      "aliases": [
+        "náusea",
+        "vomiting",
+        "vômitos"
+      ]
+    },
+    {
+      "canonical": "massa-magra",
+      "label": "Massa livre de gordura",
+      "home_chapter": "ch01",
+      "aliases": [
+        "massa magra",
+        "fat-free mass",
+        "lean mass",
+        "massa livre de gordura",
+        "FFM"
+      ]
+    },
+    {
+      "canonical": "exercicio",
+      "label": "Exercício resistido",
+      "home_chapter": "ch01",
+      "aliases": [
+        "exercício",
+        "resistance training",
+        "resistance exercise",
+        "strength training",
+        "treino de força"
+      ]
+    },
+    {
+      "canonical": "bariatrica",
+      "label": "Bariátrica",
+      "home_chapter": "ch03",
+      "aliases": [
+        "bariátrica",
+        "bariatric surgery",
+        "bariatric",
+        "metabolic–bariatric surgery"
+      ]
+    },
+    {
+      "canonical": "comportamento",
+      "label": "Comportamento alimentar",
+      "home_chapter": "ch02",
+      "aliases": [
+        "comportamento alimentar",
+        "eating behaviour",
+        "eating behaviors",
+        "food noise",
+        "COM-B"
+      ]
+    },
+    {
+      "canonical": "5as",
+      "label": "5As",
+      "home_chapter": "ch02",
+      "aliases": [
+        "5As",
+        "Assess",
+        "Advise",
+        "Agree",
+        "Assist",
+        "Arrange"
+      ]
+    },
+    {
+      "canonical": "glim",
+      "label": "Risco de desnutrição",
+      "home_chapter": "ch01",
+      "aliases": [
+        "GLIM",
+        "PG-SGA",
+        "malnutrition",
+        "desnutrição"
+      ]
+    },
+    {
+      "canonical": "manutencao",
+      "label": "Manutenção",
+      "home_chapter": "ch02",
+      "aliases": [
+        "manutenção",
+        "maintenance",
+        "weight regain",
+        "reganho"
+      ]
+    },
+    {
+      "canonical": "funcao",
+      "label": "Função e força",
+      "home_chapter": "ch01",
+      "aliases": [
+        "função",
+        "physical function",
+        "handgrip",
+        "sit-to-stand",
+        "sarcopenia"
+      ]
+    },
+    {
+      "canonical": "osso",
+      "label": "Saúde óssea",
+      "home_chapter": "ch01",
+      "aliases": [
+        "saúde óssea",
+        "bone health",
+        "FRAX",
+        "bone mineral density",
+        "DXA"
+      ]
+    },
+    {
+      "canonical": "tiamina",
+      "label": "Tiamina",
+      "home_chapter": "ch01",
+      "aliases": [
+        "tiamina",
+        "thiamine",
+        "Wernicke"
+      ]
+    }
+  ]
+}

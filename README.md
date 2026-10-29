@@ -1,6 +1,6 @@
 # Cass Nutri Skills
 
-Plugin para nutricionistas. Versão 0.4.1. Contém **dieta** e **biodisp-nutrients**.
+Plugin para nutricionistas. Versão 0.5.0. Contém **dieta**, **biodisp-nutrients** e **nutricao-canetas**.
 O nutricionista toma as decisões clínicas; a skill executa a prescrição informada,
 confere o cálculo e prepara o documento depois da revisão autorizada.
 
@@ -91,3 +91,13 @@ O pacote fonte verificado nesta versão tem SHA-256
 `8881d2600aba87058a46eafbaa85ec2417c2f348240227993fad7fa8c9b41d1c`.
 Os testes do preparador usam somente conteúdo sintético:
 `python3 -m unittest discover -s tests -p 'test_*.py' -v`.
+
+## Nutrição Canetas
+
+Nome exibido: **Nutrição Canetas**; acionamento: `nutricao-canetas`. Importada da
+skill local dieta-canetas, mantendo o conteúdo clínico e o buscador original.
+Instruções e resumos são distribuídos; textos integrais, páginas, imagens de PDFs
+e banco de busca permanecem privados, fora do plugin. Configure a pasta externa
+em `~/.nutricao-canetas/config.json` com `{"corpus": "/caminho/absoluto"}`;
+o destino padrão é `~/.nutricao-canetas/corpus`. Cada usuário fornece sua cópia
+autorizada. A skill declara a limitação quando as fontes não estão disponíveis.

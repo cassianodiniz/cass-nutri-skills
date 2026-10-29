@@ -1,0 +1,4 @@
+interface:
+  display_name: "Nutrição Canetas"
+  short_description: "Nutrição e prevenção de inadequações com GLP-1"
+  default_prompt: "Use $nutricao-canetas para revisar o cuidado nutricional deste adulto em uso de caneta, incluindo ingestão, sintomas, proteína e suplementação."
