@@ -1,0 +1,48 @@
+PDF_PHYSICAL_PAGE=40
+Capítulo 1 Interpretação de Exames de Importância em Nutrição para Cardiopatias e/ou Hiperlipoproteinemias            11
+
+
+  1.3 CONHECIMENTOS IMPORTANTES NA INTERPRETAÇÃO
+      DE EXAMES PARA SUBSIDIAR UMA MELHOR CONDUTA
+      DIETÉTICA
+
+                             Há uma série de fatores envolvidos na vulnerabi-
+                         lidade que convergem para alterações do perfil lipí-
+                         dico, contribuindo para o acometimento de doenças
+                         cardiovasculares. Quanto maior o número de fatores
+                         de risco e quanto mais jovem for o indivíduo quando
+                         eles surgirem, mais elevadas serão as chances de
+                         desenvolvimento da aterosclerose.
+                             Diante disso, deve-se observar a Tabela 1-1, que
+                         apresenta os principais fatores de risco cardiovascu-
+                         lar, bem como os predisponentes e condicionais.
+                             Como já foi dito, a hipertensão é um dos fatores
+                         que proporcionam o aumento da probabilidade do
+                         desenvolvimento de cardiopatias. No intuito de clas-
+                         sificar se o usuário apresenta ou não hipertensão,
+                         ver as Tabelas 1-2 e 1-3, que demonstram os níveis
+                         de pressão arterial para adultos acima de 18 anos
+
+
+TABELA 1-1. Fatores de risco cardiovascular
+
+  PRINCIPAIS                         PREDISPONENTES                                   CONDICIONAIS
+
+  Tabagismo                          Obesidade (IMC > 30 kg/m²)                       Hipertrigliceridemia
+
+  Hipertensão arterial               Obesidade abdominal (homens                      LDL pequena ou densa
+                                     > 94 cm e mulheres > 80 cm)
+
+  Hipercolesterolemia e              Pouca atividade física                           Hipercolesterolemia
+  aumento de LDL-c
+
+  Baixo HDL-c                        História familiar de doença                      Aumento da lipoproteína
+                                     arterial coronariana prematura
+
+  Diabetes mellitus                  Característica étnica                            Fatores pró-trombóticos
+                                                                                      (fibrinogênio)
+
+  Idade                              Fatores psicossociais                            Marcadores de inflamação
+                                                                                      (proteína C reativa ultrassensível)
+
+Fonte: IV Diretriz de Dislipidemia e Aterosclerose da Sociedade Brasileira de Cardiologia, 2007.

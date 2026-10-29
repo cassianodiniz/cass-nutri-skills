@@ -1,0 +1,39 @@
+PDF_PHYSICAL_PAGE=38
+Capítulo 1 Interpretação de Exames de Importância em Nutrição para Cardiopatias e/ou Hiperlipoproteinemias   9
+
+
+                         Ou, segundo o Adult Treatment Panel III, (ATP III)
+                         > 100 mg/dL.
+                         • Alto risco acentuado: > 170 mg/dL.
+                         • Alto risco moderado: > 130 mg/dL.
+
+                         Limitações e/ou interações
+                            Cálculo válido apenas quando a concentração de
+                         TG é < 400 mg/dL; assim, não pode ser determinado
+                         em plasma ou em soro sem jejum. O ATP III utilizou
+                         também níveis de LDL medidos por método direto da
+                         LDL.
+
+        1.2.4            Triglicérides
+                         Princípios e recomendações
+                            A lipase libera o glicerol e ácidos graxos do
+                         TG; o glicerol é medido em ensaios enzimáticos
+                         automatizados.
+
+                         Interpretação
+                            A associação entre TG e CHD tem sido demons-
+                         trada; pode ser um fator de risco mais importante em
+                         mulheres.
+
+                         Intervalo de referência
+                         • < 160 mg/dL (< 1,8 mmol/L) ou < 150 mg/dL.
+
+                         Limitações e/ou interações
+                            É essencial uma amostra em jejum: a ingestão de
+                         álcool pode aumentar os resultados. Alguns anticoa-
+                         gulantes também afetam os resultados.
+
+        1.2.5            Lipoproteínas
+                         Princípios e recomendações
+                           Medido por uma variedade de técnicas de radioi-
+                         munoensaio.

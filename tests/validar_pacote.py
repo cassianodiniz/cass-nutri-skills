@@ -16,18 +16,19 @@ for p in s.rglob('*'):
   for link in re.findall(r'\]\(([^)]+)\)',p.read_text()):
    if ':' not in link and not link.startswith('#'):assert (p.parent/link.split('#')[0]).exists(),(p,link)
 assert hashlib.sha256((s/'planilha/Planilha de Dieta.xlsm').read_bytes()).hexdigest()==(s/'planilha/HASH.txt').read_text().strip()
+
 book=r/'skills/biodisp-nutrients'
-assert not (book/'references/pages').exists() and not list(book.rglob('*.sqlite3'))
-for p in book.rglob('*.py'):ast.parse(p.read_text())
-print('Pacote Nutri válido: quatro skills, manifestos, Python, planilha e ausência de corpus privado no plugin conferidos.')
-
+assert len(list((book/'references/pages').glob('page-*.md')))==910
 canetas=r/'skills/nutricao-canetas'
-assert not (canetas/'references/pages').exists()
-assert not (canetas/'references/source').exists()
-assert not list(canetas.rglob('*.sqlite3'))
-for p in canetas.rglob('*.py'):ast.parse(p.read_text())
-
+assert len(list((canetas/'references/pages').glob('page-*.md')))==51
+assert len(list((canetas/'references/source').glob('*original.pdf')))==3
 exames=r/'skills/exames-laboratoriais'
-assert not (exames/'references').exists()
-assert not (exames/'assets').exists()
-assert 'display_name: "Exames Laboratoriais"' in (exames/'agents/openai.yaml').read_text()
+assert len(list((exames/'references/pages').glob('page-*.txt')))==273
+assert (exames/'references/source/original.pdf').is_file()
+assert len(list((exames/'assets/page-images').glob('*.png')))==11
+for name in ['biodisp-nutrients','nutricao-canetas','exames-laboratoriais']:
+ for p in (r/'skills'/name).rglob('*.py'):ast.parse(p.read_text())
+for line in (book/'INTEGRITY-SHA256.txt').read_text().splitlines():
+ digest,name=line.split(None,1)
+ assert hashlib.sha256((book/name.strip().removeprefix('./')).read_bytes()).hexdigest()==digest
+print('Pacote completo: quatro skills, 1.234 páginas, PDFs disponíveis e integridade conferidos.')

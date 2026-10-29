@@ -1,0 +1,52 @@
+PDF_PHYSICAL_PAGE=235
+206                                            Capítulo 6 Interpretação de Importância em Nutrição sobre Hemograma
+
+
+
+                 • Valores ↓ de linfócitos totais = linfopenia (+ em
+                    situações de imunossupressão, como na AIDS).
+                 • Valores ↑ de eosinófilos (+ em infecções para­
+                    sitárias por helmintos como áscaris, ancilósto-
+                    mos, enteróbios e estrongiloides e em processos
+                    alérgicos).
+                    A Tabela 6-2 resume as principais alterações na
+                 contagem dos leucócitos.
+
+
+
+TABELA 6-2. Principais alterações das células da série branca e algumas causas
+relacionadas
+
+ CÉLULA              ALTERAÇÃO CELULAR                 CAUSAS QUE PODEM ESTAR RELACIONADAS
+
+ Neutrófilos   ↑ No de células   Neutrofilia           Destruição de tecido, neoplasia, infecções
+                                                       piogênicas, intoxicações, entre outras.
+
+               ↓ No de células   Neutropenia           Anemia perniciosa, deficiência de vit.
+                                                       A, anemia ferropriva, medicamentos,
+                                                       infecções graves, dentre outras.
+
+ Basófilos     ↑ No de células   Basofilia             Anemia hemolítica crônica, leucemia
+                                                       mielóide crônica, varicela, varíola, dentre
+                                                       outras.
+
+ Eosinófilos   ↑ No de células   Eosinofilia           Infecções parasitárias, principalmente por
+                                                       helmintos, doenças elérgicas, dermatoses,
+                                                       dentre outras.
+
+               ↓ No de células   Eosinopenia           Esforço físico extenuante, estados tóxicos,
+                                                       corticosteroides, dentre outras.
+
+ Linfócitos    ↑ No de células   Linfocitose           Leucemia linfocítica e linfomas, infecções
+                                                       crônicas, entre outras.
+
+               ↓ No de células   Linfocitopenia        Estados de imunodeficiência, cirrose
+                                                       hepática, fase inicial de neoplasias, dentre
+                                                       outras.
+
+ Monócitos     ↑ No de células   Monocitose            Infecções por protozoários, leucemia
+                                                       monocítica, certas infecções bacterianas,
+                                                       dentre outras.
+
+               ↓ No de células   Monocitopenia         Desnutrição, fase aguda de processos
+                                                       infecciosos, dentre outras.

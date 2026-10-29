@@ -1,6 +1,6 @@
 # ch01 — Consenso EASO, EFAD e ECPO
 
-Dobbie et al., 2026. Documento principal: 24 páginas físicas. Fonte integral (`../references/chapters/ch01-consenso-europeu-source.md`, no corpus privado).
+Dobbie et al., 2026. Documento principal: 24 páginas físicas. [Fonte integral](../references/chapters/ch01-consenso-europeu-source.md).
 
 ## Ideia central
 

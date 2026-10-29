@@ -7,6 +7,13 @@ description: "Use quando um nutricionista precisar orientar, montar ou revisar a
 
 Base documental: Dobbie et al., EASO/EFAD/ECPO, 2026; Mozaffarian et al., ACLM/ASN/OMA/TOS, 2025; Spreckley, Ruggiero e Brown, 2025/2026. Três fontes, 51 páginas. Criada em 29/10/2026, Brasília.
 
+## Distribuição completa
+
+As fontes e referências acompanham esta skill. Resolva todos os caminhos a partir
+da pasta deste SKILL.md e execute os scripts originais nesta pasta. Não exija
+configuração em pastas externas nem arquivos adicionais do usuário para consultar
+o material incluído. Registros de paciente e saídas continuam fora do plugin.
+
 ## Prioridade clínica
 
 Transforme a redução do apetite em um plano que preserve ingestão de nutrientes, força, função e qualidade de vida. Menor ingestão energética pode coexistir com baixa qualidade alimentar. Investigue especificamente frequência e quantidade de frutas, verduras, legumes, feijões, cereais integrais e fontes proteicas; o uso do medicamento, sozinho, não demonstra o padrão alimentar da pessoa.
@@ -43,34 +50,15 @@ Ao entregar uma orientação, inclua: achados relevantes; plano alimentar compat
 
 A relação aproximada de perda de gordura:massa livre de gordura de 3:1 é ilustrativa, não um teste universal de sucesso. Massa livre de gordura não é sinônimo de músculo. Faixas proteicas, metas de exercício e riscos exigem interpretação; [função e exercício](facts/funcao-exercicio.md) preserva os limites da evidência.
 
-## Corpus privado nesta distribuição
-
-As instruções e resumos estão no plugin; as fontes integrais ficam fora dele.
-Antes de consultar fontes, localize a pasta `corpus` em
-`~/.nutricao-canetas/config.json`. Sem configuração, use
-`~/.nutricao-canetas/corpus/`. Não use caminhos pessoais do autor.
-Confira que a pasta contém `scripts/search_book.py`, `scripts/build_search_index.py`
-e 51 arquivos em `references/pages/page-*.md`. Sem corpus completo, informe a
-limitação e solicite os PDFs ou uma pasta local autorizada; não alegue consulta.
-Para preparar uma pasta fornecida, copie seu conteúdo completo para um destino
-externo confirmado, sem substituir arquivos existentes, e guarde `{"corpus":
-"/caminho/absoluto"}` na configuração externa. Rejeite destino dentro do plugin,
-do cache ou link que resolva para eles. Atualização do plugin não move o corpus.
-Os comandos de busca e reconstrução de índice abaixo rodam **na pasta do corpus
-externo**, com os scripts originais daquela pasta; nunca no cache do plugin.
-Caminhos de fontes privadas nas referências são relativos a esse corpus.
-Os relatórios de validação importados documentam a fonte local; não são novos
-resultados de atendimento ou validação clínica desta distribuição.
-
 ## Consulta às fontes
 
-Para qualquer pergunta exata, comparação ou justificativa quantitativa, execute a partir da pasta do corpus externo:
+Para qualquer pergunta exata, comparação ou justificativa quantitativa, execute a partir desta pasta:
 
 ```bash
 python3 scripts/search_book.py "pergunta completa" --json --comprehensive --limit 100 --per-chapter 100
 ```
 
-Leia as páginas retornadas antes de responder. A busca usa aliases, mapa de menções e SQLite FTS5; se faltar o índice, ele é reconstruído a partir das referências locais. Se o corpus privado estiver ausente, declare a limitação e consulte o PDF original acessível antes de afirmar uma citação ou valor exato. Não confunda página global do índice com página original: ambas estão no cabeçalho do arquivo.
+Leia as páginas retornadas antes de responder. A busca usa aliases, mapa de menções e SQLite FTS5; se faltar o índice, ele é reconstruído a partir das referências locais. Se um arquivo do pacote estiver ausente, declare a falha de instalação antes de afirmar uma citação ou valor exato. Não confunda página global do índice com página original: ambas estão no cabeçalho do arquivo.
 
 O resultado tem `source_scope=book-only`: cobre apenas os três PDFs. Coocorrência de dois conceitos não prova interação ou causalidade. Novas diretrizes, doses e regras locais devem ser verificadas em fontes atuais e identificadas separadamente.
 
@@ -88,11 +76,11 @@ O resultado tem `source_scope=book-only`: cobre apenas os três PDFs. Coocorrên
 - [Glossário](glossary.md): termos e siglas.
 - [Divergências entre fontes](reports/conflitos-entre-fontes.md): antes de comparar recomendações ou atribuir consenso.
 - [Cobertura e proveniência](reports/source-coverage.md): antes de avaliar completude, paginação e suplemento ausente.
-- `references/source/full-text.md` e `references/chapters/*-source.md`: texto integral privado; `references/pages/`: páginas originais, com recuperação visual conferida; `references/search/`: aliases, intervalos e índice local.
+- `references/source/full-text.md` e `references/chapters/*-source.md`: texto integral incluído; `references/pages/`: páginas originais, com recuperação visual conferida; `references/search/`: aliases, intervalos e índice local.
 - `scripts/build_search_index.py`: reconstruir o índice; `scripts/search_book.py`: recuperar a evidência. [Validação](reports/validation.md) registra as verificações realizadas e seus limites.
 
 ## Limites
 
 As fontes tratam principalmente de adultos e contêm muitas recomendações pragmáticas de consenso. Não extrapole automaticamente para crianças, gestação ou condições que exijam protocolo próprio. Não diagnostique deficiência apenas por relato de baixa ingestão. Não apresente a proposta de suplementação vitalícia do artigo de perspectiva como evidência de benefício universal.
 
-Os três PDFs principais estão cobertos; o suplemento online citado pelo consenso europeu não foi fornecido. Preserve o corpus integral como referência privada: o `.gitignore` exclui textos integrais, páginas e banco que os contém de publicação automática. Uma exportação sem fontes precisa informar que a consulta integral exige os PDFs locais.
+Os três PDFs principais estão cobertos; o suplemento online citado pelo consenso europeu não foi fornecido. Os textos integrais, páginas, índice e PDFs fornecidos acompanham o plugin; não é necessário baixar arquivos por fora.

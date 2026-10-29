@@ -1,0 +1,420 @@
+# ch03 | Bridging the nutrition guidance gap for GLP-1 receptor agonist therapy assisted weight loss.pdf | Página original do PDF: 1 | Página global do índice: 49
+
+International Journal of Obesity
+
+PERSPECTIVE
+
+www.nature.com/ijo
+
+OPEN
+
+Epidemiology and Population Health
+
+Bridging the nutrition guidance gap for GLP-1 receptor agonist
+therapy assisted weight loss: lessons from bariatric surgery
+Marie Spreckley1, Cara F. Ruggiero1 and Adrian Brown
+
+2,3,4 ✉
+
+© The Author(s) 2025
+
+1234567890();,:
+
+International Journal of Obesity (2026) 50:265–267; https://doi.org/10.1038/s41366-025-01952-w
+
+INTRODUCTION
+Glucagon-like peptide-1 receptor agonists and combination
+incretin medications (hereafter referred to as GLP-1 RAs) represent
+a paradigm shift in the management of obesity, approaching
+weight loss outcomes comparable to bariatric surgery [1, 2].
+Despite global utilisation, there remain critical clinical and
+research gaps in structured nutritional guidance for their use.
+These gaps present a clinical concern, since GLP-1 RA-induced
+weight loss mirrors several physiological effects of bariatric
+interventions, potentially resulting in signiﬁcant reductions in
+lean mass, micronutrient depletion, altered eating behaviours,
+gastrointestinal symptoms, and gallstone formation [3].
+While physical activity and behavioural interventions are
+integral to long-term weight management, this discussion focuses
+on the currently neglected domain of nutrition in the context of
+GLP-1 RAs. We present a novel perspective by integrating
+evidence on nutritional risks associated with GLP-1 RAs with
+established post-bariatric dietary frameworks, to identify actionable insights and areas of uncertainty, ultimately arguing for the
+urgent development of international GLP-1 RA-speciﬁc nutrition
+guidelines in adult populations (Table 1). References were selected
+through expert consensus based on relevance to obesity
+pharmacotherapy and post-bariatric models of care.
+GLP-1 RA THERAPY INDUCED WEIGHT LOSS: NUTRITIONAL
+RISKS AND LESSONS FROM BARIATRIC SURGERY
+Preservation of lean mass and protein intake
+GLP-1 RAs suppress appetite and reduce food cravings, with trials
+showing up to 22.5% mean weight loss at 72 weeks [1]. Although
+this facilitates signiﬁcant fat mass reduction, an estimated 30–40%
+of weight lost may derive from fat-free mass, which is of particular
+concern for older adults and individuals with sarcopenic obesity
+[4, 5]. While some evidence suggests GLP-1 RAs may spare lean
+mass more effectively than alternative strategies [1], this is not
+universally observed. Loss of skeletal muscle can impair metabolic
+health, diminish physical function, and compromise weight
+maintenance [6]. Drawing on bariatric protocols, high-quality
+protein intake should be prioritised for adults with obesity using
+
+GLP-1 RAs [7], ideally accompanied by resistance training.
+Presently, there is a lack of prospective studies to determine
+optimal protein amounts, though ranges between 0.8–1.6 g/kg/d
+or absolute protein amounts (80–120 g/day), similar to those
+proposed for bariatric surgery, have been proposed [8].
+Therefore, urgent research gaps include ideal dosing during GLP-1
+RA use, and the role of protein and resistance training in minimising
+loss of lean mass. In addition, appropriate measures need to be used
+to assess lean mass and functionality such as dual-energy X-ray
+absorptiometry, nitrogen balance, or handgrip strength. In studies
+focusing on the preservation of muscle mass, direct measurement
+with Magnetic Resonance Imaging should be prioritised.
+Micronutrient deﬁciencies and pre-treatment assessment
+Early satiety, nausea, and changes in food preferences often result
+in reduced dietary variety and diminished intake of essential
+nutrients, including iron, vitamin B12, vitamin D, calcium, and
+thiamine [6, 9]. Although GLP-1 RAs do not induce malabsorption,
+the potential risk of micronutrient insufﬁciencies remains considerable due to low oral intake that may be nutritionally
+inadequate, as supported by recently published evidence [10].
+Unlike bariatric surgery, where preoperative screening for micronutrient deﬁciencies is standard practice [6], no formal consensus
+recommendations currently exist for individuals commencing
+GLP-1 RAs. Baseline nutritional assessments, including dietary
+reviews and biochemical monitoring with a multidisciplinary team,
+are especially important for high-risk groups, particularly older
+adults and people who menstruate. A risk-based approach is
+preferable where feasible. However, routine supplementation with
+a once daily complete multivitamin and mineral supplement
+containing iron, zinc, copper, B12 and folic acid, may offer a
+pragmatic, interim strategy in the absence of standardised
+nutritional screening [7].
+Alterations in eating behaviour and behavioural support
+Patients using GLP-1 RAs may experience changes in eating
+behaviour, including reduced hunger, fewer food cravings, and a
+decrease in binge eating, ‘food noise’, emotional eating, and
+uncontrolled eating [1]. These behavioural adaptations, while
+
+1
+
+MRC Epidemiology Unit, University of Cambridge, Cambridge, UK. 2Centre for Obesity Research, University College London, London, UK. 3Bariatric Centre for Weight
+Management and Metabolic Surgery, University College London Hospital NHS Trust, London, UK. 4National Institute for Health Research, UCLH Biomedical Research Centre,
+London, UK. ✉email: a.c.brown@ucl.ac.uk
+
+Received: 31 March 2025 Revised: 8 October 2025 Accepted: 31 October 2025
+Published online: 15 November 2025
+
+
+---
+
+# ch03 | Bridging the nutrition guidance gap for GLP-1 receptor agonist therapy assisted weight loss.pdf | Página original do PDF: 2 | Página global do índice: 50
+
+M. Spreckley et al.
+
+266
+Table 1.
+
+Nutritional Considerations with GLP-1 RA Therapy vs Bariatric Surgery.
+
+Nutritional
+Parameter
+
+Bariatric Surgery Mechanisms
+
+GLP-1 RA Mechanisms
+
+Bariatric-Based Nutritional Strategies
+
+Lean Mass Loss and
+Sarcopenia
+
+Malabsorption and energy
+restriction accelerate lean mass loss
+
+Energy deﬁcit and reduced
+protein intake contribute to
+lean mass loss
+
+Higher protein intake from high-quality
+sources; early prioritisation of protein;
+monitoring for sarcopenia, especially in
+older adults and those at risk of or with
+sarcopenic obesity. Between 0.8–1.6 g/kg/d
+or absolute protein amounts (80–120 g/day)
+
+Micronutrient
+Deﬁciency
+
+Reduced absorption of iron, B12,
+vitamin D, calcium, thiamine
+
+Reduced intake and possible
+dietary quality due to early
+satiety, nausea, and food
+restrictions
+
+Pre-treatment micronutrient screening;
+routine lifelong complete multivitamin and
+mineral supplementation (including iron,
+B12, calcium, zinc, copper and folic acid);
+proactive monitoring for deﬁciencies every
+6 months
+
+Altered Food
+Preferences
+
+Changes in taste, aversions to
+meats and fats
+
+Decreased interest in nutrientdense foods, especially proteinand fat-rich foods
+
+Behavioural nutrition therapy to address
+food-related cognition, sensory experience,
+and emotional eating; patient education on
+food choices and preferences; referral to
+psychological support, if required.
+
+Gastrointestinal
+Symptoms
+
+Nausea, vomiting, early satiety,
+diarrhoea, dumping syndrome
+
+Nausea, vomiting, constipation,
+particularly during dose
+titration and higher doses
+
+Small, frequent meals; slow eating; ﬂuid
+separation from meals; bland, low-fat foods
+during nausea; consider food containing
+ginger; increase ﬁbre and ﬂuid intake;
+consider use of medication if required.
+
+Gallstone Formation
+
+Rapid weight loss increases risk of
+gallstones due to gallbladder stasis
+and cholesterol supersaturation
+
+Similar rapid weight loss
+trajectories; gallstones may
+form due to similar mechanisms
+
+Moderate fat intake; ensure adequate
+hydration and ﬁbre intake; consider
+ursodeoxycholic acid prophylaxis in highrisk cases, particularly for rapid treatment
+responders
+
+Nutritional
+Monitoring
+
+Regular biochemical surveillance
+and dietitian-led follow- up; routine
+screening for deﬁciencies and
+adjustments
+
+No routine nutritional
+monitoring in clinical practice,
+leading to potential
+undiagnosed deﬁciencies
+
+Implement structured nutritional follow-up
+with regular biochemical testing (e.g., B12,
+iron, calcium); integrate dietetic support
+into clinical pathways, especially for longterm therapy
+
+A comparative overview of physiological mechanisms, nutritional risks, and management strategies in GLP-1 RA Therapy and bariatric surgery, based on
+BOMSS guidance and clinical literature [1, 6–8, 10].
+
+partially responsible for weight loss, could lead to suboptimal
+dietary quality. Nutrition interventions should address foodrelated cognition, sensory experience, and emotional eating.
+Behavioural strategies may improve eating behaviours, dietary
+quality and adherence during GLP-1 RA use, although the longer-term
+psychological and behavioural impacts following medication cessation
+remain poorly understood and warrant further investigation [11].
+Behavioural nutrition support is currently not standard practice when
+prescribing GLP-1 RAs and should be considered a core component of
+care to address unintended dietary and psychological consequences.
+For example, patients frequently report a reduction in intrusive foodrelated thoughts during GLP-1 RA use, referred to in some literature as
+‘food noise’, recently deﬁned and measured using a validated
+questionnaire [12]. Where required, behavioural nutrition support can
+be provided alongside more comprehensive psychological support
+during and after cessation of GLP-1 RA use.
+Behaviour change frameworks such as the Capability, Opportunity, Motivation, Behaviour (COM-B) model can support the
+identiﬁcation of psychological and contextual factors inﬂuencing
+behaviour [13]. Incorporating both COM-B principles and strategies to support food noise suppression into behavioural nutrition
+support may be a promising avenue to improve psychological
+wellbeing and dietary adherence.
+Gastrointestinal symptoms and structured meal practices
+Nausea, vomiting, and constipation are commonly encountered side
+effects associated with GLP-1 RA use, particularly during dose
+titration and at higher doses [1]. Drawing on post-bariatric strategies,
+
+small, frequent meals, slow eating, and ﬂuid separation may help
+mitigate symptoms [7]. Dietary adaptations such as favouring dry,
+low-fat foods during periods of nausea, increasing ﬁbre and ﬂuid
+intake may support treatment adherence. These pragmatic strategies, however, are currently inconsistently communicated to
+patients and remain absent from current GLP-1 RA care models.
+Gallstone risk and prophylactic measures
+Rapid weight loss, irrespective of the mechanism, increases the
+risk of gallstone formation due to gallbladder stasis and
+cholesterol supersaturation. Gallstones occur in 10-30% of patients
+post-bariatric surgery [14], and similar trajectories in GLP-1 RAinduced weight loss suggest comparable susceptibility. Preventative strategies derived from surgical care, including moderating
+dietary fat, ensuring adequate hydration and ﬁbre intake, and
+considering ursodeoxycholic acid in high-risk cases [7], should be
+explored in the context of GLP-1 RA treatment protocols.
+Monitoring and clinical follow-up
+Structured nutritional follow-up, including regular dietary reviews
+and biochemical monitoring, is a hallmark of post-bariatric care [7].
+In contrast, GLP-1 RAs are typically administered with minimal
+ongoing nutritional oversight. Without proactive monitoring,
+clinicians may fail to identify emerging deﬁciencies or suboptimal
+intake, particularly in patients receiving therapy outside specialist
+care settings. Establishing agreed monitoring protocols aligned with
+bariatric standards in consultation with nutrition professionals could
+enhance safety and treatment efﬁcacy in this patient population.
+
+International Journal of Obesity (2026) 50:265 – 267
+
+
+---
+
+# ch03 | Bridging the nutrition guidance gap for GLP-1 receptor agonist therapy assisted weight loss.pdf | Página original do PDF: 3 | Página global do índice: 51
+
+M. Spreckley et al.
+
+267
+A CALL FOR GLP-1 RA THERAPY SPECIFIC NUTRITION
+GUIDELINES AND PROSPECTIVE STUDIES
+The global, continuously growing adoption of GLP-1 RAs across
+public and private healthcare settings necessitates the development of comprehensive, international nutritional consensus
+guidance. Recent publications have begun to address nutritional
+considerations for obesity management medication treatment
+[8, 10], although there remains no global consensus framework for
+dietary screening, intervention, or supplementation for GLP-1 RA
+users. This void can lead to heterogeneity in clinical practice and
+may expose patients to preventable complications.
+Nutrition therapy constitutes a foundational pillar of obesity
+treatment. Its exclusion from clinical GLP-1 RA care represents a
+critical oversight that may compromise patient outcomes. There is
+a need for the formation of an interdisciplinary task force,
+including experts in dietetics, psychology, obesity, endocrinology,
+surgery, and public health, to develop international GLP-1 RAspeciﬁc nutritional consensus guidelines. Guidelines should
+address screening protocols, macronutrient and micronutrient
+requirements, symptom management, behavioural support, and
+long-term follow-up to minimise risk and aid long-term weight
+maintenance. However, implementation challenges, including
+limited access to registered dietitians, lack of reimbursement for
+nutritional counselling, and broader structural inequities, must
+also be addressed to ensure equitable access to care.
+CONCLUSION
+GLP-1 RAs are an important addition to the therapeutic toolkit for
+obesity management. However, their success is contingent not only
+on pharmacological efﬁcacy but on comprehensive wraparound
+clinical support, particularly in nutrition. The physiological consequences of rapid weight loss, including lean mass loss, micronutrient deﬁciencies, altered eating behaviours, gastrointestinal
+symptoms, and gallstones, are well-documented. Clinicians should
+adopt a proactive approach by encouraging adequate protein
+intake and dietary quality, providing practical behavioural nutrition
+support, considering appropriate supplementation, and referring
+patients to registered dietitians. Nutrition must no longer remain a
+missing pillar in obesity management medication care.
+REFERENCES
+1. Brown A, Mellor D, Makaronidis J, Shuttlewood E, Miras AD, Pournaras DJ. From
+evidence to practice” Insights from the multidisciplinary team on the optimal
+integration of GLP-1 receptor agonists in obesity management services. Nutr Bull.
+2024;49:257–263. https://doi.org/10.1111/nbu.12700.
+2. Almandoz JP, Wadden TA, Tewksbury C, Apovian CM, Fitch A, Ard JD, et al.
+Nutritional
+considerations
+with
+anti-obesity
+medications.
+Obesity.
+2024;32:1613–1631. https://doi.org/10.1002/oby.24067.
+3. Arterburn DE, Telem DA, Kushner RF, Courcoulas AP. Beneﬁts and risks of bariatric
+surgery in adults: a review. JAMA. 2020;324:879–887. https://doi.org/10.1001/
+jama.2020.12567.
+4. Prado CMM, Wells JCK, Smith SR, Stephan BCM, Siervo M. Sarcopenic obesity: a
+critical appraisal of the current evidence. Clin Nutr. 2012;31:583–601. https://
+doi.org/10.1016/j.clnu.2012.06.010.
+5. Villareal DT, Apovian CM, Kushner RF, Klein S. American Society for Nutrition;
+NAASO, The Obesity Society. Obesity in older adults: technical review and position statement of the American Society for Nutrition and NAASO, The Obesity
+Society. Am J Clin Nutr. 2005;82:923–934.
+6. Gudzune KA, Huizinga MM, Chang HY, Asamoah V, Gadgil M, Clark JM. Screening
+and diagnosis of micronutrient deﬁciencies before and after bariatric surgery.
+Obes Surg. 2013;23:1581–1589. https://doi.org/10.1007/s11695-013-0919-x.
+7. Parretti H, O’Kane M, Hughes C, Abbott S, Coulman K, Mears R et al. BOMSS postbariatric surgery nutritional guidance for GPs. British Obesity & Metabolic Surgery
+Society.
+Available
+from:
+https://bomss.org/bomss-post-bariatric-surgerynutritional-guidance-for-gps/. (2023). Accessed 28 Oct 2025.
+8. Mozaffarian D, Agarwal M, Aggarwal M, Alexander L, Apovian CM, Bindlish S, et al.
+Nutritional priorities to support GLP-1 therapy for obesity: a joint advisory from
+the American College of Lifestyle Medicine, the American Society for Nutrition,
+
+International Journal of Obesity (2026) 50:265 – 267
+
+the Obesity Medicine Association, and The Obesity Society. Obesity.
+2025;33:1475–1503. https://doi.org/10.1002/oby.24336.
+9. Kushner RF, Batsis JA, Butsch WS, Davis N, Golden A, Halperin F, et al. Weight
+history in clinical practice: the state of the science and future directions. Obesity.
+2020;28:9–17. https://doi.org/10.1002/oby.22642.
+10. Butsch WS, Sulo S, Chang AT, Kim JA, Kerr KW, Williams DR, et al. Nutritional
+deﬁciencies and muscle loss in adults with type 2 diabetes using GLP-1 receptor
+agonists: a retrospective observational study. Obes Pillars. 2025;15:100186.
+https://doi.org/10.1016/j.obpill.2025.100186.
+11. Wadden TA, Chao AM, Tronieri JS. Berkowitz RI. The role of lifestyle modiﬁcation
+with second-generation anti-obesity medications: comparisons, questions, and
+clinical implications. Curr Obes Rep. 2023;12:453–473. https://doi.org/10.1007/
+s13679-023-00534-z.
+12. Diktas HE, Cardel MI, Foster GD, LeBlanc MM, Dickinson SL, Ables EM, et al.
+Development and validation of the Food Noise Questionnaire. Obesity.
+2025;33:289–297. https://doi.org/10.1002/oby.24216.
+13. Michie S, van Stralen MM, West R. The behaviour change wheel: a new method
+for characterising and designing behaviour change interventions. Implement Sci.
+2011;6:42 https://doi.org/10.1186/1748-5908-6-42.
+14. Dai Y, Luo B, Li W. Incidence and risk factors for cholelithiasis after bariatric
+surgery: a systematic review and meta-analysis. Lipids Health Dis. 2023;22:139
+https://doi.org/10.1186/s12944-023-01774-7.
+
+AUTHOR CONTRIBUTIONS
+MS, CR and AB jointly developed the concept and approach for the manuscript. MS
+led the writing and literature synthesis. All authors contributed to reviewing, revising,
+and ﬁnalising the manuscript, and approved the ﬁnal version for submission.
+
+FUNDING
+AB is funded by the National Institute for Health Research with an Advanced
+Fellowship. The funders were not involved in the design and conduct of the review,
+analysis, and interpretation of the data; preparation, review, or approval of the
+manuscript; and decision to submit the manuscript for publication. CFR is supported
+by the Medical Research Council (MC_UU_00006/6).
+
+COMPETING INTERESTS
+MS and CR declare no conﬂicts of interest. AB declares researcher-led grants from the
+National Institute for Health Research, Rosetrees Trust, MRC, INNOVATE UK, British
+Dietetic Association, British Association of Parenteral and Enteral Nutrition, BBRSC,
+the Ofﬁce of Health Improvement and Disparities and Novo Nordisk. AB reports
+honoraria from Novo Nordisk, Eli Lilly, Nutricia and Mac Nutrition outside the
+submitted work and is on the Medical Advisory Board and shareholder of Reset
+Health Clinics Ltd.
+
+ADDITIONAL INFORMATION
+Correspondence and requests for materials should be addressed to Adrian Brown.
+Reprints and permission information is available at http://www.nature.com/
+reprints
+Publisher’s note Springer Nature remains neutral with regard to jurisdictional claims
+in published maps and institutional afﬁliations.
+
+Open Access This article is licensed under a Creative Commons
+Attribution 4.0 International License, which permits use, sharing,
+adaptation, distribution and reproduction in any medium or format, as long as you give
+appropriate credit to the original author(s) and the source, provide a link to the Creative
+Commons licence, and indicate if changes were made. The images or other third party
+material in this article are included in the article’s Creative Commons licence, unless
+indicated otherwise in a credit line to the material. If material is not included in the
+article’s Creative Commons licence and your intended use is not permitted by statutory
+regulation or exceeds the permitted use, you will need to obtain permission directly
+from the copyright holder. To view a copy of this licence, visit http://
+creativecommons.org/licenses/by/4.0/.
+
+© The Author(s) 2025

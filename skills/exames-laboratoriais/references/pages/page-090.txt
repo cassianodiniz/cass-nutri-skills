@@ -1,0 +1,44 @@
+PDF_PHYSICAL_PAGE=90
+Capítulo 2 Interpretação de Exames de Importância em Nutrição para Diabetes Mellitus                 61
+
+
+                         os primeiros 2 a 3 meses e a verificação da glicose
+                         sérica do paciente.
+
+                         Intervalo de referência
+                         • 70 a 12 mg/dL (3,9 a 6,7 mmol/L) de glicose san-
+                           guínea.
+                         • Níveis normais: 1% a 2% da proteína total.
+                         • Níveis normais: 5,7 a 7,5 de hemoglobina glicosada.
+
+                         Limitações e/ou interações
+                             Uma combinação da monitoração da glicose (pelo
+                         paciente) e medidas laboratoriais da proteína glicosa-
+                         da são necessárias para monitorar efetivamente o con-
+                         trole da glicose; a frutosamina deve ser interpretada à
+                         luz da meia-vida das proteínas plasmáticas, e o HbA1c
+                         deve ser interpretado à luz da meia-vida da hemácia.
+
+
+  2.4 CONHECIMENTOS IMPORTANTES NA INTERPRETAÇÃO
+      DE EXAMES PARA SUBSIDIAR UMA MELHOR CONDUTA
+      DIETÉTICA
+
+                            A triagem em indivíduos assintomáticos quanto
+                         ao risco de diabetes mellitus (DM) tipo 2 encontra-se
+                         descrita no Quadro 2-1.
+                            Após o passo descrito anteriormente, devem-se
+                         analisar os fatores de risco para DM tipo 2, conforme
+                         Quadro 2-2.
+
+QUADRO 2-1. Triagem em indivíduos assintomáticos quanto ao risco de (DM) tipo 2
+
+    1. Idade maior ou igual a 45 anos, ambos os sexos, sem fatores de risco para DM tipo
+       2 → fazer glicemia de jejum. Se o valor estiver dentro da faixa de referência estipulada,
+       repetir a cada 3 anos. Se o valor estiver fora desta faixa, prosseguir com a investigação.
+    2. Independentemente de faixa etária para ambos os sexos, mas com fatores de risco para
+       DM tipo 2 → fazer a glicemia de jejum mais frequente ou fazer o teste de tolerância oral
+       à glicose (TTOG). Se o valor estiver dentro da faixa de referência estipulada, repetir pelo
+       menos a cada ano. Se o valor estiver fora desta faixa, prosseguir com a investigação.
+
+Fonte: Consenso Diabetes, 2002.

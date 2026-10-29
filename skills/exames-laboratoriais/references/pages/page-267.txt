@@ -1,0 +1,56 @@
+PDF_PHYSICAL_PAGE=267
+238                                                           Capítulo 8 Exames Laboratoriais na Prática do Nutricionista
+
+
+
+TABELA 8-5. Quantidade de proteína na dieta que auxilia o controle da taxa de
+filtração glomerular (TFG), valores de ácido úrico, ureia e creatinina
+
+  TFG                     PROTEÍNA                         REFERÊNCIAS
+
+  > 70 mL/min             0,8 a 1,0 g/kg/dia               Expert Working Group Report on Nutrition
+                                                           (Toigo et al., 2000a; 2000b),
+
+  > 55 mL/min             0,8 g/kg/dia                     National Institutes of Diabetes and Digestive
+                                                           and Kidney Diseases (NIDDKD) (In: Mahan &
+                                                           Escott-Stump, 2013)
+
+  < 50 mL/min             0,6 a 0,8 g/kg/dia               American Dietetic Association (2010)
+
+  25 a 70 mL/min          0,55 a 0,6 g/kg/dia              European Society for Clinical Nutrition and
+                                                           Metabolism (ESPEN) (Cano et al., 2009)
+
+  25 a 55 mL/min          0,6 g/kg/dia                     National Institutes of Diabetes and Digestive
+                                                           and Kidney Diseases (NIDDKD) (In: Mahan &
+                                                           Escott-Stump, 2010)
+
+  < 25 mL/min             0,6 a 0,75 g/kg/dia              National Kidney Foundation (NFK/DOQI, 2000)
+
+                          0,55 a 0,6 g/kg/dia              European Society for Clinical Nutrition and
+                          OU                               Metabolism (ESPEN)
+                          0,28 g proteína/kg/dia           (Cano et al., 2009)
+                          suplementada com uma
+                          mistura de cetoanálogos
+                          e aminoácidos essenciais
+
+  DRC + diabetes          0,8 a 0,9 g/kg/dia               American Dietetic Association (2010)
+                                                           NFK/DOQI (2007)*
+
+  Hemodiálise             1,2 g/kg/dia                     NFK/DOQI (2000)
+                                                           EBPG Guideline on Nutrition
+  Diálise peritoneal      1,2 a 1,4 g/kg/dia
+                                                           (Fouque et al., 2007)
+                                                           (Fouque et al. (2008)
+
+  Pós-transplante         1,3 a 1,5 g/kg/dia               Nutrition for the post-renal transplant
+  imediato                                                 recipients (Martins; Pecoits-Filho; Riella,
+                                                           2004)
+
+  Pós-transplante         1,0 g/kg/dia**                   Nutrition for the post-renal transplant
+  tardio                  0,8 a 1,0 g/kg/dia               recipients (Martins; Pecoits-Filho; Riella,
+                                                           2004)
+                                                           American Dietetic Association (2010)
+
+Garantir ao menos 50% de proteínas AVB (alto valor biológico).
+* Ofertar 0,6 g/kg/dia caso se observe redução acentuada e rápida da TFG.
+** Ofertar 0,6 a 0,8 g/kg/dia se houver rejeição crônica do enxerto.

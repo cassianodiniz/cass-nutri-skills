@@ -1,0 +1,32 @@
+{
+  "topics": [
+    {"canonical": "vitamina-a", "label": "Vitamina A", "home_chapter": "ch10", "aliases": ["vitamina A", "retinol", "retinal", "ácido retinoico", "beta-caroteno", "β-caroteno", "carotenoides"]},
+    {"canonical": "vitamina-d", "label": "Vitamina D", "home_chapter": "ch11", "aliases": ["vitamina D", "calciferol", "colecalciferol", "ergocalciferol", "25-hidroxivitamina D"]},
+    {"canonical": "vitamina-e", "label": "Vitamina E", "home_chapter": "ch12", "aliases": ["vitamina E", "tocoferol", "alfa-tocoferol", "α-tocoferol", "tocopherol", "tocotrienol", "tocotrienóis"]},
+    {"canonical": "vitamina-k", "label": "Vitamina K", "home_chapter": "ch13", "aliases": ["vitamina K", "filoquinona", "menaquinona"]},
+    {"canonical": "vitamina-c", "label": "Vitamina C", "home_chapter": "ch14", "aliases": ["vitamina C", "ácido ascórbico", "ascorbato"]},
+    {"canonical": "vitamina-b1", "label": "Vitamina B1", "home_chapter": "ch15", "aliases": ["vitamina B1", "tiamina"]},
+    {"canonical": "vitamina-b2", "label": "Vitamina B2", "home_chapter": "ch16", "aliases": ["vitamina B2", "riboflavina"]},
+    {"canonical": "vitamina-b6", "label": "Vitamina B6", "home_chapter": "ch17", "aliases": ["vitamina B6", "piridoxina", "piridoxal"]},
+    {"canonical": "niacina", "label": "Niacina", "home_chapter": "ch18", "aliases": ["niacina", "vitamina B3", "ácido nicotínico", "nicotinamida"]},
+    {"canonical": "folato", "label": "Folato", "home_chapter": "ch19", "aliases": ["folato", "ácido fólico", "vitamina B9"]},
+    {"canonical": "vitamina-b12", "label": "Vitamina B12", "home_chapter": "ch20", "aliases": ["vitamina B12", "vitamina B 12", "cobalamina", "metilcobalamina"]},
+    {"canonical": "biotina", "label": "Biotina", "home_chapter": "ch21", "aliases": ["biotina", "vitamina B7"]},
+    {"canonical": "acido-pantotenico", "label": "Ácido pantotênico", "home_chapter": "ch21", "aliases": ["ácido pantotênico", "vitamina B5"]},
+    {"canonical": "colina", "label": "Colina", "home_chapter": "ch22", "aliases": ["colina", "fosfatidilcolina"]},
+    {"canonical": "calcio", "label": "Cálcio", "home_chapter": "ch24", "aliases": ["cálcio"]},
+    {"canonical": "fosforo", "label": "Fósforo", "home_chapter": "ch25", "aliases": ["fósforo", "fosfato"]},
+    {"canonical": "magnesio", "label": "Magnésio", "home_chapter": "ch26", "aliases": ["magnésio"]},
+    {"canonical": "ferro", "label": "Ferro", "home_chapter": "ch27", "aliases": ["ferro", "ferritina", "ferro heme", "ferro não heme"]},
+    {"canonical": "cobre", "label": "Cobre", "home_chapter": "ch28", "aliases": ["cobre", "ceruloplasmina"]},
+    {"canonical": "zinco", "label": "Zinco", "home_chapter": "ch29", "aliases": ["zinco"]},
+    {"canonical": "selenio", "label": "Selênio", "home_chapter": "ch30", "aliases": ["selênio", "selenoproteína", "selenometionina", "selenocisteína"]},
+    {"canonical": "iodo", "label": "Iodo", "home_chapter": "ch31", "aliases": ["iodo", "iodeto"]},
+    {"canonical": "manganes", "label": "Manganês", "home_chapter": "ch32", "aliases": ["manganês"]},
+    {"canonical": "boro", "label": "Boro", "home_chapter": "ch33", "aliases": ["boro"]},
+    {"canonical": "cromo", "label": "Cromo", "home_chapter": "ch34", "aliases": ["cromo"]},
+    {"canonical": "molibdenio", "label": "Molibdênio", "home_chapter": "ch35", "aliases": ["molibdênio"]},
+    {"canonical": "fibra", "label": "Fibra alimentar", "home_chapter": "ch09", "aliases": ["fibra alimentar", "fibras alimentares", "fibra"]},
+    {"canonical": "fitato", "label": "Fitato", "home_chapter": "ch09", "aliases": ["fitato", "ácido fítico", "fitatos"]}
+  ]
+}

@@ -1,0 +1,50 @@
+PDF_PHYSICAL_PAGE=67
+38                    Capítulo 1 Interpretação de Exames de Importância em Nutrição para Cardiopatias e/ou Hiperlipoproteinemias
+
+
+
+TABELA 1-11. Mapa conceitual para estudo de caso
+
+ PERFIL DO
+ PACIENTE                HISTÓRICO MÉDICO               DADOS LABORATORIAIS                       CONDUTA DIETÉTICA
+
+ Homem, com 94           Paciente com                   30/09/2008                                Via de
+  anos de idade,           provável quadro              – Sódio: 143 mEq/L                          administração
+  deu entrada              de insuficiência               (normal); Normal: 135 a                   oral;
+  no HULW dia              cardíaca                       145 mEq/L                               Nutrientes:
+  29/09/2008;              congestiva,                  – Potássio: 4,8 mEq/L                       macronutrientes
+  apresenta dor            apresentando                   (normal); Normal: 4,5 a                   normais
+  abdominal;               anemia e dor                   5,1 mEq/L                                 (DRIs, 2002),
+  paciente                 abdominal há 1               – Colesterol total: 276,5                   hipossódica;
+  evolui estável;          ano e 3 meses.                 mg/dl (alto risco);                     Seleção de
+  deambulando;           Endoscopia                       Desejável: < 200 mg/dL                    ácidos graxos:
+  com apetite              digestiva alta               – Triglicerídios: 112,6 mg/                 monoinsaturados,
+  e sono                   detectou H.                    dL (normal); Normal:                      poli-insaturados e
+  preservados;             pylori.                        < 160 mg/dL                               saturados;
+  diurese                Quadro de                      – LDL: 213,5 mg/dL (alto                  Consistência
+  normal.                  sangramento                    risco); Desejável: < 130                  branda;
+                           digestivo.                     mg/dL                                   Fracionamento em
+                         Observaram-se                  – HDL: 40,5 mg/dL                           6 refeições;
+                           fezes escuras,                 (desejável); Desejável:                 Horários: 3 em 3
+                           constatando                    > 35 mg/dL                                horas.
+                           sangue oculto.               – Albumina: 3,4 mg/dL
+                         PA: 140/90 mmHg.                 (baixo); Normal: 3,5 a
+                                                          5 g/dL
+                                                        – Glicemia de jejum = 110
+                                                          mg/dL (pré-diabético).
+
+
+
+
+TABELA 1-12. Continuação do mapa conceitual para estudo de caso
+
+                                                                                      CÁLCULO DAS NECESSIDADES
+ DADOS ANTROPOMÉTRICOS                    AVALIAÇÃO NUTRICIONAL                       CALÓRICAS
+
+ Peso atual: 57 kg;                       Sem riscos de complicações                  TMB: 1.117,3 kcal;
+ Peso usual: 65 kg;                         metabólicas quanto ao                     VET: 1.815,61 kcal.
+ Altura: 1.60 m;                            estado nutricional;
+ IMC: 22,26 kg/m2;                        IMC e PCT adequados;
+ MC: 89 cm;                               CMB com depleção leve.
+ PCT: 11,2 mm;
+ CB: 25,5 cm.

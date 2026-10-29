@@ -1,0 +1,41 @@
+PDF_PHYSICAL_PAGE=36
+Capítulo 1 Interpretação de Exames de Importância em Nutrição para Cardiopatias e/ou Hiperlipoproteinemias   7
+
+
+		Estocagem e manipulação da amostra
+                            O tempo e a temperatura de acondicionamento da
+                         amostra coletada, bem como os passos da prepara-
+                         ção do soro, plasma ou separação de células usando
+                         técnicas de gradiente de densidade, podem introduzir
+                         uma variável pré-analítica.
+                            O soro não deve ter contato com células dentro
+                         de 3 h após a coleta. (Fonte: III Diretrizes Brasileiras
+                         sobre Dislipidemias e Diretriz de Prevenção de
+                         Aterosclerose do Departamento de Aterosclerose da
+                         Sociedade Brasileira de Cardiologia).
+
+
+  1.2 PRINCÍPIOS, RECOMENDAÇÕES, INTERPRETAÇÕES E
+      LIMITAÇÕES DE EXAMES
+
+
+        1.2.1            Colesterol
+                         Princípios e recomendações
+                            O colesterol é enzimaticamente liberado do éster
+                         do colesterol, e o colesterol livre é medido em ensaios
+                         enzimáticos automatizados.
+
+                         Interpretação
+                            O colesterol total é correlacionado ao risco de
+                         doenças cardiovasculares, mas não é um bom indica-
+                         dor de HDL e LDL.
+
+                         Intervalo de referência
+                         • Desejável: < 200 mg/dL (< 5,2 umol/L).
+                         • Limítrofe: 200 a 239 mg/dL (5,2 a 6,2 umol/L).
+                         • Alto risco: > 240 mg/dL (> 6,2 umol/L).
+
+                         Limitações e/ou interações
+                             As medidas de colesterol têm considerável varia-
+                         bilidade individual. Podem resultar parcialmente de
+                         variabilidade na coleta ou manuseio da amostra.

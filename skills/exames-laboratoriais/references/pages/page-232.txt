@@ -1,0 +1,45 @@
+PDF_PHYSICAL_PAGE=232
+Capítulo 6 Interpretação de Importância em Nutrição sobre Hemograma      203
+
+
+                            Le et al. (2006) estudaram crianças com média de
+                        idade de 87,3 ± 10,3 meses e deficiência de ferro e
+                        verificaram que a prevalência da anemia diminuiu sig-
+                        nificativamente nos grupos que consumiram alimen-
+                        tos fortificados, com maior diminuição no grupo que
+                        recebeu alimentos fortificados com ferro e mebenda-
+                        zol (Fe + MEB), 9,7%, e suplementação com 2 mg de
+                        sulfato ferroso e mebendazol (Fe + comprimido MEB).
+                        A concentração de hemoglobina aumentou em ambos
+                        os grupos, de forma mais pronunciada no grupo Fe +
+                        MEB. No entanto, o risco de permanecerem anêmicos
+                        foi reduzido consideravelmente em ambos os grupos
+                        de estudo fortificados e suplementados. A fortificação
+                        do alimento parece ter maior efeito benéfico sobre a
+                        redução da anemia em relação à suplementação com
+                        sulfato ferroso.
+                            A anemia por doença crônica (ACD), também cha-
+                        mada de anemia “da inflamação”, é a anemia mais
+                        prevalente em pacientes hospitalizados. A ACD se
+                        desenvolve em indivíduos com doenças agudas que
+                        envolvem a ativação imune crônica, em pacientes
+                        com infecções, neoplasias ou doenças autoimunes.
+                        A diferença entre a ACD e a anemia por deficiência
+                        de ferro (IDA) é clinicamente importante porque a
+                        suplementação de ferro para pacientes com ACD
+                        que apresentam infecções e doenças malignas po-
+                        dem ter efeitos prejudiciais resultantes do aumento
+                        do processo infeccioso e da promoção de ferro em
+                        células tumorais e microrganismos e efeitos negativos
+                        do ferro sobre a função imune inata. Em contraste, os
+                        pacientes com IDA necessitam de ferro para realizar
+                        metabolismo basal e eritropoiese. No entanto, muitos
+                        pacientes apresentam tanto ACD quanto IDA, sen-
+                        do a última resultante da perda de sangue crônica.
+                        Indivíduos com ACD/IDA têm significativamente níveis
+                        mais baixos de hepcidina do que pacientes com ACD,
+                        e pessoas com ACD/IDA, em contraste com pacientes
+                        com ACD, foram capazes de absorver ferro da dieta
+                        pelo intestino e mobilizar ferro de macrófagos. Níveis
+                        circulantes de hepcidina afetam o tráfego de ferro na
+                        ACD e na ACD/IDA e são mais sensíveis às exigências

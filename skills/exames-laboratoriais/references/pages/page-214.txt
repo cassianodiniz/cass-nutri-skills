@@ -1,0 +1,36 @@
+PDF_PHYSICAL_PAGE=214
+TABELA 5-1. Títulos/valores de referência utilizados na avaliação do estado vitamínico bioquímico
+                                                      RISCO DE DEFICIÊNCIA VITMÍNICA ELEVADA                                 RISCO DE DEFICIÊNCIA VITAMÍNICA SUBCLÍNICA
+
+                                            VALORES DE                HOMENS                  MULHERES                VALORES DE                 HOMENS         MULHERES
+
+                                            REFERÊNCIA            N            %            N            %            REFERÊNCIA             N            %    N          %
+
+  VITAMINA B1
+
+  • α-ETK                                      >1,20              1           0,7            4           2,2           1,10 a 1,20          30        19,4     48     26,7
+  • TPP (ng/mL)                                 < 60             12           7,8           13           7,2             60 a 80            20        12,9     48     26,7
+  VITAMINA B2
+
+  • α-EGR                                      >1,20              1           0,6            2           1,1           1,10 a 1,20          29        18,7     42     23,3
+  VITAMINA B6
+                                                                                                                                                                                Capítulo 5 Interpretação Metabólica sobre Deficiências Vitamínicas
+
+
+
+
+  • α-EGR                                      >1,80             47           30,7          61          34,1                 –               –            –    –          –
+  • PLP plasmático (nmol)                       < 40             37           20,0          38          21,2                 –               –            –    –          –
+  VITAMINA C
+
+  • Ácido ascórbico sérico (mg/L)              < 0,20             0            0             0            0            0,20 a 0,80          31            20   14         7,8
+  VITAMINA A
+
+  • Retinol sérico (mg/L)                      < 0,40             0            0             5           2,8           0,40 a 0,60           5        3,2      14         7,8
+  VITAMINA E
+
+  • α-tocoferol sérico (mg/L)                    <4               2           1,3            1           0,6                 –               –            –    –          –
+  VITAMINA B12                                 < 150              0            0             0            0                  –               –            –    –          –
+  FOLATOS < 3 (ng/mL)                             0               0            0             0            –                  –               –            –    –
+                                                                                                                                                                                185
+Fonte: Costa MJC, Guiland JC, Morrau D, Boggio V, Fishes F. Vitamin status of health sbject in burgundi (France). Ann Nutr Metab. 1996; 40:24-51.

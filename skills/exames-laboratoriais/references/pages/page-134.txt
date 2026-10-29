@@ -1,0 +1,39 @@
+PDF_PHYSICAL_PAGE=134
+Capítulo 3 Interpretação de Exames de Importância em Nutrição para Doença Renal   105
+
+
+  3.1 INTERVALO DE REFERÊNCIA, CAUSAS E SIGNIFICADO
+      DE VALORES ANORMAIS
+
+
+
+            3.2         Ácido úrico
+                        Intervalo de referência
+                        2,5 a 8,0 mg/dL.
+
+                        Causas/significado de valores anormais
+                        Produto do metabolismo das purinas.
+                        ↓ na gota, insuficiência renal.
+
+ 3.3 Clearance de creatinina/ritmo de filtração
+		glomerular
+                        Intervalo de referência
+                        75 a 120 mL/min.
+                        Diálise: < 10 mL/min para não diabéticos e < 15 mL/
+                        min para diabéticos.
+
+                        Causas/significado de valores anormais
+                           Mede o ritmo de filtração glomerular, influencia-
+                        do pela ingestão de proteínas, principalmente de
+                        carnes.
+                           ↓ na insuficiência renal.
+
+            3.4         Creatinina (creat)
+                        Intervalo de referência
+                        Valor de referência: 0,5 a 1,2 mg /dL (idoso até 1,6).
+                        Transplante: 0,6 a 1,2 mg/dL.
+                        Diálise: 7 a 12 mg/dL. (de acordo com a massa mus-
+                           cular e função renal residual)
+                        Sem função renal: 10 a 12 mg/dL.
+                        Superior a 2 mg/dL indica insuficiência renal.
+                        Superior a 10 mg/dL indica insuficiência renal crônica.

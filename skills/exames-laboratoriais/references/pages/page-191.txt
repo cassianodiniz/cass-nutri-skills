@@ -1,0 +1,48 @@
+PDF_PHYSICAL_PAGE=191
+162                              Capítulo 4 Interpretação Metabólica sobre Exames de Importância nas Doenças Hepáticas
+
+
+
+TABELA 4-8. Dados de avaliação nutricional e necessidades calóricas do paciente
+
+                                          AVALIAÇÃO                            CÁLCULO DAS
+ DADOS ANTROPOMÉTRICOS                    NUTRICIONAL                          NECESSIDADES CALÓRICAS
+
+ Peso Atual (ascítico): 71,5kg            Risco de complicações                TMB: 1.212,5 kcal;
+ Peso Seco Estimado: 47,5kg (               metabólicas quanto ao              VET (regra de bolso): 1.650
+   referente a–24 kg para paciente          estado nutricional;                  kcal.
+   com ascite grave e edema)              De acordo com o IMC,                 VET (Harris Benedict): 2.255
+ Peso Usual: 60 kg; altura: 1,67 m;         o paciente encontra-                 kcal
+   IMC: 17 kg/m2;                           se em estado de                    Média utilizada para o
+ Dobra Bicipital: 6 mm                      magreza para idosos                  cálculo da dieta: 1.952,5
+ Circunferência do braço: 20 cm             (OMS);                               kcal
+ Circunferência de cintura: 110cm         CB com depleção grave;
+ CB: 25,5 cm.
+
+
+
+		Alertas/diagnóstico ou problemas nutricionais
+                  •   Alergia alimentar – Não
+                  •   Apetite – Não (apetite inconstante)
+                  •   Náuseas/vômitos – Sim (diariamente)
+                  •   Constipação – Não
+                  •   Diarreia – Sim (sanguinolenta)
+                  •   Dificuldade de mastigação – Sim
+                  •   Disfagia – Não
+                  •   Odinofagia – Não
+                  •   Febre – Não
+                  •   Pressão alta – Não
+                  •   Confinado ao leito – Sim (devido ao grave edema e
+                      ascite)
+
+		Plano terapêutico nutricional
+                  • Reduzir a ingestão de açúcares simples;
+                  • Aumentar ingestão de carboidratos complexos;
+                  • Aumentar o consumo de frutas e verduras ricos em
+                    fibras solúveis (dieta constipante);
+                  • Fracionar as refeições 6 vezes ao dia conforme
+                    adequação alimentar;
+                  • Reduzir a ingestão de sódio;
+                  • Aumentar a ingestão de alimentos hipolipemiantes;
+                  • Diminuir a ingestão de gordura saturada e aumen-
+                    tar consumo de ômegas 6 e 3.

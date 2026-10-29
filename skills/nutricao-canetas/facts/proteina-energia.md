@@ -29,4 +29,4 @@ E pp.5,9-10: doença renal e outras condições podem exigir metas diferentes e 
 
 E p.4 individualiza energia; calorimetria indireta quando útil e viável, equações como Mifflin–St Jeor com peso atual como alternativa. Não confundir a base energética com o peso ajustado usado para proteína. Os PDFs não estabelecem uma meta energética única para toda pessoa usando caneta.
 
-Fontes integrais: E (`../references/chapters/ch01-consenso-europeu-source.md`, no corpus privado), A (`../references/chapters/ch02-advisory-americano-source.md`, no corpus privado), B (`../references/chapters/ch03-ponte-bariatrica-source.md`, no corpus privado).
+Fontes integrais: [E](../references/chapters/ch01-consenso-europeu-source.md), [A](../references/chapters/ch02-advisory-americano-source.md), [B](../references/chapters/ch03-ponte-bariatrica-source.md).

@@ -5,27 +5,16 @@ description: "Use quando for necessário consultar conceitos, valores histórico
 
 # Exames Laboratoriais
 
+## Distribuição completa
+
+As fontes e referências acompanham esta skill. Resolva todos os caminhos a partir
+da pasta deste SKILL.md e execute os scripts originais nesta pasta. Não exija
+configuração em pastas externas nem arquivos adicionais do usuário para consultar
+o material incluído. Registros de paciente e saídas continuam fora do plugin.
+
 ## Escopo
 
 Esta skill consulta uma fonte de 2013. Ela recupera o que o livro declara; não valida atualidade clínica, não diagnostica e não substitui intervalo fornecido pelo laboratório, diretriz vigente ou avaliação profissional.
-
-## Fontes privadas nesta distribuição
-
-O livro, a base de tabelas verificadas e as imagens de revisão ficam privados,
-fora do plugin. Localize o corpus por `~/.exames-laboratoriais/config.json`, campo
-`corpus` (caminho absoluto). Sem configuração, use `~/.exames-laboratoriais/corpus/`.
-Todos os caminhos `references/`, `assets/`, `scripts/` e `DECISION_LOG.md` abaixo
-se referem a essa pasta externa, não à pasta instalada desta skill.
-
-Antes da consulta, rode `python3 scripts/verify_package.py` **na pasta externa**.
-Só prossiga se passar. Sem arquivos ou com falha de conferência, informe a
-limitação e peça uma pasta completa autorizada do usuário; não invente valores
-nem confunda corpus ausente com ausência no livro. Para preparar uma pasta
-fornecida, copie-a para um destino externo confirmado e grave o campo `corpus`
-na configuração externa, sem substituir um destino existente. Não guarde corpus
-no plugin/cache nem em link que resolva para eles. Cada usuário fornece sua cópia.
-Atualizar o plugin preserva esses arquivos externos. Execute os scripts originais
-da pasta externa, sem substituir os motores nem copiar tabelas para o GitHub.
 
 ## Fluxo obrigatório
 

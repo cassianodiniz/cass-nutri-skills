@@ -1,0 +1,46 @@
+PDF_PHYSICAL_PAGE=225
+196                      Capítulo 6 Interpretação de Importância em Nutrição sobre Hemograma
+
+
+
+          Os índices eritrocíticos dados no hemograma são:
+      VCM, HCM e CHCM.
+          O volume corpuscular médio (VCM), geralmente
+      dado em fentolitros (fL), é uma medida média do
+      tamanho dos eritrócitos, obtida dividindo-se o valor
+      do hematócrito pela contagem de eritrócitos. Dentre
+      os principais fatores que podem aumentar o VCM
+      (macrocitose), podemos citar: deficiência de folato ou
+      de vitamina B12, hepatopatia crônica, quimioterapia
+      citotóxica, reticulocitose e alcoolismo crônico. Nessas
+      carências juntas o valor médio pode ser normal, apre-
+      sentando uma falsa normalidade no hemograma, pois
+      existe anisocitose, ou seja, diferentes tamanhos celu-
+      lares. Há também as anemias normocíticas presentes
+      em doenças e infecções crônicas.
+          As causas mais comuns de diminuição do VCM
+      (microcitose) são: deficiência crônica de ferro, ane-
+      mias crônicas e alfa e betatalassemia.
+          A hemoglobina corpuscular média (HCM) indica
+      a quantidade (peso) de hemoglobina em média no
+      eritrócito. Quando diminui, pode refletir anemia.
+      Valores normais: 28% a 32%. Reticulócito = hemácia
+      proveniente da medula, recentemente lançada no
+      sangue. Valores altos nas anemias hemolíticas ou
+      carenciais após o consumo de ferro. Valores baixos
+      nas anemias aplásicas mesmo com valores de ferro
+      normais.
+          A concentração de hemoglobina corpuscular
+      mé­ dia (CHCM) representa a concentração média
+      de hemoglobina no eritrócito. Valores abaixo dos de
+      referência são geralmente dados por deficiência de
+      ferro, enquanto valores aumentados são sugestivos
+      de hemólise intravascular, lipemia grave, esferocitose
+      (eritrócitos redondos que carecem da palidez central)
+      e tabagismo inveterado.
+          Todos os parâmetros da série vermelha do hemo-
+      grama já descritos anteriormente, se analisados de
+      maneira adequada, permitem o diagnóstico de várias
+      doenças que levem à alteração da quantidade de
+      hemoglobinas, hematócritos ou eritrócitos, dentre as
+      quais podemos citar a anemia.

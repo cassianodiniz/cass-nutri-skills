@@ -1,0 +1,47 @@
+PDF_PHYSICAL_PAGE=182
+Capítulo 4 Interpretação Metabólica sobre Exames de Importância nas Doenças Hepáticas                    153
+
+
+TABELA 4-4. Intervalo de referência da AST
+
+  AST                                                                         INTERVALOS DE REFERÊNCIA
+
+  Mulheres                                                                              31 U/L
+
+  Homens                                                                                37 U/L
+
+Fonte: Krause, 2005.
+
+
+
+                            A aspartato aminotransferase (AST), também deno-
+                        minada transaminase glutâmico-pirúvica (TGP), é uma
+                        enzima que catalisa a reação aspartato + alfa-quero-
+                        glutarato = piruvato + glutamato. É encontrada em altas
+                        concentrações no citoplasma e nas mitocôndrias do
+                        fígado, músculo esquelético e cardíaco, rins, pâncreas
+                        e eritócitos (glóbulos vermelhos do sangue); quando
+                        qualquer um desses tecidos é danificado, a AST é libe-
+                        rada no sangue. Como não há um método laboratorial
+                        para saber qual a origem da AST encontrada no san-
+                        gue, o diagnóstico da causa do seu aumento deve levar
+                        em consideração a possibilidade de lesão em qual­quer
+                        um dos órgãos onde é encontrada (Tabela 4-4).
+                            Deve-se considerar, também, a influência de al-
+                        guns medicamentos sobre os níveis de TGO e TGP.
+                        Alguns medicamentos utilizados pela paciente em
+                        estudo possuem este efeito sobre os níveis séricos
+                        dessas enzimas.
+
+     4.15.4             Proteína total e albumina
+                           A proteína total é uma medição aproximada da
+                        proteína sérica que pode revelar o estado nutricional,
+                        doença renal, doença hepática e muitas outras condi-
+                        ções. Se a proteína total estiver anormal, outros testes
+                        serão realizados para identificar a fração da proteína
+                        e, depois, qual proteína específica está anormal. As
+                        proteínas séricas são separadas em albuminas e
+                        globulinas, ou seja, a proteína total é uma soma das
+                        albuminas com as globulinas. A albumina é a proteína
+                        de maior concentração no soro (o plasma é o soro
+                        mais o fibrinogênio). A albumina transporta muitas

@@ -1,0 +1,43 @@
+PDF_PHYSICAL_PAGE=206
+Capítulo 5 Interpretação Metabólica sobre Deficiências Vitamínicas        177
+
+
+                         lado, o fato de, em caso de deficiência de vitamina A,
+                         a síntese da RBP modificar-se só tardiamente.
+                             A concentração sérica do betacaroteno é conside-
+                         rada um bom indicador de consumo alimentar de pro-
+                         vitamina A. Certos autores admitem que as concen-
+                         trações de betacarotenos iguais ou superiores a 300
+                         μg/L refletem o consumo alimentar em provitamina A
+                         suficiente para manter uma concentração plasmática
+                         de retinol correta. Em nossos estudos, desenvolvidos
+                         em laboratório, os valores de betacaroteno considera-
+                         dos normais foram 160 a 300µg/L.
+                             A análise do retinol hepático constitui o método
+                         mais preciso e mais direto de avaliação de uma
+                         deficiência, considerando-se que, em um indivíduo
+                         normal, o fígado tem 90% das reservas do organismo
+                         em vitamina A. Como a biopsia transcutânea hepática
+                         não é uma prática possível em estudos nutricionais,
+                         um método não invasivo, capaz de avaliar as reservas
+                         hepáticas de vitamina A, o teste de resposta a doses
+                         relativas de retinol, ou teste RDR, foi desenvolvido.
+
+        5.2.8            Vitamina E
+                             A análise funcional clássica do estado bioquímico
+                         E limita-se à concentração plasmática de α-tocoferol,
+                         principal forma circulante da vitamina. Uma concen-
+                         tração < 4 mg/L indica carência de vitamina E.
+
+ 5.2.9 Considerações sobre a fidedignidade das avaliações
+		 do consumo e das concentrações sanguíneas de
+		vitaminas
+                             Pode-se estimar que o α-ETK reflete melhor a ati-
+                         vidade funcional vitamínica B1, enquanto o TPP reflete
+                         melhor o aporte alimentar.
+                             Em nosso estudo sobre a fidedignidade das ava-
+                         liações, observou-se que 20% a 30% da população
+                         estudada apresentavam uma deficiência bioquímica
+                         latente em B1 que, eventualmente, pode manifestar-
+                         se, clinicamente, na velhice ou em condições de
+                         estresse em longo prazo.

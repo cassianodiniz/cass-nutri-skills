@@ -1,0 +1,51 @@
+PDF_PHYSICAL_PAGE=181
+152                               Capítulo 4 Interpretação Metabólica sobre Exames de Importância nas Doenças Hepáticas
+
+
+
+TABELA 4-2. Intervalo de referência da fosfatase alcalina
+
+                                                                     INTERVALO DE REFERÊNCIA
+
+  Crianças até 15 anos                                                       110 a 720 U/L
+
+  Adultos                                                                     50 a 136 U/L
+
+Fonte: Bonelli, 2009.
+
+
+
+
+                        a coledocolitíase das hepatites, em que a fosfatase é
+                        normal ou apresenta aumentos discretos. A elevação
+                        da fosfatase alcalina pode indicar um bloqueio em seu
+                        fígado ou vesícula biliar causado por cálculos biliares
+                        ou por um tumor (Tabela 4-2).
+
+     4.15.3             TGP/ALT e TGO/AST
+                            ALT e AST são enzimas hepáticas (aminotransfe-
+                        rases) utilizadas para avaliar lesão hepatocelular. A
+                        alanina aminotransferase (ALT), também chamada de
+                        transaminase glutâmico oxaloacética (TGO), é uma
+                        enzima que catalisa a reação asparto + alfa-queroglu-
+                        tarato = oxaloacetato + glutamato. É encontrada em
+                        altas concentrações apenas no citoplasma do fígado,
+                        o que torna o seu aumento mais específico de lesão
+                        hepática. No entanto, pode estar aumentada em con-
+                        junto com a AST em miopatias – doenças musculares
+                        – graves (Tabela 4-3).
+                            O índice de massa corporal – IMC – e a relação
+                        cintura–quadril elevados estão associados à elevação
+                        dos níveis séricos da ALT, e a obesidade é a principal
+                        causa de ALT elevada em populações saudáveis.
+
+
+TABELA 4-3. Intervalo de referência da ALT
+
+  ALT                                                               INTERVALOS DE REFERÊNCIA
+
+  Mulheres                                                                        31 U/L
+
+  Homens                                                                          41 U/L
+
+Fonte: Krause, 2005.

@@ -1,0 +1,43 @@
+PDF_PHYSICAL_PAGE=48
+Capítulo 1 Interpretação de Exames de Importância em Nutrição para Cardiopatias e/ou Hiperlipoproteinemias   19
+
+
+                         Quando a segurança e a precisão, bem como o custo
+                         desses ensaios, tornarem-se aceitáveis, os labo­ratórios
+                         poderão não mais utilizar a equação de Frie­dewald
+                         para medir o colesterol LDL. Entretanto, as concen-
+                         trações de triacilglicerol ainda precisam ser avaliadas
+                         quando um perfil lipídico é determinado, portanto, o
+                         jejum ainda será necessário. Além dos fatores de risco
+                         padrões ligados aos lipídeos séricos, estudos recentes
+                         ligam outros índices lipídicos e lipoproteicos à doença
+                         cardíaca coronariana. Todos eles são medidos em la-
+                         boratório, mas a maioria não tem sido suficientemente
+                         avaliada para demonstrar uma ligação clara com risco
+                         de doença cardíaca coronariana, ou são muito caros
+                         para serem avaliados, exceto em casos raros.
+
+                          “Novos” fatores de risco lipídicos e lipoproteicos para
+                         doença cardíaca coronariana
+                             Até agora não se sabe como fatores nutricionais
+                         e outros fatores de risco mutáveis (↑ApoB, ↓Apo A1,
+                         ↑Lp(a), pequenas mas densas partículas de LDL) para
+                         doença cardíaca coronariana poderão afetar esses
+                         índices. Os lipídeos dietéticos estão aparentemente
+                         associados a outras doenças crônicas, além da CVD,
+                         incluindo câncer e diabetes. Entretanto, diferentemen-
+                         te da CVD, desconhece-se se o risco dessas doenças
+                         está relacionado aos índices lipídicos séricos. Isso
+                         sugere que há múltiplos passos intermediários entre o
+                         desenvolvimento dessas doenças e os padrões dieté-
+                         ticos ricos em lipídeos.
+
+        1.4.2            Índices de estresse oxidativo
+                             Estudos atuais indicam que muitas das doenças
+                         crônicas, incluindo CVD, e pelo menos algumas for-
+                         mas de câncer são iniciadas por oxidação de radicais
+                         livres dos lipídeos, dos ácidos nucleicos ou proteínas.
+                         Por exemplo, atualmente suspeita-se que o mecanis-
+                         mo subjacente ao desenvolvimento da aterosclerose
+                         seja medido por compostos de radiais livres chama-
+                         dos de espécies reativas de oxidação (ERO). Esses

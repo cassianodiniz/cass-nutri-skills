@@ -1,0 +1,39 @@
+PDF_PHYSICAL_PAGE=37
+8           Capítulo 1 Interpretação de Exames de Importância em Nutrição para Cardiopatias e/ou Hiperlipoproteinemias
+
+
+
+
+    1.2.2   HDL colesterol
+            Princípios e recomendações
+                LDL e VLDL são precipitados do soro antes das
+            medidas do HDL residual: atualmente, a medida dire-
+            ta do HDL é feita em alguns laboratórios.
+
+            Interpretação
+               O HDL é chamado colesterol bom por indicar que
+            é um fator de risco negativo.
+
+            Intervalo de referência
+                Desejável: ≥ 35 mg/dL (0,9 umol/L).
+
+            Limitações e/ou interações
+               Alguns métodos de precipitação causam a subes-
+            timativa de HDL. O HDL pode ser dividido em clas-
+            ses: HDL1, HDL2 e HDL3. O HDL3 é o que melhor se
+            correlaciona com o risco de doença cardíaca.
+
+    1.2.3   LDL colesterol
+            Princípios e recomendações
+               O LDL é estimado pela fórmula de Friedwald (LDL
+            = colesterol total – HDL-C – TG/5) ou por novos en-
+            saios diretos.
+
+            Interpretação
+               O LDL é chamado colesterol total para indicar que
+            é um possível fator de risco. Ver diretrizes NCEP.
+
+            Intervalo de referência
+            • Desejável: < 130 mg/dL (3,4 umol/L).
+            • Limítrofe: 130 a 159 mg/dL (3,4 a 4,1umol/L).
+            • Alto risco: ≥ 160 mg/dL (≥ 4,1 umol/L).

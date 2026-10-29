@@ -1,0 +1,49 @@
+PDF_PHYSICAL_PAGE=145
+116                                         Capítulo 3 Interpretação de Exames de Importância em Nutrição para Doença Renal
+
+
+
+TABELA 3-1. Recomendações de proteína e de energia na fase não dialítica
+
+  Não existem evidências de benefícios da restrição para pacientes com taxa de filtração
+  glomerular (TFG) acima de 60 mL/min, porém eles precisam ser orientados a não consumir
+  proteína em excesso e ter uma ingestão proteica semelhante à que é proposta para indivíduos
+  saudáveis (0,8 a 1,0 g/kg/dia). Quando, porém, a TFG é inferior a 60 mL/min, ou há evidências
+  de progressão, a dieta deve conter 0,6 g/kg/dia de proteína, das quais pelo menos 50% a
+  60% devem ser proteínas de alto valor biológico, ou seja, aquelas proteínas que contêm todos
+  os aminoácidos essenciais em proporções adequadas. Já nas fases mais avançadas da IRC,
+  quando a TFG é inferior a 25 mL/min, duas formas de restrição proteica podem ser empregadas:
+  a dieta hipoproteica convencional (0,6 g/kg/dia) ou a muito restrita em proteína com
+  0,3 g/kg/dia suplementada com 0,3g/kg/dia de aminoácidos essenciais ou uma msitura de
+  aminoácidos essenciais e cetoácidos. Pacientes com proteinúria e pacientes diabéticos com
+  controle glicêmico inadequado devem receber uma quantidade de proteína mais elevada
+  (0,8g/kg/dia).
+
+Fonte: Adaptada de Mitch WE, Klahr S. Handbook of nutrition and the kidney. 3rd ed. Philadelphia, Lippincott-Raven,
+1998. 384 p.
+
+
+
+
+                      proteica seja escolhida, monitoração cuidadosa e
+                      estudos antropomórficos devem ser realizados perio-
+                      dicamente (Tabela 3-1).
+
+ 3.6.5 Dieta muito restrita em proteína suplementada com
+		 aminoácidos essenciais e cetoácidos
+                          Os cetoácidos são análogos de aminoácidos es-
+                      senciais sem o nitrogênio, de forma que, no fígado,
+                      pela via de transaminação, o nitrogênio disponível é
+                      incorporado à cadeia do amonoiácido essencial cor-
+                      respondente. Assim, ao mesmo tempo que supre as
+                      necessidades de aminoácidos essenciais do organis-
+                      mo, o uso de cetoácidos leva à diminuição da dispo-
+                      nibilidade de nitrogênio, reduzindo, assim, a formação
+                      de compostos nitrogenados tóxicos resultantes do
+                      seu metabolismo. Entre os possíveis benefícios dessa
+                      terapia sobre a restrição proteica convencional estão
+                      a diminuição mais acentuada de sintomas urêmicos,
+                      da acidose metabólica, da hiperfosfatemia e da re-
+                      sistência insulínica. Porém, para que se obtenham
+                      resultados satisfatórios, é necessário que a adesão
+                      à dieta predominantemente com alimentos de origem

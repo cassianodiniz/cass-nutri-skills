@@ -1,0 +1,53 @@
+PDF_PHYSICAL_PAGE=46
+Capítulo 1 Interpretação de Exames de Importância em Nutrição para Cardiopatias e/ou Hiperlipoproteinemias                  17
+
+
+TABELA 1-7. Interpretação laboratorial dos valores de referências para HDL-C,
+em mg/dL, no perfil lipídico para crianças, adolescentes e adultos
+
+  IDADE/                                                                                               ACIMA DE OU IGUAL
+  NTERPRETAÇÃO                         ABAIXO DE 10 ANOS                   10 A 19 ANOS                       A 20 ANOS
+
+  Ideal                                     Acima de 40                Acima ou igual a 35                        –
+
+  Baixo                                             –                              –                         Abaixo de 40
+
+  Alto                                              –                              –                         Acima de 60
+
+Fonte: Duarte, 2007.
+
+
+
+TABELA 1-8. Interpretação laboratorial dos valores de referência para a LDL-C,
+em mg/dL, no perfil lipídico para crianças, adolescentes e adultos
+
+  IDADE/TOLERÂNCIA                            < 10                       10 A 19 ANOS                        ≥ 20 ANOS
+
+  Ótimo                                         –                                 –                            < 100
+
+  Desejável                                  < 110                            < 110                          100 a 129
+
+  Limítrofe                                110 a 129                        110 a 129                        130 a 159
+
+  Alto                                       > 130                            > 130                          160 a 189
+
+  Muito alto                                    –                                 –                            ≥ 190
+
+Fonte: Duarte, 2007.
+
+
+
+
+                         uma relação entre o LDL-C e HDL-C. As faixas de
+                         referência para os índices são 5,1 e 3,3 para o sexo
+                         masculino e 4,4 e 2,9 para o sexo feminino.
+
+		VLDL-C e trigliceridemia
+                             Na Tabela 1-9 encontra-se a interpretação labo-
+                         ratorial dos valores de trigliceridemia, em mg/dL, no
+                         perfil lipídico para crianças, adolescentes e adultos.
+                             É interessante expor que a dislipidemia pode ter
+                         uma origem secundária, neste caso as principais pa-
+                         tologias de base podem ser: hipotireoidismo, síndro-
+                         me nefrótica, insuficiência renal crônica, prancreatite
+                         e icterícia obstrutiva.

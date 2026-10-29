@@ -1,0 +1,52 @@
+PDF_PHYSICAL_PAGE=249
+220                            Capítulo 7 Influência da Alimentação nos Valores Sanguíneos de Marcadores Inflamatórios
+
+
+
+                   ação direcionada dos linfócitos e a sua produção de
+                   anticorpos específicos.
+                      Os nutrientes denominados imunomoduladores
+                   atuam na resposta imunológica estimulando-a ou
+                   suprimindo-a, dependendo da quantidade ingerida
+                   e/ou administrada destes nutrientes. Entretanto, sabe-
+                   se que a imunossupressão é de origem multifatorial.
+                   Desnutrição, cirurgias de grande porte, transfusão de
+                   sangue, transplantes, sepse, infecções pós-cirúrgi-
+                   cas e tumores são situações clínicas que promovem
+                   imunossupressão, tanto a celular como a humoral. O
+                   que é a causa ou consequência ainda permanece in-
+                   conclusivo. A Tabela 7-1 apresenta alguns alimentos
+
+
+TABELA 7-1. Alimentos com ações imunomoduladoras
+
+ ALIMENTOS                     SUBSTÂNCIA ENVOLVIDA                FUNÇÃO
+
+ Trigo                         Peptídeo com alto teor              Imunoestimulação, se integral
+                               de glutamina                        diminui triglicerídeo
+
+ Lagosta (segurança            Quitina e quitosona                 Imunoestimulação
+ alimentar)
+
+ Ovo (segurança alimentar)     Cistatina                           Efeito antiviral
+
+ Probióticos (lactobacilos)    Bactérias acidoláticas              Influenciam na atividade metabólica
+ e prebióticos (fruto-                                             intestinal, promovendo melhora na
+ oligossacarídeos)                                                 resposta imunológica
+
+ Alho                          Gama-glutamil cisteína              Estimula o sistema imunológico e
+                                                                   diminui a pressão arterial, porém
+                                                                   é desaconselhado por inibir a ação
+                                                                   da terapia antirretroviral no caso
+                                                                   da AIDS.
+
+ Carnes, leguminosas, frutos   Arginina e flavonoides              Contribui para melhorar a resposta
+ oleaginosas e chocolate                                           imunológica
+
+ Frutas e legumes              Vitaminas                           Reduz e/ou neutraliza a produção
+ (segurança alimentar)         antioxidantes, B12 e                de radicais livres, melhorando a
+                               flavonoides                         resposta imunológica
+
+ Peixes e óleos vegetais       Ômegas 3 e 6                        Contribuem no controle de
+                                                                   processos inflamatórios e podem
+                                                                   diminuir triglicerídeos e colesterol

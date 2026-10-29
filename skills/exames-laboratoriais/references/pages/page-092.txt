@@ -1,0 +1,55 @@
+PDF_PHYSICAL_PAGE=92
+Capítulo 2 Interpretação de Exames de Importância em Nutrição para Diabetes Mellitus                             63
+
+
+TABELA 2-1. Resumo dos valores e interpretação da glicose plasmática (mg/dL)
+
+  VALORES                                                                      INTERPRETAÇÃO
+
+  < 100                                                                        Glicemia de jejum normal
+
+  < 140 (2 h após 75 g de glicose)                                             Glicemia normal
+
+  > 100 e < 126                                                                Glicemia de jejum alterada
+
+  > 100 e < 126                                                                Tolerância à glicose diminuida
+
+  ≥ 126 (glicemia de jejum)                                                    Diabetes
+
+  ≥ 200 (glicemia casual com sintomas clássicos)                               Diabetes
+
+Fonte: Diretrizes da Sociedade Brasileira de Diabetes: 2013-2014.
+
+
+
+
+TABELA 2-2. Meta do controle glicêmico recomendada pela SBD
+
+                                     GLICEMIA EM                          GLICEMIA                  GLICEMIA
+  HA1C < 7%                               JEJUM                       PRÉ-PRANDIAL                PÓS-PRANDIAL
+
+  *ADA/EASD                            < 100 mg                           < 130 mg                  < 180 mg
+
+  SBD                                  < 100 mg                           < 130 mg                 Até 160 mg
+
+Fonte: Diretrizes da Sociedade Brasileira de Diabetes: 2013-2014.
+*ADA = American Diabetes Association. EASD = European Association for the Study of Diabetes. ADA/EASD.
+Diabetes Care, versão on-line, 19 de abril de 2012.
+
+
+
+
+                         não se indica este teste para pacientes com glicemia
+                         de jejum superior a 200 mg/dL ou com diabetes melli-
+                         tus tipo 1.
+                             É interessante que o nutricionista também saiba
+                         interpretar a glicemia casual, ou seja, coletada a qual-
+                         quer hora do dia.
+                             Na Tabela 2-3 estão os valores de glicemia no
+                         teste oral de tolerância à glicose, para cada interva-
+                         lo de tempo das coletas de sangue, pelo critério de
+                         Coustan e Carpentier.
+                             Além do método de análise mostrado na Tabela
+                         2-4, pode-se interpretar os valores encontrados neste
+                         exame pelo Critério do National Diabetes Data Group
+                         (NDDG).

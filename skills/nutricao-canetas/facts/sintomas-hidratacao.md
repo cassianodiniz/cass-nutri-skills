@@ -21,4 +21,4 @@ E = consenso europeu; A = advisory americano; B = perspectiva bariátrica. Pági
 
 Use diário de alimentação e sintomas para identificar gatilhos. Suplementar vitaminas não substitui adequação energética, proteica, fibras ou hidratação. Antieméticos e laxativos citados nos documentos pertencem à avaliação do profissional responsável; não gerar prescrição farmacológica automática.
 
-Fontes integrais: E (`../references/chapters/ch01-consenso-europeu-source.md`, no corpus privado), A (`../references/chapters/ch02-advisory-americano-source.md`, no corpus privado), B (`../references/chapters/ch03-ponte-bariatrica-source.md`, no corpus privado).
+Fontes integrais: [E](../references/chapters/ch01-consenso-europeu-source.md), [A](../references/chapters/ch02-advisory-americano-source.md), [B](../references/chapters/ch03-ponte-bariatrica-source.md).

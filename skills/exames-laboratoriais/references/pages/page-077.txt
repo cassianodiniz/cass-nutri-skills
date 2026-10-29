@@ -1,0 +1,48 @@
+PDF_PHYSICAL_PAGE=77
+48                 Capítulo 1 Interpretação de Exames de Importância em Nutrição para Cardiopatias e/ou Hiperlipoproteinemias
+
+
+
+TABELA 1-16. Dados antropométricos
+
+                                                                                   CÁLCULO DAS NECESSIDADES
+ DADOS ANTROPOMÉTRICOS                 AVALIAÇÃO NUTRICIONAL                       CALÓRICAS
+
+ Peso Atual: 70,58 kg                  Risco de complicações                       GET (segundo IMC): 1.212,5
+ Altura: 1,71 m;                         metabólicas, quanto ao                     kcal;
+ IMC: 24,17 kg/m2;                       estado nutricional;                       GET(regra de bolso): 2.117
+ Dobra tricipital: 13 mm;              De acordo com o IMC e PCT,                   kcal.
+ Circunferência do braço:                paciente encontra-se em                   GET (Harris Benedict):
+   25,5 cm;                              eutrofia;                                  2.053,8 kcal
+ CB: 25,5 cm.                          CB com desnutrição leve;
+                                       CMB com desnutrição
+                                         moderada.
+
+
+
+
+		Alertas/diagnóstico ou problemas nutricionais
+                 •     Alergia alimentar – Não;
+                 •     Apetite – Sim;
+                 •     Náuseas/Vômitos – Não;
+                 •     Constipação – Sim;
+                 •     Diarreia – Não
+                 •     Dificuldade de mastigação – Não
+                 •     Disfagia – Não;
+                 •     Odinofagia – Não;
+                 •     Febre – Não;
+                 •     Pressão alta – Sim;
+                 •     Confinado ao leito – Após a amputação do MID
+
+		Plano terapêutico nutricional
+                 • Evitar a ingestão de açúcares simples;
+                 • Aumentar ingestão de carboidratos complexos;
+                 • Aumentar o consumo de frutas e verduras ricas em
+                   fibras insolúveis (dieta laxante);
+                 • Fracionar as refeições 6 vezes ao dia conforme
+                   adequação alimentar;
+                 • Reduzir a ingestão de sódio;
+                 • Aumentar a ingesta hídrica;
+                 • Consumir produtos à base de leite desnatado;
+                 • Diminuir a ingestão de gordura saturada e aumen-
+                   tar o consumo de ômegas 6 e 3;

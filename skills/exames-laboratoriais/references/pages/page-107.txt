@@ -1,0 +1,46 @@
+PDF_PHYSICAL_PAGE=107
+78              Capítulo 2 Interpretação de Exames de Importância em Nutrição para Diabetes Mellitus
+
+
+
+     de enfermidades e quando os níveis de glicose san-
+     guínea excederem consistentemente 240 mg/dL (13,3
+     mmol/L). A presença de quantidades persistentes,
+     moderadas ou grandes de cetonas, juntamente com
+     níveis elevados de glicose sanguínea, requer ajustes
+     insulínicos. As pessoas com diabetes tipo 2 raramente
+     têm cetose. Entretanto, o teste de cetonas deve ser
+     feito se houver doença séria.
+         A hiperglicemia pode levar à cetoacidose diabé-
+     tica (CAD), uma complicação potencialmente fatal
+     mas reversível, caracterizada por graves distúrbios no
+     metabolismo de carboidratos, proteínas e gorduras.
+     A CAD é sempre o resultado de insulina inadequada
+     para utilização de glicose. Como resultado, o corpo
+     depende de gordura para a energia, e as cetonas são
+     formadas. A acidose resulta de aumento da produção
+     e diminuição da utilização de ácido acetoacético e
+     ácido 3-beta-hidroxibutírico provenientes de ácidos
+     graxos. Essas cetonas derramam-se na urina, razão
+     pela qual a detecção delas baseia-se em teste de
+     urina. A CAD é caracterizada por níveis elevados de
+     glicose sanguínea (≥1.250 mg/dL ≥ 13,9 mmol) e pela
+     presença de cetonas no sangue e na urina.
+         A hipoglicemia é um efeito colateral comum da
+     terapia com insulina. Os sintomas autônomos são ge-
+     ralmente os primeiros sinais de hipoglicemia leve e in-
+     cluem tremor, sudorese palpitações e fome. Sintomas
+     hipoglicêmicos moderados e avançados relacionam-
+     se à neuroglicopenia e incluem cefaleias, confusão,
+     falta de coordenação, visão borrada, ira, convulsões
+     e coma.
+         A hipoglicemia seguida de hiperglicemia de
+     “rebote” é também chamada de efeito Somogyi.
+     Este fenômeno origina-se da secreção de hormônio
+     contrarreguladores (glucagon, epinefrina, hormônio
+     do crescimento e cortisol). A produção de glicose
+     hepática é estimulada, consequentemente elevando
+     os níveis de glicose sanguínea. Caso a hiperglicemia
+     de rebote permaneça não identificada e as doses de
+     insulina sejam aumentadas, pode resultar um ciclo de
+     superinsulinização.

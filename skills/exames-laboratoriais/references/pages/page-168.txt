@@ -1,0 +1,43 @@
+PDF_PHYSICAL_PAGE=168
+Capítulo 4 Interpretação Metabólica sobre Exames de Importância nas Doenças Hepáticas   139
+
+
+                           Várias condições de origem não hepática podem
+                        evoluir com elevações de AST e/ou ALT, como a he-
+                        mólise, miopatias, doenças da tireoide, doença celía-
+                        ca e exercícios físicos extenuantes.
+
+
+  4.5 ALT E ICTERÍCIA
+
+                            A icterícia é a coloração amarelada da pele e
+                        mucosas, consequência do acúmulo de bilirrubina no
+                        soro e nos tecidos. A bilirrubina é um produto da de-
+                        gradação das hemácias, é insolúvel em água (forma
+                        não conjugada ou indireta) e requer conjugação por
+                        enzimas para tornar-se solúvel em água (forma conju-
+                        gada ou direta), compondo a secreção biliar.
+                            Pode ocorrer hiperbilirrubinemia não conjugada
+                        (frequentemente resultante de hemólise) e hiperbilir-
+                        rubinemia conjugada, como consequência de várias
+                        condições (obstrução do fluxo biliar extra-hepático,
+                        colestase intra-hepática, hepatite ou cirrose). A coles-
+                        tase é uma alteração da formação e/ou excreção da
+                        bile e, nestas condições, só ocorre elevação de ALT
+                        quando há lesão hepatocelular associada.
+
+
+  4.6 ALT, AST E HEPATITES AGUDAS VIRAIS
+
+                            Nas hepatites agudas virais, que são doenças
+                        necroinflamatórias, ocorre lesão hepatocitária cuja
+                        extensão e magnitude dependem não só da carga
+                        viral, mas da capacidade de multiplicação do agente
+                        viral e da resposta do hospedeiro, que visa eliminá-lo
+                        e desencadeia mecanismos de defesa que promo-
+                        vem a lise celular. Em qualquer dos tipos de hepatite
+                        aguda viral ocorre elevação dos níveis séricos de ALT
+                        e AST, e o diagnóstico etiológico deve ser realizado
+                        por meio dos marcadores virais e técnicas de reação
+                        em cadeia da polimerase (PCR), que determinarão se
+                        a infecção é pelo vírus A, B, C, D, E, F ou G.

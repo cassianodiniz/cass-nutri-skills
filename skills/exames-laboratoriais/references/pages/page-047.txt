@@ -1,0 +1,51 @@
+PDF_PHYSICAL_PAGE=47
+18                     Capítulo 1 Interpretação de Exames de Importância em Nutrição para Cardiopatias e/ou Hiperlipoproteinemias
+
+
+
+TABELA 1-9. Interpretação laboratorial dos valores de referência para a
+trigliceridemia, em mg/dL, no perfil lipídico para crianças, adolescentes e adultos
+
+  IDADE/TOLERÂNCIA             < 10 ANOS                         10 A 19 ANOS                     ≥ 20 ANOS
+
+  Ótimo                        ≤ 100                             ≤ 130                            < 150
+
+  Limítrofe                    –                                 –                                150 a 200
+
+  Alto                         > 100                             > 130                            201 a 499
+
+  Muito alto                   –                                 –                                ≥ 500
+
+Fonte: Duarte, 2007.
+
+
+
+
+  1.4 INTERPRETAÇÃO METABÓLICA SOBRE COLESTEROLEMIA E
+  OUTROS EXAMES DE IMPORTÂNCIA NA DOENÇA CARDÍACA
+
+
+         1.4.1         Introdução
+                           O painel de Tratamento de Adultos do “National
+                       Cholesterol Education Program” (NCEP) estabeleceu
+                       um guia para os níveis séricos do colesterol total, do
+                       colesterol da lipoproteína de baixa densidade (LDL)
+                       e do colesterol da lipoproteína de alta densidade
+                       (HDL) associados a risco de doença cardíaca coro-
+                       nariana ou CVD. Na presença de dois ou mais fatores
+                       de risco, o valor almejado para o colesterol LDL di-
+                       minui de menos de 160 mg/dL para menos de 130
+                       mg/dL. Quando a doença cardíaca coronariana está
+                       presente, é recomendada como meta menos de 100
+                       mg/dL (NCEP para fatores de risco que modificam as
+                       recomendações).
+                           As recomendações do NCEP baseiam-se na su-
+                       posição de que os laboratórios responsáveis pelas
+                       medições lipídicas produzirão resultados precisos
+                       (coeficientes de variação, 3%) e imparciais (tendên-
+                       cia, 3%). Para terem confiança na validade de suas
+                       recomendações, os profissionais da saúde devem es-
+                       tar confiantes de que os laboratórios executem essas
+                       análises, satisfazendo essas exigências.
+                           Novos métodos para a medida direta dos níveis
+                       séricos do colesterol LDL estão sendo desenvolvidos.

@@ -1,0 +1,39 @@
+PDF_PHYSICAL_PAGE=39
+10           Capítulo 1 Interpretação de Exames de Importância em Nutrição para Cardiopatias e/ou Hiperlipoproteinemias
+
+
+
+
+             Interpretação
+                Existem associações positivas entre risco CHD e
+             Lp (a) sérico. A influência da dieta é incerta. Intervalo
+             de referência: < 160 mg/dL (≤ 180 mmol/L).
+
+             Limitações
+               Os resultados de diferentes métodos de ensaio
+             podem não ser comparáveis.
+
+     1.2.6   Homocisteína
+             Princípios e recomendações
+                São medidas por cromatografia ou por imunoen-
+             saio recentemente disponíveis.
+
+             Interpretação
+                O nível de homocisteína é um fator de risco inde-
+             pendente de CHD, trombose venosa e outras doen-
+             ças. Os níveis Hcy no plasma reduzem vitaminas B12
+             e B6, ácido fólico e podem provocar outras doenças
+             quando elevados.
+
+             Intervalo de referência
+             • Normal:
+               – 3,8 a 18,6 umol/L ♂
+               – 0,2 a 20,1 umol/L♀
+             • Em DAC:
+               – 4,4 a 21,7 umol/L ♂
+               – 0-27,8 umol/L ♀
+
+             Limitações
+                Há diferenças pequenas entre indivíduos com
+             DAC e indivíduos normais; como ocorre com a LDL,
+             há aumento de risco com níveis elevados.

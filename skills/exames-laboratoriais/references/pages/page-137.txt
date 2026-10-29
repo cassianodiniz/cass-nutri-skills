@@ -1,0 +1,44 @@
+PDF_PHYSICAL_PAGE=137
+108                        Capítulo 3 Interpretação de Exames de Importância em Nutrição para Doença Renal
+
+
+
+              pelos túbulos de forma que o cálculo do clearance
+              de creatinina superestima a real taxa de filtração
+              glomerular nas fases mais avançadas da IRC. Nesse
+              caso, recomenda-se usar uma média entre os clea-
+              rances de creatinina e ureia.
+
+      3.6.2   Mecanismo de progressão da doença renal
+                 O percentual de pacientes com insuficiência renal
+              que progridem para falência renal não é conhecido,
+              mas parece que a doença continua a progredir na
+              maior parte dos pacientes que perdem 50% ou mais
+              da TFG. A falência renal pode progredir por causa
+              da doença renal de base ou por causa da superpo-
+              sição de outras doenças que podem contribuir com
+              lesão renal, como hipertensão, efeitos adversos de
+              medicamentos nefrotóxicos (p. ex., antibióticos ou
+              material de radiocontraste), obstrução, infecção renal,
+              hiperuricemia. Porém, a progressão continuada não
+              é rara, mesmo depois que a causa inicial da doença
+              renal tenha desaparecido e se não houver nenhuma
+              superposição de doença. Por exemplo, a insuficiên-
+              cia renal pode progredir em pacientes após alívio de
+              obstrução do trato urinário, controle da hipertensão,
+              descontinuação de medicação nefrotóxica ou recupe-
+              ração parcial da insuficiência renal aguda.
+                 A migração de leucócitos e monócitos, agregação
+              plaquetária, disposição de colágeno, proliferação
+              celular, outras mudanças inflamatórias e cicatrização
+              podem causar lesão renal progressiva. Muitas destas
+              mudanças, das quais algumas podem ser conside-
+              radas respostas fisiológicas adaptativas, promovem
+              lesão renal posterior e levam à insuficiência renal
+              regressiva.
+
+ 3.6.3 Efeitos da ingestão de proteínas e de outros
+		 nutrientes na doença renal
+                 Em indivíduos normais, aproximadamente após a
+              quarta década de vida, a função renal cai de manei-
+              ra progressiva com a idade, e possivelmente dietas

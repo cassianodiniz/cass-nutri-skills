@@ -1,7 +1,0 @@
-references/source/
-references/chapters/
-references/pages/
-references/search/book-search.sqlite3*
-reports/pdf-review/
-__pycache__/
-reports/retrieval-checks.json

@@ -20,11 +20,11 @@ E = consenso europeu, ch01, 24 páginas; A = advisory americano, ch02, 24 págin
 
 ## Fontes privadas completas
 
-- ch01 — EASO/EFAD/ECPO (`chapters/ch01-consenso-europeu-source.md`, no corpus privado).
-- ch02 — ACLM/ASN/OMA/TOS (`chapters/ch02-advisory-americano-source.md`, no corpus privado).
-- ch03 — Bridging (`chapters/ch03-ponte-bariatrica-source.md`, no corpus privado).
-- Corpus completo (`source/full-text.md`, no corpus privado); proveniência e hashes em `source/provenance.json`. Extração estruturada auxiliar do Docling em `source/docling/`; para citação de página prevalece a paginação canônica do PDF original.
+- [ch01 — EASO/EFAD/ECPO](chapters/ch01-consenso-europeu-source.md).
+- [ch02 — ACLM/ASN/OMA/TOS](chapters/ch02-advisory-americano-source.md).
+- [ch03 — Bridging](chapters/ch03-ponte-bariatrica-source.md).
+- [Corpus completo](source/full-text.md); proveniência e hashes em `source/provenance.json`. Extração estruturada auxiliar do Docling em `source/docling/`; para citação de página prevalece a paginação canônica do PDF original.
 
-Índice global: páginas 1-24 = E; 25-48 = A (subtraia 24 para obter a página original); 49-51 = B (subtraia 48). Cada página tem cabeçalho com fonte e número original. Use `python3 scripts/search_book.py "pergunta" --json --comprehensive --limit 100 --per-chapter 100` na pasta do corpus externo configurado; leia os arquivos recuperados.
+Índice global: páginas 1-24 = E; 25-48 = A (subtraia 24 para obter a página original); 49-51 = B (subtraia 48). Cada página tem cabeçalho com fonte e número original. Use `python3 scripts/search_book.py "pergunta" --json --comprehensive --limit 100 --per-chapter 100` na raiz da skill; leia os arquivos recuperados.
 
 As referências integrais são privadas e podem não estar presentes em uma cópia sincronizada sem fontes. Não preencher lacunas com citações inventadas.

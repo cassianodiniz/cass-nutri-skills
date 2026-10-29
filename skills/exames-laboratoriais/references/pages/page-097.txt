@@ -1,0 +1,51 @@
+PDF_PHYSICAL_PAGE=97
+68                                 Capítulo 2 Interpretação de Exames de Importância em Nutrição para Diabetes Mellitus
+
+
+
+TABELA 2-7. Avaliação laboratorial para acompanhamento de pacientes com
+diabetes mellitus tipo 2
+
+  PARÂMETROS                        PRIMEIRA CONSULTA                        ACOMPANHAMENTO
+
+  Glicemia de jejum                 Sim                                      Todas as consultas
+
+  Hemoglobina Alc                   Sim                                      Individualizar, de acordo com
+                                                                             os objetivos planejados
+
+  Glicemia pós-prandial normal e    Se a glicemia de jejum ou                Se a glicemia de jejum for for
+  hemoglobina Alc oral à glicose    teste de tolerância Alc alta             normal e a hemoglobina alta
+  (TTOG)
+
+  Exame de urina (EAS)              Sim                                      Anual ou a qualquer
+                                                                             momento em que houver
+                                                                             suspeita de infecção urinária
+
+  Microalbuminúria                  Sim                                      Anual
+
+Fonte: Duarte, 2007.
+
+
+
+                       partir de precursores tais como ácido láctico, aminoá-
+                       cidos glicogênicos e intermediários do ciclo do ácido
+                       tricarboxílico.
+                           A glicose e a dextrose são as principais fontes de
+                       energia (3,4 kcal/g). Entretanto, a tolerância à glicose
+                       é limitada em bebês prematuros, especialmente nos
+                       de baixo peso. As razões para essa intolerância são
+                       a produção inadequada de insulina e resistência a
+                       esta liberação de glicose hepática contínua enquanto
+                       a glicose intravenosa é infundida. A hiperglicemia é
+                       menos provável quando a glicose é administrada com
+                       aminoácidos do que quando sozinha. Os aminoácidos
+                       exercem efeito estimulador na liberação de insulina.
+                       Evitar a hiperglicemia é importante porque ela pode
+                       causar diurese e desidratação.
+                           A administração de insulina exógena pode ser
+                       necessária com glicemia persistente ou muito alta,
+                       porém oscilações no nível de glicose sanguínea dos
+                       bebês são problemas comuns associados ao seu uso.
+                       Um relato recente sugere que a síntese de proteína é
+                       inibida pela administração de insulina em bebês pre-
+                       maturos (1 a 2 mg/kg min). A hipoglicemia não é um

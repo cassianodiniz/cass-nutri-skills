@@ -1,0 +1,44 @@
+PDF_PHYSICAL_PAGE=200
+Capítulo 5 Interpretação Metabólica sobre Deficiências Vitamínicas          171
+
+
+  5.1 INTRODUÇÃO
+
+                             A avaliação bioquímica do estado vitamínico
+                         baseia-se em dois tipos de investigação: avaliação
+                         dos níveis plasmáticos e séricos de formas vitamíni-
+                         cas circulantes, no caso as vitaminas B1, B2, B6, C,
+                         A, E, B12 e folato, e avaliação vitamínica, com base
+                         em diferentes sistemas enzimáticos, como é o caso
+                         das vitaminas B1, B2 e B6. A avaliação dos riscos de
+                         deficiência vitamínica é realizada a partir dos desvios
+                         dos parâmetros do estado vitamínico bioquímico em
+                         relação aos valores de referência ou “normalidade”.
+                             Estudos de correlação são efetuados entre valores
+                         da ingestão vitamínica e do estado vitamínico bio-
+                         químico, com a finalidade de subsidiar uma melhor
+                         compreensão sobre o assunto.
+                             Estudos recentes descritos na literatura internacio-
+                         nal, representativos de populações sobre o estado vi-
+                         tamínico bioquímico, são raros, e dados nacionais são
+                         quase inexistentes. Ao contrário, o consumo de vitami-
+                         nas é bastante estudado em trabalhos internacionais.
+                             Existem interferências que podem alterar a análise
+                         do consumo vitamínico e que se referem, principal-
+                         mente, ao tipo de método de avaliação do consumo
+                         alimentar, destacando-se, como bem aceito, o inqué-
+                         rito alimentar de sete dias consecutivos, havendo a
+                         possibilidade de que esse período não seja suficiente
+                         para avaliar, de maneira precisa, o consumo vitamíni-
+                         co, particularmente, nos casos das vitaminas lipossolú-
+                         veis. Outras dificuldades, que podem também alterar a
+                         apreciação do consumo vitamínico, referem-se a diver-
+                         sos fatores, como, por exemplo, imprecisões e lacunas
+                         encontradas nas tabelas de composição, no que diz
+                         respeito ao teor de vitaminas dos alimentos, e a im-
+                         possibilidade de se avaliar, com precisão, a influência
+                         das modalidades de armazenamento, de cocção e de
+                         reaquecimento de alimentos. Sendo assim, é possível
+                         que o consumo alimentar vitamínico, obtido a partir das
+                         tabelas de composição, seja nitidamente superestima-
+                         do, em particular no caso da vitamina C e dos folatos.

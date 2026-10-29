@@ -1,0 +1,5341 @@
+{
+  "schema_name": "DoclingDocument",
+  "version": "1.10.0",
+  "name": "Consensus Statement (ana\u0301logos de GLP-1)",
+  "origin": {
+    "mimetype": "application/pdf",
+    "binary_hash": 11645907116396152627,
+    "filename": "Consensus Statement (ana\u0301logos de GLP-1).pdf"
+  },
+  "furniture": {
+    "self_ref": "#/furniture",
+    "children": [],
+    "content_layer": "furniture",
+    "name": "_root_",
+    "label": "unspecified"
+  },
+  "body": {
+    "self_ref": "#/body",
+    "children": [
+      {
+        "$ref": "#/texts/0"
+      },
+      {
+        "$ref": "#/groups/0"
+      },
+      {
+        "$ref": "#/texts/44"
+      },
+      {
+        "$ref": "#/texts/45"
+      },
+      {
+        "$ref": "#/texts/46"
+      },
+      {
+        "$ref": "#/groups/1"
+      },
+      {
+        "$ref": "#/texts/88"
+      },
+      {
+        "$ref": "#/texts/89"
+      },
+      {
+        "$ref": "#/texts/90"
+      },
+      {
+        "$ref": "#/groups/2"
+      },
+      {
+        "$ref": "#/texts/135"
+      },
+      {
+        "$ref": "#/texts/136"
+      },
+      {
+        "$ref": "#/texts/137"
+      },
+      {
+        "$ref": "#/groups/3"
+      },
+      {
+        "$ref": "#/texts/161"
+      },
+      {
+        "$ref": "#/texts/162"
+      },
+      {
+        "$ref": "#/texts/163"
+      }
+    ],
+    "content_layer": "body",
+    "name": "_root_",
+    "label": "unspecified"
+  },
+  "groups": [
+    {
+      "self_ref": "#/groups/0",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/1"
+        },
+        {
+          "$ref": "#/texts/2"
+        },
+        {
+          "$ref": "#/texts/3"
+        },
+        {
+          "$ref": "#/texts/4"
+        },
+        {
+          "$ref": "#/texts/5"
+        },
+        {
+          "$ref": "#/texts/6"
+        },
+        {
+          "$ref": "#/texts/7"
+        },
+        {
+          "$ref": "#/texts/8"
+        },
+        {
+          "$ref": "#/texts/9"
+        },
+        {
+          "$ref": "#/texts/10"
+        },
+        {
+          "$ref": "#/texts/11"
+        },
+        {
+          "$ref": "#/texts/12"
+        },
+        {
+          "$ref": "#/texts/13"
+        },
+        {
+          "$ref": "#/texts/14"
+        },
+        {
+          "$ref": "#/texts/15"
+        },
+        {
+          "$ref": "#/texts/16"
+        },
+        {
+          "$ref": "#/texts/17"
+        },
+        {
+          "$ref": "#/texts/18"
+        },
+        {
+          "$ref": "#/texts/19"
+        },
+        {
+          "$ref": "#/texts/20"
+        },
+        {
+          "$ref": "#/texts/21"
+        },
+        {
+          "$ref": "#/texts/22"
+        },
+        {
+          "$ref": "#/texts/23"
+        },
+        {
+          "$ref": "#/texts/24"
+        },
+        {
+          "$ref": "#/texts/25"
+        },
+        {
+          "$ref": "#/texts/26"
+        },
+        {
+          "$ref": "#/texts/27"
+        },
+        {
+          "$ref": "#/texts/28"
+        },
+        {
+          "$ref": "#/texts/29"
+        },
+        {
+          "$ref": "#/texts/30"
+        },
+        {
+          "$ref": "#/texts/31"
+        },
+        {
+          "$ref": "#/texts/32"
+        },
+        {
+          "$ref": "#/texts/33"
+        },
+        {
+          "$ref": "#/texts/34"
+        },
+        {
+          "$ref": "#/texts/35"
+        },
+        {
+          "$ref": "#/texts/36"
+        },
+        {
+          "$ref": "#/texts/37"
+        },
+        {
+          "$ref": "#/texts/38"
+        },
+        {
+          "$ref": "#/texts/39"
+        },
+        {
+          "$ref": "#/texts/40"
+        },
+        {
+          "$ref": "#/texts/41"
+        },
+        {
+          "$ref": "#/texts/42"
+        },
+        {
+          "$ref": "#/texts/43"
+        }
+      ],
+      "content_layer": "body",
+      "name": "list",
+      "label": "list"
+    },
+    {
+      "self_ref": "#/groups/1",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/47"
+        },
+        {
+          "$ref": "#/texts/48"
+        },
+        {
+          "$ref": "#/texts/49"
+        },
+        {
+          "$ref": "#/texts/50"
+        },
+        {
+          "$ref": "#/texts/51"
+        },
+        {
+          "$ref": "#/texts/52"
+        },
+        {
+          "$ref": "#/texts/53"
+        },
+        {
+          "$ref": "#/texts/54"
+        },
+        {
+          "$ref": "#/texts/55"
+        },
+        {
+          "$ref": "#/texts/56"
+        },
+        {
+          "$ref": "#/texts/57"
+        },
+        {
+          "$ref": "#/texts/58"
+        },
+        {
+          "$ref": "#/texts/59"
+        },
+        {
+          "$ref": "#/texts/60"
+        },
+        {
+          "$ref": "#/texts/61"
+        },
+        {
+          "$ref": "#/texts/62"
+        },
+        {
+          "$ref": "#/texts/63"
+        },
+        {
+          "$ref": "#/texts/64"
+        },
+        {
+          "$ref": "#/texts/65"
+        },
+        {
+          "$ref": "#/texts/66"
+        },
+        {
+          "$ref": "#/texts/67"
+        },
+        {
+          "$ref": "#/texts/68"
+        },
+        {
+          "$ref": "#/texts/69"
+        },
+        {
+          "$ref": "#/texts/70"
+        },
+        {
+          "$ref": "#/texts/71"
+        },
+        {
+          "$ref": "#/texts/72"
+        },
+        {
+          "$ref": "#/texts/73"
+        },
+        {
+          "$ref": "#/texts/74"
+        },
+        {
+          "$ref": "#/texts/75"
+        },
+        {
+          "$ref": "#/texts/76"
+        },
+        {
+          "$ref": "#/texts/77"
+        },
+        {
+          "$ref": "#/texts/78"
+        },
+        {
+          "$ref": "#/texts/79"
+        },
+        {
+          "$ref": "#/texts/80"
+        },
+        {
+          "$ref": "#/texts/81"
+        },
+        {
+          "$ref": "#/texts/82"
+        },
+        {
+          "$ref": "#/texts/83"
+        },
+        {
+          "$ref": "#/texts/84"
+        },
+        {
+          "$ref": "#/texts/85"
+        },
+        {
+          "$ref": "#/texts/86"
+        },
+        {
+          "$ref": "#/texts/87"
+        }
+      ],
+      "content_layer": "body",
+      "name": "list",
+      "label": "list"
+    },
+    {
+      "self_ref": "#/groups/2",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/91"
+        },
+        {
+          "$ref": "#/texts/92"
+        },
+        {
+          "$ref": "#/texts/93"
+        },
+        {
+          "$ref": "#/texts/94"
+        },
+        {
+          "$ref": "#/texts/95"
+        },
+        {
+          "$ref": "#/texts/96"
+        },
+        {
+          "$ref": "#/texts/97"
+        },
+        {
+          "$ref": "#/texts/98"
+        },
+        {
+          "$ref": "#/texts/99"
+        },
+        {
+          "$ref": "#/texts/100"
+        },
+        {
+          "$ref": "#/texts/101"
+        },
+        {
+          "$ref": "#/texts/102"
+        },
+        {
+          "$ref": "#/texts/103"
+        },
+        {
+          "$ref": "#/texts/104"
+        },
+        {
+          "$ref": "#/texts/105"
+        },
+        {
+          "$ref": "#/texts/106"
+        },
+        {
+          "$ref": "#/texts/107"
+        },
+        {
+          "$ref": "#/texts/108"
+        },
+        {
+          "$ref": "#/texts/109"
+        },
+        {
+          "$ref": "#/texts/110"
+        },
+        {
+          "$ref": "#/texts/111"
+        },
+        {
+          "$ref": "#/texts/112"
+        },
+        {
+          "$ref": "#/texts/113"
+        },
+        {
+          "$ref": "#/texts/114"
+        },
+        {
+          "$ref": "#/texts/115"
+        },
+        {
+          "$ref": "#/texts/116"
+        },
+        {
+          "$ref": "#/texts/117"
+        },
+        {
+          "$ref": "#/texts/118"
+        },
+        {
+          "$ref": "#/texts/119"
+        },
+        {
+          "$ref": "#/texts/120"
+        },
+        {
+          "$ref": "#/texts/121"
+        },
+        {
+          "$ref": "#/texts/122"
+        },
+        {
+          "$ref": "#/texts/123"
+        },
+        {
+          "$ref": "#/texts/124"
+        },
+        {
+          "$ref": "#/texts/125"
+        },
+        {
+          "$ref": "#/texts/126"
+        },
+        {
+          "$ref": "#/texts/127"
+        },
+        {
+          "$ref": "#/texts/128"
+        },
+        {
+          "$ref": "#/texts/129"
+        },
+        {
+          "$ref": "#/texts/130"
+        },
+        {
+          "$ref": "#/texts/131"
+        },
+        {
+          "$ref": "#/texts/132"
+        },
+        {
+          "$ref": "#/texts/133"
+        },
+        {
+          "$ref": "#/texts/134"
+        }
+      ],
+      "content_layer": "body",
+      "name": "list",
+      "label": "list"
+    },
+    {
+      "self_ref": "#/groups/3",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/138"
+        },
+        {
+          "$ref": "#/texts/139"
+        },
+        {
+          "$ref": "#/texts/140"
+        },
+        {
+          "$ref": "#/texts/141"
+        },
+        {
+          "$ref": "#/texts/142"
+        },
+        {
+          "$ref": "#/texts/143"
+        },
+        {
+          "$ref": "#/texts/144"
+        },
+        {
+          "$ref": "#/texts/145"
+        },
+        {
+          "$ref": "#/texts/146"
+        },
+        {
+          "$ref": "#/texts/147"
+        },
+        {
+          "$ref": "#/texts/148"
+        },
+        {
+          "$ref": "#/texts/149"
+        },
+        {
+          "$ref": "#/texts/150"
+        },
+        {
+          "$ref": "#/texts/151"
+        },
+        {
+          "$ref": "#/texts/152"
+        },
+        {
+          "$ref": "#/texts/153"
+        },
+        {
+          "$ref": "#/texts/154"
+        },
+        {
+          "$ref": "#/texts/155"
+        },
+        {
+          "$ref": "#/texts/156"
+        },
+        {
+          "$ref": "#/texts/157"
+        },
+        {
+          "$ref": "#/texts/158"
+        },
+        {
+          "$ref": "#/texts/159"
+        },
+        {
+          "$ref": "#/texts/160"
+        }
+      ],
+      "content_layer": "body",
+      "name": "list",
+      "label": "list"
+    }
+  ],
+  "texts": [
+    {
+      "self_ref": "#/texts/0",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_header",
+      "prov": [
+        {
+          "page_no": 21,
+          "bbox": {
+            "l": 509.2497,
+            "t": 759.5817951171875,
+            "r": 544.2537000000001,
+            "b": 750.0001192762089,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            6
+          ]
+        }
+      ],
+      "orig": "Review",
+      "text": "Review"
+    },
+    {
+      "self_ref": "#/texts/1",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 21,
+          "bbox": {
+            "l": 36.8517,
+            "t": 668.4584951171875,
+            "r": 249.34190000000004,
+            "b": 638.4775558547146,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            254
+          ]
+        }
+      ],
+      "orig": "59 Stefanakis K, Kokkorakis M, Mantzoros CS. The impact of weight loss on fat-free mass, muscle, bone and hematopoiesis health: implications for emerging pharmacotherapies aiming at fat reduction and lean mass preservation. Metabolism 2024; 161: 156057 .",
+      "text": "59 Stefanakis K, Kokkorakis M, Mantzoros CS. The impact of weight loss on fat-free mass, muscle, bone and hematopoiesis health: implications for emerging pharmacotherapies aiming at fat reduction and lean mass preservation. Metabolism 2024; 161: 156057 .",
+      "enumerated": false,
+      "marker": ""
+    },
+    {
+      "self_ref": "#/texts/2",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 21,
+          "bbox": {
+            "l": 36.8517,
+            "t": 635.0410951171875,
+            "r": 252.17690000000007,
+            "b": 613.0611558547147,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            161
+          ]
+        }
+      ],
+      "orig": "60 He L, Li Q, Yang Y, et al. Pharmacovigilance study of GLP-1 receptor agonists for metabolic and nutritional adverse events. Front Pharmacol 2024; 15: 1416985.",
+      "text": "60 He L, Li Q, Yang Y, et al. Pharmacovigilance study of GLP-1 receptor agonists for metabolic and nutritional adverse events. Front Pharmacol 2024; 15: 1416985.",
+      "enumerated": false,
+      "marker": ""
+    },
+    {
+      "self_ref": "#/texts/3",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 21,
+          "bbox": {
+            "l": 36.8517,
+            "t": 609.6237951171875,
+            "r": 243.72789999999998,
+            "b": 595.6448558547146,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            128
+          ]
+        }
+      ],
+      "orig": "61 Carlsen H, Pajari AM. Dietary fiber-a scoping review for Nordic Nutrition Recommendations 2023. Food Nutr Res 2023; 67: 9979.",
+      "text": "61 Carlsen H, Pajari AM. Dietary fiber-a scoping review for Nordic Nutrition Recommendations 2023. Food Nutr Res 2023; 67: 9979.",
+      "enumerated": false,
+      "marker": ""
+    },
+    {
+      "self_ref": "#/texts/4",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 21,
+          "bbox": {
+            "l": 36.8517,
+            "t": 592.2064951171875,
+            "r": 237.0219,
+            "b": 570.2265558547147,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            192
+          ]
+        }
+      ],
+      "orig": "62 European Food Safety Authority Panel on Dietetic Products, Nutrition and Allergies. Scientific opinion on dietary reference values for carbohydrates and dietary fibre. EFSA J 2016; 8: 1462.",
+      "text": "62 European Food Safety Authority Panel on Dietetic Products, Nutrition and Allergies. Scientific opinion on dietary reference values for carbohydrates and dietary fibre. EFSA J 2016; 8: 1462.",
+      "enumerated": false,
+      "marker": ""
+    },
+    {
+      "self_ref": "#/texts/5",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 21,
+          "bbox": {
+            "l": 36.8517,
+            "t": 566.7891951171875,
+            "r": 241.81689999999998,
+            "b": 536.8082558547147,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            237
+          ]
+        }
+      ],
+      "orig": "63 van der Schoot A, Drysdale C, Whelan K, Dimidi E. The effect of fiber supplementation on chronic constipation in adults: an updated systematic review and meta-analysis of randomized controlled trials. Am J Clin Nutr 2022; 116: 953-69.",
+      "text": "63 van der Schoot A, Drysdale C, Whelan K, Dimidi E. The effect of fiber supplementation on chronic constipation in adults: an updated systematic review and meta-analysis of randomized controlled trials. Am J Clin Nutr 2022; 116: 953-69.",
+      "enumerated": false,
+      "marker": ""
+    },
+    {
+      "self_ref": "#/texts/6",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 21,
+          "bbox": {
+            "l": 36.8517,
+            "t": 533.3717951171875,
+            "r": 238.77890000000008,
+            "b": 511.39185585471466,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            184
+          ]
+        }
+      ],
+      "orig": "64 Dimidi E, van der Schoot A, Barrett K, et al. British Dietetic Association Guidelines for the Dietary Management of Chronic Constipation in Adults. J Hum Nutr Diet 2025; 38: e70133.",
+      "text": "64 Dimidi E, van der Schoot A, Barrett K, et al. British Dietetic Association Guidelines for the Dietary Management of Chronic Constipation in Adults. J Hum Nutr Diet 2025; 38: e70133.",
+      "enumerated": false,
+      "marker": ""
+    },
+    {
+      "self_ref": "#/texts/7",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 21,
+          "bbox": {
+            "l": 36.8517,
+            "t": 507.9544951171875,
+            "r": 251.56790000000024,
+            "b": 477.9735558547147,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            261
+          ]
+        }
+      ],
+      "orig": "65 Markland AD, Palsson O, Goode PS, Burgio KL, Busby-Whitehead J, Whitehead WE. Association of low dietary intake of fiber and liquids with constipation: evidence from the National Health and Nutrition Examination Survey. Am J Gastroenterol 2013; 108: 796-803.",
+      "text": "65 Markland AD, Palsson O, Goode PS, Burgio KL, Busby-Whitehead J, Whitehead WE. Association of low dietary intake of fiber and liquids with constipation: evidence from the National Health and Nutrition Examination Survey. Am J Gastroenterol 2013; 108: 796-803.",
+      "enumerated": false,
+      "marker": ""
+    },
+    {
+      "self_ref": "#/texts/8",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 21,
+          "bbox": {
+            "l": 36.8517,
+            "t": 474.5371951171875,
+            "r": 250.69290000000004,
+            "b": 452.55725585471464,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            169
+          ]
+        }
+      ],
+      "orig": "66 Wang DC, Peng XF, Chen WX, Yu M. The association of moisture intake and constipation among US adults: evidence from NHANES 2005-2010. BMC Public Health 2025; 25: 399.",
+      "text": "66 Wang DC, Peng XF, Chen WX, Yu M. The association of moisture intake and constipation among US adults: evidence from NHANES 2005-2010. BMC Public Health 2025; 25: 399.",
+      "enumerated": false,
+      "marker": ""
+    },
+    {
+      "self_ref": "#/texts/9",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 21,
+          "bbox": {
+            "l": 36.8517,
+            "t": 449.1198951171875,
+            "r": 236.44789999999998,
+            "b": 427.1399558547147,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            166
+          ]
+        }
+      ],
+      "orig": "67 European Food Safety Authority Panel on Dietetic Products, Nutrition and Allergies. Scientific opinion on dietary reference values for water. EFSA J 2016; 8: 1459.",
+      "text": "67 European Food Safety Authority Panel on Dietetic Products, Nutrition and Allergies. Scientific opinion on dietary reference values for water. EFSA J 2016; 8: 1459.",
+      "enumerated": false,
+      "marker": ""
+    },
+    {
+      "self_ref": "#/texts/10",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 21,
+          "bbox": {
+            "l": 36.8517,
+            "t": 423.7024951171875,
+            "r": 249.90189999999998,
+            "b": 409.7235558547146,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            82
+          ]
+        }
+      ],
+      "orig": "68 Cederholm T, Bosaeus I. Malnutrition in adults. N Engl J Med 2024; 391: 155-65.",
+      "text": "68 Cederholm T, Bosaeus I. Malnutrition in adults. N Engl J Med 2024; 391: 155-65.",
+      "enumerated": false,
+      "marker": ""
+    },
+    {
+      "self_ref": "#/texts/11",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 21,
+          "bbox": {
+            "l": 36.8517,
+            "t": 406.2851951171875,
+            "r": 251.60290000000006,
+            "b": 392.30625585471466,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            119
+          ]
+        }
+      ],
+      "orig": "69 Allen LH. Micronutrients-assessment, requirements, deficiencies, and interventions. N Engl J Med 2025; 392: 1006-16.",
+      "text": "69 Allen LH. Micronutrients-assessment, requirements, deficiencies, and interventions. N Engl J Med 2025; 392: 1006-16.",
+      "enumerated": false,
+      "marker": ""
+    },
+    {
+      "self_ref": "#/texts/12",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 21,
+          "bbox": {
+            "l": 36.8517,
+            "t": 388.8678951171875,
+            "r": 244.2949,
+            "b": 366.8879558547147,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            163
+          ]
+        }
+      ],
+      "orig": "70 Dobbie LJ, Parretti HM, Fallows E, et al. Ten top tips for the management of GLP-1 receptor agonists in adults within primary care. Obes Facts 2025; 18: 535-40.",
+      "text": "70 Dobbie LJ, Parretti HM, Fallows E, et al. Ten top tips for the management of GLP-1 receptor agonists in adults within primary care. Obes Facts 2025; 18: 535-40.",
+      "enumerated": false,
+      "marker": ""
+    },
+    {
+      "self_ref": "#/texts/13",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 21,
+          "bbox": {
+            "l": 36.8517,
+            "t": 363.4505951171875,
+            "r": 248.93590000000015,
+            "b": 333.4696558547147,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            204
+          ]
+        }
+      ],
+      "orig": "71 Seier S, Stamp-Larsen K, Jensen SBK, Torekov SS, Gudbergsen H. Treat to target in weight management with semaglutide: real-world evidence from an eHealth clinic. Diabetes Obes Metab 2025; 27: 6979-87 .",
+      "text": "71 Seier S, Stamp-Larsen K, Jensen SBK, Torekov SS, Gudbergsen H. Treat to target in weight management with semaglutide: real-world evidence from an eHealth clinic. Diabetes Obes Metab 2025; 27: 6979-87 .",
+      "enumerated": false,
+      "marker": ""
+    },
+    {
+      "self_ref": "#/texts/14",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 21,
+          "bbox": {
+            "l": 36.8517,
+            "t": 330.0331951171875,
+            "r": 249.69890000000004,
+            "b": 308.0532558547147,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            182
+          ]
+        }
+      ],
+      "orig": "72 Jalleh RJ, Marathe CS, Rayner CK, et al. Physiology and pharmacology of effects of GLP-1-based therapies on gastric, biliary and intestinal motility. Endocrinology 2024; 166: 155.",
+      "text": "72 Jalleh RJ, Marathe CS, Rayner CK, et al. Physiology and pharmacology of effects of GLP-1-based therapies on gastric, biliary and intestinal motility. Endocrinology 2024; 166: 155.",
+      "enumerated": false,
+      "marker": ""
+    },
+    {
+      "self_ref": "#/texts/15",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 21,
+          "bbox": {
+            "l": 36.8517,
+            "t": 304.6158951171875,
+            "r": 240.5359,
+            "b": 282.63595585471467,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            171
+          ]
+        }
+      ],
+      "orig": "73 Winzeler B, Sailer CO, Coynel D, et al. A randomized controlled trial of the GLP-1 receptor agonist dulaglutide in primary polydipsia. J Clin Invest 2021; 131: e151800.",
+      "text": "73 Winzeler B, Sailer CO, Coynel D, et al. A randomized controlled trial of the GLP-1 receptor agonist dulaglutide in primary polydipsia. J Clin Invest 2021; 131: e151800.",
+      "enumerated": false,
+      "marker": ""
+    },
+    {
+      "self_ref": "#/texts/16",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 21,
+          "bbox": {
+            "l": 36.8517,
+            "t": 279.19859511718755,
+            "r": 244.19690000000006,
+            "b": 249.21765585471462,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            219
+          ]
+        }
+      ],
+      "orig": "74 Lambert K, Neale E, Nichols L, et al. Interventions for improving adherence to dietary salt and fluid restrictions in people with chronic kidney disease (stage 4 and 5). Cochrane Database Syst Rev 2022; 10: CD015181.",
+      "text": "74 Lambert K, Neale E, Nichols L, et al. Interventions for improving adherence to dietary salt and fluid restrictions in people with chronic kidney disease (stage 4 and 5). Cochrane Database Syst Rev 2022; 10: CD015181.",
+      "enumerated": false,
+      "marker": ""
+    },
+    {
+      "self_ref": "#/texts/17",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 21,
+          "bbox": {
+            "l": 36.8517,
+            "t": 245.78129511718748,
+            "r": 246.22690000000011,
+            "b": 207.79935585471458,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            274
+          ]
+        }
+      ],
+      "orig": "75 Heidenreich PA, Bozkurt B, Aguilar D, et al. 2022 AHA/ACC/ HFSA Guideline for the Management of Heart Failure: a report of the American College of Cardiology/American Heart Association Joint Committee on clinical practice guidelines. J Am Coll Cardiol 2022; 79: e263-421.",
+      "text": "75 Heidenreich PA, Bozkurt B, Aguilar D, et al. 2022 AHA/ACC/ HFSA Guideline for the Management of Heart Failure: a report of the American College of Cardiology/American Heart Association Joint Committee on clinical practice guidelines. J Am Coll Cardiol 2022; 79: e263-421.",
+      "enumerated": false,
+      "marker": ""
+    },
+    {
+      "self_ref": "#/texts/18",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 21,
+          "bbox": {
+            "l": 36.8517,
+            "t": 204.36389511718744,
+            "r": 249.89489999999995,
+            "b": 190.38495585471458,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            128
+          ]
+        }
+      ],
+      "orig": "76 Hobson RM, Maughan RJ. Hydration status and the diuretic action of a small dose of alcohol. Alcohol Alcohol 2010; 45: 366-73.",
+      "text": "76 Hobson RM, Maughan RJ. Hydration status and the diuretic action of a small dose of alcohol. Alcohol Alcohol 2010; 45: 366-73.",
+      "enumerated": false,
+      "marker": ""
+    },
+    {
+      "self_ref": "#/texts/19",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 21,
+          "bbox": {
+            "l": 36.8517,
+            "t": 186.94659511718748,
+            "r": 249.62190000000004,
+            "b": 156.96565585471467,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            223
+          ]
+        }
+      ],
+      "orig": "77 Mehta RL, Burdmann EA, Cerd\u00e1 J, et al. Recognition and management of acute kidney injury in the International Society of Nephrology 0by25 Global Snapshot: a multinational cross-sectional study. Lancet 2016; 387: 2017-25.",
+      "text": "77 Mehta RL, Burdmann EA, Cerd\u00e1 J, et al. Recognition and management of acute kidney injury in the International Society of Nephrology 0by25 Global Snapshot: a multinational cross-sectional study. Lancet 2016; 387: 2017-25.",
+      "enumerated": false,
+      "marker": ""
+    },
+    {
+      "self_ref": "#/texts/20",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 21,
+          "bbox": {
+            "l": 36.8517,
+            "t": 153.52919511718756,
+            "r": 244.11990000000006,
+            "b": 123.54825585471463,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            226
+          ]
+        }
+      ],
+      "orig": "78 Natale P, Green SC, Tunnicliffe DJ, Pellegrino G, Toyama T, Strippoli GFM. Glucagon-like peptide 1 (GLP-1) receptor agonists for people with chronic kidney disease and diabetes. Cochrane Database Syst Rev 2025; 2: CD015849.",
+      "text": "78 Natale P, Green SC, Tunnicliffe DJ, Pellegrino G, Toyama T, Strippoli GFM. Glucagon-like peptide 1 (GLP-1) receptor agonists for people with chronic kidney disease and diabetes. Cochrane Database Syst Rev 2025; 2: CD015849.",
+      "enumerated": false,
+      "marker": ""
+    },
+    {
+      "self_ref": "#/texts/21",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 21,
+          "bbox": {
+            "l": 36.8517,
+            "t": 120.11189511718749,
+            "r": 251.14090000000002,
+            "b": 90.13095585471456,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            203
+          ]
+        }
+      ],
+      "orig": "79 Dong S, Sun C. Can glucagon-like peptide-1 receptor agonists cause acute kidney injury? An analytical study based on post-marketing approval pharmacovigilance data. Front Endocrinol 2022; 13: 1032199.",
+      "text": "79 Dong S, Sun C. Can glucagon-like peptide-1 receptor agonists cause acute kidney injury? An analytical study based on post-marketing approval pharmacovigilance data. Front Endocrinol 2022; 13: 1032199.",
+      "enumerated": false,
+      "marker": ""
+    },
+    {
+      "self_ref": "#/texts/22",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 21,
+          "bbox": {
+            "l": 36.8517,
+            "t": 86.69459511718753,
+            "r": 248.54389999999998,
+            "b": 48.712655854714626,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            276
+          ]
+        }
+      ],
+      "orig": "80 Fishkin A, Rozenberg A, Schechter M, et al. Kidney outcomes with glucagon-like peptide-1 receptor agonists versus other glucoselowering agents in people with type 2 diabetes: a systematic review and meta-analysis of real-world data. Diabetes Metab Res Rev 2025; 41: e70066.",
+      "text": "80 Fishkin A, Rozenberg A, Schechter M, et al. Kidney outcomes with glucagon-like peptide-1 receptor agonists versus other glucoselowering agents in people with type 2 diabetes: a systematic review and meta-analysis of real-world data. Diabetes Metab Res Rev 2025; 41: e70066.",
+      "enumerated": false,
+      "marker": ""
+    },
+    {
+      "self_ref": "#/texts/23",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 21,
+          "bbox": {
+            "l": 262.2066,
+            "t": 668.4584951171875,
+            "r": 475.3198000000001,
+            "b": 646.4805558547146,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            188
+          ]
+        }
+      ],
+      "orig": "81 Veronese N, Gianfredi V, Solmi M, et al. The impact of dietary fiber consumption on human health: an umbrella review of evidence from 17 155 277 individuals. Clin Nutr 2025; 51: 325-33.",
+      "text": "81 Veronese N, Gianfredi V, Solmi M, et al. The impact of dietary fiber consumption on human health: an umbrella review of evidence from 17 155 277 individuals. Clin Nutr 2025; 51: 325-33.",
+      "enumerated": false,
+      "marker": ""
+    },
+    {
+      "self_ref": "#/texts/24",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 21,
+          "bbox": {
+            "l": 262.2066,
+            "t": 643.0410951171875,
+            "r": 470.6858000000001,
+            "b": 621.0611558547147,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            150
+          ]
+        }
+      ],
+      "orig": "82 Zhang W, Fan M, Wang C, et al. Hair loss after metabolic and bariatric surgery: a systematic review and meta-analysis. Obes Surg 2021; 31: 2649-59.",
+      "text": "82 Zhang W, Fan M, Wang C, et al. Hair loss after metabolic and bariatric surgery: a systematic review and meta-analysis. Obes Surg 2021; 31: 2649-59.",
+      "enumerated": false,
+      "marker": ""
+    },
+    {
+      "self_ref": "#/texts/25",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 21,
+          "bbox": {
+            "l": 262.2066,
+            "t": 617.6237951171875,
+            "r": 471.4488000000002,
+            "b": 603.6448558547146,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            137
+          ]
+        }
+      ],
+      "orig": "83 Desai DD, Sikora M, Nohria A, et al. GLP-1 agonists and hair loss: a call for further investigation. Int J Dermatol 2024; 63: 1128-30.",
+      "text": "83 Desai DD, Sikora M, Nohria A, et al. GLP-1 agonists and hair loss: a call for further investigation. Int J Dermatol 2024; 63: 1128-30.",
+      "enumerated": false,
+      "marker": ""
+    },
+    {
+      "self_ref": "#/texts/26",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 21,
+          "bbox": {
+            "l": 262.2066,
+            "t": 600.2064951171875,
+            "r": 452.57679999999993,
+            "b": 586.2275558547146,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            125
+          ]
+        }
+      ],
+      "orig": "84 Pacei F, Tesone A, Laudi N, et al. The relevance of thiamine evaluation in a practical setting. Nutrients 2020; 12: 1-17 .",
+      "text": "84 Pacei F, Tesone A, Laudi N, et al. The relevance of thiamine evaluation in a practical setting. Nutrients 2020; 12: 1-17 .",
+      "enumerated": false,
+      "marker": ""
+    },
+    {
+      "self_ref": "#/texts/27",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 21,
+          "bbox": {
+            "l": 262.2066,
+            "t": 582.7891951171875,
+            "r": 465.64579999999995,
+            "b": 552.8082558547147,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            234
+          ]
+        }
+      ],
+      "orig": "85 Karimi Behnagh A, Eghbali M, Abdolmaleki F, Abbasi M, Mottaghi A. Pre- and post-surgical prevalence of thiamine deficiency in patients undergoing bariatric surgery: a systematic review and meta-analysis. Obes Surg 2024; 34: 653-65.",
+      "text": "85 Karimi Behnagh A, Eghbali M, Abdolmaleki F, Abbasi M, Mottaghi A. Pre- and post-surgical prevalence of thiamine deficiency in patients undergoing bariatric surgery: a systematic review and meta-analysis. Obes Surg 2024; 34: 653-65.",
+      "enumerated": false,
+      "marker": ""
+    },
+    {
+      "self_ref": "#/texts/28",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 21,
+          "bbox": {
+            "l": 262.2066,
+            "t": 549.3717951171875,
+            "r": 477.13979999999987,
+            "b": 527.3918558547147,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            145
+          ]
+        }
+      ],
+      "orig": "86 Gras C, De Wit V, Oussedik N, et al. Semaglutide-induced Wernicke encephalopathy: a comprehensive analysis. Eur J Clin Nutr 2025; 79: 1160-63.",
+      "text": "86 Gras C, De Wit V, Oussedik N, et al. Semaglutide-induced Wernicke encephalopathy: a comprehensive analysis. Eur J Clin Nutr 2025; 79: 1160-63.",
+      "enumerated": false,
+      "marker": ""
+    },
+    {
+      "self_ref": "#/texts/29",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 21,
+          "bbox": {
+            "l": 262.2066,
+            "t": 523.9544951171875,
+            "r": 466.5838000000002,
+            "b": 493.97355585471473,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            206
+          ]
+        }
+      ],
+      "orig": "87 Chiang CH, Jaroenlapnopparat A, Colak SC, et al. Glucagon-like peptide-1 receptor agonists and gastrointestinal adverse events: a systematic review and meta-analysis. Gastroenterology 2025; 169: 1268-81.",
+      "text": "87 Chiang CH, Jaroenlapnopparat A, Colak SC, et al. Glucagon-like peptide-1 receptor agonists and gastrointestinal adverse events: a systematic review and meta-analysis. Gastroenterology 2025; 169: 1268-81.",
+      "enumerated": false,
+      "marker": ""
+    },
+    {
+      "self_ref": "#/texts/30",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 21,
+          "bbox": {
+            "l": 262.2066,
+            "t": 490.5371951171875,
+            "r": 471.8898000000004,
+            "b": 476.5582558547146,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            133
+          ]
+        }
+      ],
+      "orig": "88 Barazzoni R, Gortan Cappellari G. Double burden of malnutrition in persons with obesity. Rev Endocr Metab Disord 2020; 21: 307-13.",
+      "text": "88 Barazzoni R, Gortan Cappellari G. Double burden of malnutrition in persons with obesity. Rev Endocr Metab Disord 2020; 21: 307-13.",
+      "enumerated": false,
+      "marker": ""
+    },
+    {
+      "self_ref": "#/texts/31",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 21,
+          "bbox": {
+            "l": 262.2066,
+            "t": 473.1198951171875,
+            "r": 470.27980000000014,
+            "b": 451.1399558547147,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            178
+          ]
+        }
+      ],
+      "orig": "89 Churuangsuk C, Griffiths D, Lean MEJ, Combet E. Impacts of carbohydrate-restricted diets on micronutrient intakes and status: a systematic review. Obes Rev 2019; 20: 1132-47 .",
+      "text": "89 Churuangsuk C, Griffiths D, Lean MEJ, Combet E. Impacts of carbohydrate-restricted diets on micronutrient intakes and status: a systematic review. Obes Rev 2019; 20: 1132-47 .",
+      "enumerated": false,
+      "marker": ""
+    },
+    {
+      "self_ref": "#/texts/32",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 21,
+          "bbox": {
+            "l": 262.2066,
+            "t": 447.7024951171875,
+            "r": 474.0878000000002,
+            "b": 425.72255585471464,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            150
+          ]
+        }
+      ],
+      "orig": "90 Carrillo-\u00c1lvarez E. Perspective: food and nutrition insecurity in Europe: challenges and opportunities for dietitians. Adv Nutr 2023; 14: 995-1004.",
+      "text": "90 Carrillo-\u00c1lvarez E. Perspective: food and nutrition insecurity in Europe: challenges and opportunities for dietitians. Adv Nutr 2023; 14: 995-1004.",
+      "enumerated": false,
+      "marker": ""
+    },
+    {
+      "self_ref": "#/texts/33",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 21,
+          "bbox": {
+            "l": 262.2066,
+            "t": 422.2851951171875,
+            "r": 476.7758000000002,
+            "b": 408.30625585471466,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            139
+          ]
+        }
+      ],
+      "orig": "91 ElSayed NA, McCoy RG, Aleppo G, et al. 13. Older adults: standards of care in diabetes-2025. Diabetes Care 2025; 48 (suppl 1) : S266-82.",
+      "text": "91 ElSayed NA, McCoy RG, Aleppo G, et al. 13. Older adults: standards of care in diabetes-2025. Diabetes Care 2025; 48 (suppl 1) : S266-82.",
+      "enumerated": false,
+      "marker": ""
+    },
+    {
+      "self_ref": "#/texts/34",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 21,
+          "bbox": {
+            "l": 262.2066,
+            "t": 404.8678951171875,
+            "r": 474.4868,
+            "b": 366.8859558547147,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            283
+          ]
+        }
+      ],
+      "orig": "92 Kanai R, Kinoshita S, Kanbe I, et al. Once-weekly semaglutide administered after laparoscopic sleeve gastrectomy: effects on body weight, glycemic control, and measured nutritional metrics in Japanese patients having both obesity and type 2 diabetes. Obes Pillars 2024; 9: 100098.",
+      "text": "92 Kanai R, Kinoshita S, Kanbe I, et al. Once-weekly semaglutide administered after laparoscopic sleeve gastrectomy: effects on body weight, glycemic control, and measured nutritional metrics in Japanese patients having both obesity and type 2 diabetes. Obes Pillars 2024; 9: 100098.",
+      "enumerated": false,
+      "marker": ""
+    },
+    {
+      "self_ref": "#/texts/35",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 21,
+          "bbox": {
+            "l": 262.2066,
+            "t": 363.4505951171875,
+            "r": 466.0378,
+            "b": 341.47065585471466,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            190
+          ]
+        }
+      ],
+      "orig": "93 Spreckley M, Ruggiero CF, Brown A. Bridging the nutrition guidance gap for GLP-1 receptor agonist therapy assisted weight loss: lessons from bariatric surgery. Int J Obes 2025; 2025: 1-3.",
+      "text": "93 Spreckley M, Ruggiero CF, Brown A. Bridging the nutrition guidance gap for GLP-1 receptor agonist therapy assisted weight loss: lessons from bariatric surgery. Int J Obes 2025; 2025: 1-3.",
+      "enumerated": false,
+      "marker": ""
+    },
+    {
+      "self_ref": "#/texts/36",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 21,
+          "bbox": {
+            "l": 262.2066,
+            "t": 338.0331951171875,
+            "r": 463.9728000000001,
+            "b": 324.05425585471465,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            127
+          ]
+        }
+      ],
+      "orig": "94 Bal BS, Finelli FC, Shope TR, Koch TR. Nutritional deficiencies after bariatric surgery. Nat Rev Endocrinol 2012; 8: 544-56.",
+      "text": "94 Bal BS, Finelli FC, Shope TR, Koch TR. Nutritional deficiencies after bariatric surgery. Nat Rev Endocrinol 2012; 8: 544-56.",
+      "enumerated": false,
+      "marker": ""
+    },
+    {
+      "self_ref": "#/texts/37",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 21,
+          "bbox": {
+            "l": 262.2066,
+            "t": 320.6158951171875,
+            "r": 477.2868000000002,
+            "b": 258.6309558547148,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            487
+          ]
+        }
+      ],
+      "orig": "95 Mechanick JI, Apovian C, Brethauer S, et al. Clinical practice guidelines for the perioperative nutrition, metabolic, and nonsurgical support of patients undergoing bariatric procedures-2019 update: cosponsored by American Association of Clinical Endocrinologists/American College of Endocrinology, the Obesity Society, American Society for Metabolic & Bariatric Surgery, Obesity Medicine Association, and American Society of Anesthesiologists. Surg Obes Relat Dis 2020; 16: 175-247 .",
+      "text": "95 Mechanick JI, Apovian C, Brethauer S, et al. Clinical practice guidelines for the perioperative nutrition, metabolic, and nonsurgical support of patients undergoing bariatric procedures-2019 update: cosponsored by American Association of Clinical Endocrinologists/American College of Endocrinology, the Obesity Society, American Society for Metabolic & Bariatric Surgery, Obesity Medicine Association, and American Society of Anesthesiologists. Surg Obes Relat Dis 2020; 16: 175-247 .",
+      "enumerated": false,
+      "marker": ""
+    },
+    {
+      "self_ref": "#/texts/38",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 21,
+          "bbox": {
+            "l": 262.2066,
+            "t": 255.19859511718755,
+            "r": 455.2018000000001,
+            "b": 217.21665585471465,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            270
+          ]
+        }
+      ],
+      "orig": "96 O'Kane M, Parretti HM, Pinkney J, et al. British Obesity and Metabolic Surgery Society Guidelines on Perioperative and Postoperative Biochemical Monitoring and Micronutrient Replacement for Patients Undergoing Bariatric Surgery2020 update. Obes Rev 2020; 21: e13087 .",
+      "text": "96 O'Kane M, Parretti HM, Pinkney J, et al. British Obesity and Metabolic Surgery Society Guidelines on Perioperative and Postoperative Biochemical Monitoring and Micronutrient Replacement for Patients Undergoing Bariatric Surgery2020 update. Obes Rev 2020; 21: e13087 .",
+      "enumerated": false,
+      "marker": ""
+    },
+    {
+      "self_ref": "#/texts/39",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 21,
+          "bbox": {
+            "l": 262.2066,
+            "t": 213.78129511718748,
+            "r": 477.70680000000027,
+            "b": 183.80035585471455,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            246
+          ]
+        }
+      ],
+      "orig": "97 O'Brien PE, MacDonald L, Anderson M, Brennan L, Brown WA. Long-term outcomes after bariatric surgery: fifteen-year follow-up of adjustable gastric banding and a systematic review of the bariatric surgical literature. Ann Surg 2013; 257: 87-94.",
+      "text": "97 O'Brien PE, MacDonald L, Anderson M, Brennan L, Brown WA. Long-term outcomes after bariatric surgery: fifteen-year follow-up of adjustable gastric banding and a systematic review of the bariatric surgical literature. Ann Surg 2013; 257: 87-94.",
+      "enumerated": false,
+      "marker": ""
+    },
+    {
+      "self_ref": "#/texts/40",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 21,
+          "bbox": {
+            "l": 262.2066,
+            "t": 180.36389511718744,
+            "r": 476.2088000000002,
+            "b": 142.38195585471453,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            316
+          ]
+        }
+      ],
+      "orig": "98 Cohen RV, Busetto L, Levinson R, et al. International Consensus Position Statement on the Role of Obesity Management Medications in the Context of Metabolic Bariatric Surgery: expert guideline by the International Federation for the Surgery of Obesity and Metabolic Disorders (IFSO). Br J Surg 2024; 111: znae283.",
+      "text": "98 Cohen RV, Busetto L, Levinson R, et al. International Consensus Position Statement on the Role of Obesity Management Medications in the Context of Metabolic Bariatric Surgery: expert guideline by the International Federation for the Surgery of Obesity and Metabolic Disorders (IFSO). Br J Surg 2024; 111: znae283.",
+      "enumerated": false,
+      "marker": ""
+    },
+    {
+      "self_ref": "#/texts/41",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 21,
+          "bbox": {
+            "l": 262.2066,
+            "t": 138.94659511718748,
+            "r": 475.2358000000002,
+            "b": 116.96665585471465,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            192
+          ]
+        }
+      ],
+      "orig": "99 Skipper A, Coltman A, Tomesko J, et al. Position of the Academy of Nutrition and Dietetics: malnutrition (undernutrition) screening tools for all adults. J Acad Nutr Diet 2020; 120: 709-13.",
+      "text": "99 Skipper A, Coltman A, Tomesko J, et al. Position of the Academy of Nutrition and Dietetics: malnutrition (undernutrition) screening tools for all adults. J Acad Nutr Diet 2020; 120: 709-13.",
+      "enumerated": false,
+      "marker": ""
+    },
+    {
+      "self_ref": "#/texts/42",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 21,
+          "bbox": {
+            "l": 262.2066,
+            "t": 113.52919511718756,
+            "r": 464.3648000000002,
+            "b": 91.5492558547146,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            193
+          ]
+        }
+      ],
+      "orig": "100\t Petra G, Kritsotakis EI, Gouvas N, et al. Multicentre prospective study on the diagnostic and prognostic validity of malnutrition assessment tools in surgery. Br J Surg 2025; 112: znaf013.",
+      "text": "100\t Petra G, Kritsotakis EI, Gouvas N, et al. Multicentre prospective study on the diagnostic and prognostic validity of malnutrition assessment tools in surgery. Br J Surg 2025; 112: znaf013.",
+      "enumerated": false,
+      "marker": ""
+    },
+    {
+      "self_ref": "#/texts/43",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 21,
+          "bbox": {
+            "l": 262.2066,
+            "t": 88.11189511718749,
+            "r": 466.39480000000015,
+            "b": 50.12995585471458,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            252
+          ]
+        }
+      ],
+      "orig": "101 van Vliet IMY, Gomes-Neto AW, de Jong MFC, Bakker SJL, Jager-Wittenaar H, Navis GJ. Malnutrition screening on hospital admission: impact of overweight and obesity on comparative performance of MUST and PG-SGA SF. Eur J Clin Nutr 2021; 75: 1398-406.",
+      "text": "101 van Vliet IMY, Gomes-Neto AW, de Jong MFC, Bakker SJL, Jager-Wittenaar H, Navis GJ. Malnutrition screening on hospital admission: impact of overweight and obesity on comparative performance of MUST and PG-SGA SF. Eur J Clin Nutr 2021; 75: 1398-406.",
+      "enumerated": false,
+      "marker": ""
+    },
+    {
+      "self_ref": "#/texts/44",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 21,
+          "bbox": {
+            "l": 36.8504,
+            "t": 24.538795117187533,
+            "r": 387.20939479999987,
+            "b": 18.948359402901815,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            118
+          ]
+        }
+      ],
+      "orig": "www.thelancet.com/diabetes-endocrinology Published online July 8, 2026   https://doi.org/10.1016/S2213-8587(26)00122-1",
+      "text": "www.thelancet.com/diabetes-endocrinology Published online July 8, 2026   https://doi.org/10.1016/S2213-8587(26)00122-1"
+    },
+    {
+      "self_ref": "#/texts/45",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 21,
+          "bbox": {
+            "l": 560.0483,
+            "t": 24.538795117187533,
+            "r": 566.9292017,
+            "b": 18.949484209950015,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            2
+          ]
+        }
+      ],
+      "orig": "21",
+      "text": "21"
+    },
+    {
+      "self_ref": "#/texts/46",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_header",
+      "prov": [
+        {
+          "page_no": 22,
+          "bbox": {
+            "l": 51.0249,
+            "t": 759.5817951171875,
+            "r": 86.0289,
+            "b": 750.0001192762089,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            6
+          ]
+        }
+      ],
+      "orig": "Review",
+      "text": "Review"
+    },
+    {
+      "self_ref": "#/texts/47",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 22,
+          "bbox": {
+            "l": 119.0551,
+            "t": 668.4584951171875,
+            "r": 324.20930000000016,
+            "b": 630.4765558547147,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            293
+          ]
+        }
+      ],
+      "orig": "102\t De Groot LM, Lee G, Ackerie A, van der Meij BS. Malnutrition screening and assessment in the cancer care ambulatory setting: mortality predictability and validity of the patient-generated subjective global assessment short form (PG-SGA SF) and the GLIM criteria. Nutrients 2020; 12: 1-13.",
+      "text": "102\t De Groot LM, Lee G, Ackerie A, van der Meij BS. Malnutrition screening and assessment in the cancer care ambulatory setting: mortality predictability and validity of the patient-generated subjective global assessment short form (PG-SGA SF) and the GLIM criteria. Nutrients 2020; 12: 1-13.",
+      "enumerated": false,
+      "marker": ""
+    },
+    {
+      "self_ref": "#/texts/48",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 22,
+          "bbox": {
+            "l": 119.0551,
+            "t": 627.0410951171875,
+            "r": 321.78030000000007,
+            "b": 605.0611558547147,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            168
+          ]
+        }
+      ],
+      "orig": "103\t Jensen GL, Cederholm T, Correia MITD, et al. GLIM consensus approach to diagnosis of malnutrition: a 5-year update. JPEN J Parenter Enteral Nutr 2025; 49: 414-27 .",
+      "text": "103\t Jensen GL, Cederholm T, Correia MITD, et al. GLIM consensus approach to diagnosis of malnutrition: a 5-year update. JPEN J Parenter Enteral Nutr 2025; 49: 414-27 .",
+      "enumerated": false,
+      "marker": ""
+    },
+    {
+      "self_ref": "#/texts/49",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 22,
+          "bbox": {
+            "l": 119.0551,
+            "t": 601.6237951171875,
+            "r": 333.0293000000001,
+            "b": 579.6438558547146,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            187
+          ]
+        }
+      ],
+      "orig": "104\t Cederholm T, Jensen GL, Correia MITD, et al. GLIM criteria for the diagnosis of malnutrition-a consensus report from the global clinical nutrition community. Clin Nutr 2019; 38: 1-9.",
+      "text": "104\t Cederholm T, Jensen GL, Correia MITD, et al. GLIM criteria for the diagnosis of malnutrition-a consensus report from the global clinical nutrition community. Clin Nutr 2019; 38: 1-9.",
+      "enumerated": false,
+      "marker": ""
+    },
+    {
+      "self_ref": "#/texts/50",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 22,
+          "bbox": {
+            "l": 119.0551,
+            "t": 576.2064951171875,
+            "r": 332.6862999999999,
+            "b": 554.2265558547147,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            143
+          ]
+        }
+      ],
+      "orig": "105\t Cristancho C, Mogensen KM, Robinson MK. Malnutrition in patients with obesity: an overview perspective. Nutr Clin Pract 2024; 39: 1300-16.",
+      "text": "105\t Cristancho C, Mogensen KM, Robinson MK. Malnutrition in patients with obesity: an overview perspective. Nutr Clin Pract 2024; 39: 1300-16.",
+      "enumerated": false,
+      "marker": ""
+    },
+    {
+      "self_ref": "#/texts/51",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 22,
+          "bbox": {
+            "l": 119.0551,
+            "t": 550.7891951171875,
+            "r": 330.8733000000002,
+            "b": 520.8082558547147,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            241
+          ]
+        }
+      ],
+      "orig": "106\t Compher C, Cederholm T, Correia MITD, et al. Guidance for assessment of the muscle mass phenotypic criterion for the Global Leadership Initiative on Malnutrition diagnosis of malnutrition. JPEN J Parenter Enteral Nutr 2022; 46: 1232-42.",
+      "text": "106\t Compher C, Cederholm T, Correia MITD, et al. Guidance for assessment of the muscle mass phenotypic criterion for the Global Leadership Initiative on Malnutrition diagnosis of malnutrition. JPEN J Parenter Enteral Nutr 2022; 46: 1232-42.",
+      "enumerated": false,
+      "marker": ""
+    },
+    {
+      "self_ref": "#/texts/52",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 22,
+          "bbox": {
+            "l": 119.0551,
+            "t": 517.3717951171875,
+            "r": 334.8003000000001,
+            "b": 487.3908558547147,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            228
+          ]
+        }
+      ],
+      "orig": "107 Uhlmann K, Schaller F, Lehmann U. Current practice of assessing and monitoring muscle strength, muscle mass and muscle function during nutritional care by dietitians in Switzerland-an online survey. Nutrients 2022; 14: 1741.",
+      "text": "107 Uhlmann K, Schaller F, Lehmann U. Current practice of assessing and monitoring muscle strength, muscle mass and muscle function during nutritional care by dietitians in Switzerland-an online survey. Nutrients 2022; 14: 1741.",
+      "enumerated": false,
+      "marker": ""
+    },
+    {
+      "self_ref": "#/texts/53",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 22,
+          "bbox": {
+            "l": 119.0551,
+            "t": 483.9544951171875,
+            "r": 316.3343000000001,
+            "b": 469.9755558547146,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            122
+          ]
+        }
+      ],
+      "orig": "108\t Espinosa-Salas S, Gonzalez-Arias M. Nutrition: micronutrient intake, imbalances, and interventions. StatPearls, 2023.",
+      "text": "108\t Espinosa-Salas S, Gonzalez-Arias M. Nutrition: micronutrient intake, imbalances, and interventions. StatPearls, 2023.",
+      "enumerated": false,
+      "marker": ""
+    },
+    {
+      "self_ref": "#/texts/54",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 22,
+          "bbox": {
+            "l": 119.0551,
+            "t": 466.5371951171875,
+            "r": 333.31629999999996,
+            "b": 444.55725585471464,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            170
+          ]
+        }
+      ],
+      "orig": "109\t Astrup A, B\u00fcgel S. Overfed but undernourished: recognizing nutritional inadequacies/deficiencies in patients with overweight or obesity. Int J Obes 2019; 43: 219-32.",
+      "text": "109\t Astrup A, B\u00fcgel S. Overfed but undernourished: recognizing nutritional inadequacies/deficiencies in patients with overweight or obesity. Int J Obes 2019; 43: 219-32.",
+      "enumerated": false,
+      "marker": ""
+    },
+    {
+      "self_ref": "#/texts/55",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 22,
+          "bbox": {
+            "l": 119.0551,
+            "t": 441.1198951171875,
+            "r": 330.3763000000001,
+            "b": 403.13795585471473,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            300
+          ]
+        }
+      ],
+      "orig": "110 Jun S, Cowan AE, Bhadra A, et al. Older adults with obesity have higher risks of some micronutrient inadequacies and lower overall dietary quality compared to peers with a healthy weight, National Health and Nutrition Examination Surveys (NHANES), 2011-2014. Public Health Nutr 2020; 23: 2268-79.",
+      "text": "110 Jun S, Cowan AE, Bhadra A, et al. Older adults with obesity have higher risks of some micronutrient inadequacies and lower overall dietary quality compared to peers with a healthy weight, National Health and Nutrition Examination Surveys (NHANES), 2011-2014. Public Health Nutr 2020; 23: 2268-79.",
+      "enumerated": false,
+      "marker": ""
+    },
+    {
+      "self_ref": "#/texts/56",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 22,
+          "bbox": {
+            "l": 119.0551,
+            "t": 399.7024951171875,
+            "r": 334.10730000000007,
+            "b": 369.72155585471467,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            244
+          ]
+        }
+      ],
+      "orig": "111 Baldwin C, Smith R, Gibbs M, Weekes CE, Emery PW. Quality of the evidence supporting the role of oral nutritional supplements in the management of malnutrition: an overview of systematic reviews and meta-analyses. Adv Nutr 2021; 12: 503-22.",
+      "text": "111 Baldwin C, Smith R, Gibbs M, Weekes CE, Emery PW. Quality of the evidence supporting the role of oral nutritional supplements in the management of malnutrition: an overview of systematic reviews and meta-analyses. Adv Nutr 2021; 12: 503-22.",
+      "enumerated": false,
+      "marker": ""
+    },
+    {
+      "self_ref": "#/texts/57",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 22,
+          "bbox": {
+            "l": 119.0551,
+            "t": 366.2851951171875,
+            "r": 329.4523000000001,
+            "b": 336.3042558547147,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            237
+          ]
+        }
+      ],
+      "orig": "112 Busetto L, Dicker D, Azran C, et al. Practical Recommendations of the Obesity Management Task Force of the European Association for the Study of Obesity for the Post-Bariatric Surgery Medical Management. Obes Facts 2017; 10: 597-632.",
+      "text": "112 Busetto L, Dicker D, Azran C, et al. Practical Recommendations of the Obesity Management Task Force of the European Association for the Study of Obesity for the Post-Bariatric Surgery Medical Management. Obes Facts 2017; 10: 597-632.",
+      "enumerated": false,
+      "marker": ""
+    },
+    {
+      "self_ref": "#/texts/58",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 22,
+          "bbox": {
+            "l": 119.0551,
+            "t": 332.8678951171875,
+            "r": 334.3523,
+            "b": 294.8859558547147,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            304
+          ]
+        }
+      ],
+      "orig": "113 Drummen M, Tischmann L, Gatta-Cherifi B, et al. High compared with moderate protein intake reduces adaptive thermogenesis and induces a negative energy balance during long-term weight-loss maintenance in participants with prediabetes in the postobese state: a PREVIEW study. J Nutr 2020; 150: 458-63.",
+      "text": "113 Drummen M, Tischmann L, Gatta-Cherifi B, et al. High compared with moderate protein intake reduces adaptive thermogenesis and induces a negative energy balance during long-term weight-loss maintenance in participants with prediabetes in the postobese state: a PREVIEW study. J Nutr 2020; 150: 458-63.",
+      "enumerated": false,
+      "marker": ""
+    },
+    {
+      "self_ref": "#/texts/59",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 22,
+          "bbox": {
+            "l": 119.0551,
+            "t": 291.4505951171875,
+            "r": 333.6103000000001,
+            "b": 269.47065585471466,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            186
+          ]
+        }
+      ],
+      "orig": "114 Neeland IJ, Linge J, Birkenfeld AL. Changes in lean body mass with glucagon-like peptide-1-based therapies and mitigation strategies. Diabetes Obes Metab 2024; 26 (suppl 4) : 16-27 .",
+      "text": "114 Neeland IJ, Linge J, Birkenfeld AL. Changes in lean body mass with glucagon-like peptide-1-based therapies and mitigation strategies. Diabetes Obes Metab 2024; 26 (suppl 4) : 16-27 .",
+      "enumerated": false,
+      "marker": ""
+    },
+    {
+      "self_ref": "#/texts/60",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 22,
+          "bbox": {
+            "l": 119.0551,
+            "t": 266.03319511718746,
+            "r": 334.33129999999994,
+            "b": 236.05225585471464,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            215
+          ]
+        }
+      ],
+      "orig": "115 Melville H, Lister NB, Libesman S, et al. The prevalence of eating disorders and disordered eating in adults seeking obesity treatment: a systematic review with meta-analyses. Int J Eat Disord 2025; 58: 1644-61.",
+      "text": "115 Melville H, Lister NB, Libesman S, et al. The prevalence of eating disorders and disordered eating in adults seeking obesity treatment: a systematic review with meta-analyses. Int J Eat Disord 2025; 58: 1644-61.",
+      "enumerated": false,
+      "marker": ""
+    },
+    {
+      "self_ref": "#/texts/61",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 22,
+          "bbox": {
+            "l": 119.0551,
+            "t": 232.6158951171875,
+            "r": 329.83730000000014,
+            "b": 202.63495585471458,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            206
+          ]
+        }
+      ],
+      "orig": "116 Nagata JM, Garber AK, Tabler JL, Murray SB, Bibbins-Domingo K. Prevalence and correlates of disordered eating behaviors among young adults with overweight or obesity. J Gen Intern Med 2018; 33: 1337-43.",
+      "text": "116 Nagata JM, Garber AK, Tabler JL, Murray SB, Bibbins-Domingo K. Prevalence and correlates of disordered eating behaviors among young adults with overweight or obesity. J Gen Intern Med 2018; 33: 1337-43.",
+      "enumerated": false,
+      "marker": ""
+    },
+    {
+      "self_ref": "#/texts/62",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 22,
+          "bbox": {
+            "l": 119.0551,
+            "t": 199.19859511718755,
+            "r": 333.21830000000006,
+            "b": 177.2186558547146,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            181
+          ]
+        }
+      ],
+      "orig": "117 Duncan AE, Ziobrowski HN, Nicol G. The prevalence of past 12-month and lifetime DSM-IV eating disorders by BMI category in US men and women. Eur Eat Disord Rev 2017; 25: 165-71.",
+      "text": "117 Duncan AE, Ziobrowski HN, Nicol G. The prevalence of past 12-month and lifetime DSM-IV eating disorders by BMI category in US men and women. Eur Eat Disord Rev 2017; 25: 165-71.",
+      "enumerated": false,
+      "marker": ""
+    },
+    {
+      "self_ref": "#/texts/63",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 22,
+          "bbox": {
+            "l": 119.0551,
+            "t": 173.78129511718748,
+            "r": 328.44429999999994,
+            "b": 143.80035585471455,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            216
+          ]
+        }
+      ],
+      "orig": "118 Aoun L, Almardini S, Saliba F, et al. GLP-1 receptor agonists: a novel pharmacotherapy for binge eating (binge eating disorder and bulimia nervosa)? A systematic review. J Clin Transl Endocrinol 2024; 35: 100333.",
+      "text": "118 Aoun L, Almardini S, Saliba F, et al. GLP-1 receptor agonists: a novel pharmacotherapy for binge eating (binge eating disorder and bulimia nervosa)? A systematic review. J Clin Transl Endocrinol 2024; 35: 100333.",
+      "enumerated": false,
+      "marker": ""
+    },
+    {
+      "self_ref": "#/texts/64",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 22,
+          "bbox": {
+            "l": 119.0551,
+            "t": 140.36389511718744,
+            "r": 322.02530000000013,
+            "b": 110.38295585471462,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            228
+          ]
+        }
+      ],
+      "orig": "119 Radkhah H, Rahimipour Anaraki S, Parhizkar Roudsari P, et al. The impact of glucagon-like peptide-1 (GLP-1) agonists in the treatment of eating disorders: a systematic review and metaanalysis. Eat Weight Disord 2025; 30: 10.",
+      "text": "119 Radkhah H, Rahimipour Anaraki S, Parhizkar Roudsari P, et al. The impact of glucagon-like peptide-1 (GLP-1) agonists in the treatment of eating disorders: a systematic review and metaanalysis. Eat Weight Disord 2025; 30: 10.",
+      "enumerated": false,
+      "marker": ""
+    },
+    {
+      "self_ref": "#/texts/65",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 22,
+          "bbox": {
+            "l": 119.0551,
+            "t": 106.94659511718748,
+            "r": 327.6043000000001,
+            "b": 84.96665585471465,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            164
+          ]
+        }
+      ],
+      "orig": "120\t Bartel S, McElroy SL, Levangie D, Keshen A. Use of glucagon-like peptide-1 receptor agonists in eating disorder populations. Int J Eat Disord 2024; 57: 286-93.",
+      "text": "120\t Bartel S, McElroy SL, Levangie D, Keshen A. Use of glucagon-like peptide-1 receptor agonists in eating disorder populations. Int J Eat Disord 2024; 57: 286-93.",
+      "enumerated": false,
+      "marker": ""
+    },
+    {
+      "self_ref": "#/texts/66",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 22,
+          "bbox": {
+            "l": 119.0551,
+            "t": 81.52919511718756,
+            "r": 329.9283,
+            "b": 51.548255854714625,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            211
+          ]
+        }
+      ],
+      "orig": "121 House ET, Lister NB, Seidler AL, et al. Identifying eating disorders in adolescents and adults with overweight or obesity: a systematic review of screening questionnaires. Int J Eat Disord 2022; 55: 1171-93.",
+      "text": "121 House ET, Lister NB, Seidler AL, et al. Identifying eating disorders in adolescents and adults with overweight or obesity: a systematic review of screening questionnaires. Int J Eat Disord 2022; 55: 1171-93.",
+      "enumerated": false,
+      "marker": ""
+    },
+    {
+      "self_ref": "#/texts/67",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 22,
+          "bbox": {
+            "l": 344.4094,
+            "t": 668.4584951171875,
+            "r": 559.2725999999998,
+            "b": 646.4785558547146,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            179
+          ]
+        }
+      ],
+      "orig": "122\t Chen X, Zhao P, Wang W, Guo L, Pan Q. The antidepressant effects of GLP-1 receptor agonists: a systematic review and meta-analysis. Am J Geriatr Psychiatry 2024; 32: 117-27 .",
+      "text": "122\t Chen X, Zhao P, Wang W, Guo L, Pan Q. The antidepressant effects of GLP-1 receptor agonists: a systematic review and meta-analysis. Am J Geriatr Psychiatry 2024; 32: 117-27 .",
+      "enumerated": false,
+      "marker": ""
+    },
+    {
+      "self_ref": "#/texts/68",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 22,
+          "bbox": {
+            "l": 344.4094,
+            "t": 643.0410951171875,
+            "r": 547.1626000000002,
+            "b": 621.0611558547147,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            173
+          ]
+        }
+      ],
+      "orig": "123\t Breit S, Hubl D. The effect of GLP-1RAs on mental health and psychotropics-induced metabolic disorders: a systematic review. Psychoneuroendocrinology 2025; 176: 107415.",
+      "text": "123\t Breit S, Hubl D. The effect of GLP-1RAs on mental health and psychotropics-induced metabolic disorders: a systematic review. Psychoneuroendocrinology 2025; 176: 107415.",
+      "enumerated": false,
+      "marker": ""
+    },
+    {
+      "self_ref": "#/texts/69",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 22,
+          "bbox": {
+            "l": 344.4094,
+            "t": 617.6237951171875,
+            "r": 544.0406000000002,
+            "b": 595.6438558547146,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            185
+          ]
+        }
+      ],
+      "orig": "124\t Plenn E, Amin D, Henry J, Leavitt G, Walker J, Soleymani T. A qualitative analysis of patient experiences using semaglutide 2\u00b74 mg for weight loss. Obes Sci Pract 2025; 11: e70085.",
+      "text": "124\t Plenn E, Amin D, Henry J, Leavitt G, Walker J, Soleymani T. A qualitative analysis of patient experiences using semaglutide 2\u00b74 mg for weight loss. Obes Sci Pract 2025; 11: e70085.",
+      "enumerated": false,
+      "marker": ""
+    },
+    {
+      "self_ref": "#/texts/70",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 22,
+          "bbox": {
+            "l": 344.4094,
+            "t": 592.2064951171875,
+            "r": 556.1156000000002,
+            "b": 570.2265558547147,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            193
+          ]
+        }
+      ],
+      "orig": "125\t Brown A, Flint SW. 'My words would have more weight': exploring weight stigma in UK dietetic practice and dietitian's lived experiences of weight stigma. J Hum Nutr Diet 2024; 37: 1143-58.",
+      "text": "125\t Brown A, Flint SW. 'My words would have more weight': exploring weight stigma in UK dietetic practice and dietitian's lived experiences of weight stigma. J Hum Nutr Diet 2024; 37: 1143-58.",
+      "enumerated": false,
+      "marker": ""
+    },
+    {
+      "self_ref": "#/texts/71",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 22,
+          "bbox": {
+            "l": 344.4094,
+            "t": 566.7891951171875,
+            "r": 553.5466,
+            "b": 544.8092558547147,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            155
+          ]
+        }
+      ],
+      "orig": "126\t Lawrence BJ, Kerr D, Pollard CM, et al. Weight bias among health care professionals: a systematic review and meta-analysis. Obesity 2021; 29: 1802-12.",
+      "text": "126\t Lawrence BJ, Kerr D, Pollard CM, et al. Weight bias among health care professionals: a systematic review and meta-analysis. Obesity 2021; 29: 1802-12.",
+      "enumerated": false,
+      "marker": ""
+    },
+    {
+      "self_ref": "#/texts/72",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 22,
+          "bbox": {
+            "l": 344.4094,
+            "t": 541.3717951171875,
+            "r": 542.0386000000001,
+            "b": 511.3908558547147,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            213
+          ]
+        }
+      ],
+      "orig": "127\t Post SM, Stock ML, Persky S. Comparing the impact of GLP-1 agonists vs lifestyle interventions and weight controllability information on stigma and weight-related cognitions. Int J Behav Med 2025; 32: 528-40.",
+      "text": "127\t Post SM, Stock ML, Persky S. Comparing the impact of GLP-1 agonists vs lifestyle interventions and weight controllability information on stigma and weight-related cognitions. Int J Behav Med 2025; 32: 528-40.",
+      "enumerated": false,
+      "marker": ""
+    },
+    {
+      "self_ref": "#/texts/73",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 22,
+          "bbox": {
+            "l": 344.4094,
+            "t": 507.9544951171875,
+            "r": 557.6346,
+            "b": 477.9735558547147,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            213
+          ]
+        }
+      ],
+      "orig": "128\t Naveed M, Perez C, Ahmad E, Russell L, Lees Z, Maybury C. GLP-1 medication and weight loss: Barriers and motivators among 1659 participants managed in a virtual setting. Diabetes Obes Metab 2025; 27: 3780-88.",
+      "text": "128\t Naveed M, Perez C, Ahmad E, Russell L, Lees Z, Maybury C. GLP-1 medication and weight loss: Barriers and motivators among 1659 participants managed in a virtual setting. Diabetes Obes Metab 2025; 27: 3780-88.",
+      "enumerated": false,
+      "marker": ""
+    },
+    {
+      "self_ref": "#/texts/74",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 22,
+          "bbox": {
+            "l": 344.4094,
+            "t": 474.5371951171875,
+            "r": 536.2075999999998,
+            "b": 452.55725585471464,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            175
+          ]
+        }
+      ],
+      "orig": "129\t Jung FUCE, Luck-Sikorski C, Wiemers N, Riedel-Heller SG. Dietitians and nutritionists: stigma in the context of obesity. a systematic review. PLoS One 2015; 10: e0140276.",
+      "text": "129\t Jung FUCE, Luck-Sikorski C, Wiemers N, Riedel-Heller SG. Dietitians and nutritionists: stigma in the context of obesity. a systematic review. PLoS One 2015; 10: e0140276.",
+      "enumerated": false,
+      "marker": ""
+    },
+    {
+      "self_ref": "#/texts/75",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 22,
+          "bbox": {
+            "l": 344.4094,
+            "t": 449.1198951171875,
+            "r": 559.090600000001,
+            "b": 427.1399558547147,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            210
+          ]
+        }
+      ],
+      "orig": "130\t Hanson P, Shuttlewood E, Halder L, et al. Application of mindfulness in a tier 3 obesity service improves eating behavior and facilitates successful weight loss. J Clin Endocrinol Metab 2019; 104: 793-800.",
+      "text": "130\t Hanson P, Shuttlewood E, Halder L, et al. Application of mindfulness in a tier 3 obesity service improves eating behavior and facilitates successful weight loss. J Clin Endocrinol Metab 2019; 104: 793-800.",
+      "enumerated": false,
+      "marker": ""
+    },
+    {
+      "self_ref": "#/texts/76",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 22,
+          "bbox": {
+            "l": 344.4094,
+            "t": 423.7024951171875,
+            "r": 548.5416000000001,
+            "b": 393.72155585471467,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            247
+          ]
+        }
+      ],
+      "orig": "131 Kudlek L, Eustachio Colombo P, Mueller J, et al. Individual participant data meta-analysis of eating behaviour traits as effect modifiers in acceptance and commitment therapy-based weight management interventions. Int J Obes 2025; 49: 1142-52.",
+      "text": "131 Kudlek L, Eustachio Colombo P, Mueller J, et al. Individual participant data meta-analysis of eating behaviour traits as effect modifiers in acceptance and commitment therapy-based weight management interventions. Int J Obes 2025; 49: 1142-52.",
+      "enumerated": false,
+      "marker": ""
+    },
+    {
+      "self_ref": "#/texts/77",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 22,
+          "bbox": {
+            "l": 344.4094,
+            "t": 390.2851951171875,
+            "r": 556.5356000000002,
+            "b": 368.3052558547147,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            162
+          ]
+        }
+      ],
+      "orig": "132\t Post SM, Persky S. The effect of GLP-1 receptor agonist use on negative evaluations of women with higher and lower body weight. Int J Obes 2024; 48: 1019-26.",
+      "text": "132\t Post SM, Persky S. The effect of GLP-1 receptor agonist use on negative evaluations of women with higher and lower body weight. Int J Obes 2024; 48: 1019-26.",
+      "enumerated": false,
+      "marker": ""
+    },
+    {
+      "self_ref": "#/texts/78",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 22,
+          "bbox": {
+            "l": 344.4094,
+            "t": 364.8678951171875,
+            "r": 558.8526,
+            "b": 334.8869558547147,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            222
+          ]
+        }
+      ],
+      "orig": "133\t Despain D, Hoffman BL. Optimizing nutrition, diet, and lifestyle communication in GLP-1 medication therapy for weight management: a qualitative research study with registered dietitians. Obes Pillars 2024; 12: 100143.",
+      "text": "133\t Despain D, Hoffman BL. Optimizing nutrition, diet, and lifestyle communication in GLP-1 medication therapy for weight management: a qualitative research study with registered dietitians. Obes Pillars 2024; 12: 100143.",
+      "enumerated": false,
+      "marker": ""
+    },
+    {
+      "self_ref": "#/texts/79",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 22,
+          "bbox": {
+            "l": 344.4094,
+            "t": 331.4505951171875,
+            "r": 554.2536000000001,
+            "b": 293.4686558547147,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            294
+          ]
+        }
+      ],
+      "orig": "134\t Osborne D, Abdelgadir E. Mental health outcomes in obesity interventions with GLP-1 receptor agonists: is it similar to other obesity interventions? A narrative review with systematic evidence synthesis. Int J Obes 2026; published online Jan 5. https://doi. org/10.1038/s41366-025-02002-1.",
+      "text": "134\t Osborne D, Abdelgadir E. Mental health outcomes in obesity interventions with GLP-1 receptor agonists: is it similar to other obesity interventions? A narrative review with systematic evidence synthesis. Int J Obes 2026; published online Jan 5. https://doi. org/10.1038/s41366-025-02002-1.",
+      "enumerated": false,
+      "marker": ""
+    },
+    {
+      "self_ref": "#/texts/80",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 22,
+          "bbox": {
+            "l": 344.4094,
+            "t": 290.0331951171875,
+            "r": 532.4766000000001,
+            "b": 268.05325585471473,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            131
+          ]
+        }
+      ],
+      "orig": "135\t Morgan JF, Reid F, Lacey JH. The SCOFF questionnaire: a new screening tool for eating disorders. West J Med 2000; 172: 164-65.",
+      "text": "135\t Morgan JF, Reid F, Lacey JH. The SCOFF questionnaire: a new screening tool for eating disorders. West J Med 2000; 172: 164-65.",
+      "enumerated": false,
+      "marker": ""
+    },
+    {
+      "self_ref": "#/texts/81",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 22,
+          "bbox": {
+            "l": 344.4095,
+            "t": 264.6158951171875,
+            "r": 555.1847,
+            "b": 242.63595585471467,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            179
+          ]
+        }
+      ],
+      "orig": "136\t Pierret ACS, Mizuno Y, Saunders P, et al. Glucagon-like peptide 1 receptor agonists and mental health: a systematic review and metaanalysis. JAMA Psychiatry 2025; 82: 643-53.",
+      "text": "136\t Pierret ACS, Mizuno Y, Saunders P, et al. Glucagon-like peptide 1 receptor agonists and mental health: a systematic review and metaanalysis. JAMA Psychiatry 2025; 82: 643-53.",
+      "enumerated": false,
+      "marker": ""
+    },
+    {
+      "self_ref": "#/texts/82",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 22,
+          "bbox": {
+            "l": 344.4095,
+            "t": 239.19859511718755,
+            "r": 552.6016999999997,
+            "b": 217.2186558547146,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            166
+          ]
+        }
+      ],
+      "orig": "137 West S, Scragg J, Aveyard P, et al. Weight regain after cessation of medication for weight management: systematic review and metaanalysis. BMJ 2026; 392: e085304.",
+      "text": "137 West S, Scragg J, Aveyard P, et al. Weight regain after cessation of medication for weight management: systematic review and metaanalysis. BMJ 2026; 392: e085304.",
+      "enumerated": false,
+      "marker": ""
+    },
+    {
+      "self_ref": "#/texts/83",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 22,
+          "bbox": {
+            "l": 344.4095,
+            "t": 213.78129511718748,
+            "r": 560.1756999999997,
+            "b": 175.79935585471458,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            281
+          ]
+        }
+      ],
+      "orig": "138\t Kenkre JS, Gesell S, Keller A, Milani RM, Scholtz S, Barley EA. Alcohol misuse post metabolic and bariatric surgery: a systematic review of longer-term studies with focus on new onset alcohol use disorder and differences between surgery types. Curr Obes Rep 2024; 13: 596-616.",
+      "text": "138\t Kenkre JS, Gesell S, Keller A, Milani RM, Scholtz S, Barley EA. Alcohol misuse post metabolic and bariatric surgery: a systematic review of longer-term studies with focus on new onset alcohol use disorder and differences between surgery types. Curr Obes Rep 2024; 13: 596-616.",
+      "enumerated": false,
+      "marker": ""
+    },
+    {
+      "self_ref": "#/texts/84",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 22,
+          "bbox": {
+            "l": 344.4095,
+            "t": 172.36389511718744,
+            "r": 548.1637,
+            "b": 150.3839558547146,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            176
+          ]
+        }
+      ],
+      "orig": "139\t Hendershot CS, Bremmer MP, Paladino MB, et al. Once-weekly semaglutide in adults with alcohol use disorder: a randomized clinical trial. JAMA Psychiatry 2025; 82: 395-405.",
+      "text": "139\t Hendershot CS, Bremmer MP, Paladino MB, et al. Once-weekly semaglutide in adults with alcohol use disorder: a randomized clinical trial. JAMA Psychiatry 2025; 82: 395-405.",
+      "enumerated": false,
+      "marker": ""
+    },
+    {
+      "self_ref": "#/texts/85",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 22,
+          "bbox": {
+            "l": 344.4095,
+            "t": 146.94659511718748,
+            "r": 558.3697000000002,
+            "b": 124.96665585471465,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            185
+          ]
+        }
+      ],
+      "orig": "140\t Klausen MK, Jensen ME, M\u00f8ller M, et al. Exenatide once weekly for alcohol use disorder investigated in a randomized, placebocontrolled clinical trial. JCI Insight 2022; 7: e159863.",
+      "text": "140\t Klausen MK, Jensen ME, M\u00f8ller M, et al. Exenatide once weekly for alcohol use disorder investigated in a randomized, placebocontrolled clinical trial. JCI Insight 2022; 7: e159863.",
+      "enumerated": false,
+      "marker": ""
+    },
+    {
+      "self_ref": "#/texts/86",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 22,
+          "bbox": {
+            "l": 344.4095,
+            "t": 121.52919511718756,
+            "r": 558.3977000000002,
+            "b": 91.54825585471463,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            251
+          ]
+        }
+      ],
+      "orig": "141 Arillotta D, Floresta G, Papanti Pelletier GD, et al. Exploring the potential impact of GLP-1 receptor agonists on substance use, compulsive behavior, and libido: insights from social media using a mixed-methods approach. Brain Sci 2024; 14: 617 .",
+      "text": "141 Arillotta D, Floresta G, Papanti Pelletier GD, et al. Exploring the potential impact of GLP-1 receptor agonists on substance use, compulsive behavior, and libido: insights from social media using a mixed-methods approach. Brain Sci 2024; 14: 617 .",
+      "enumerated": false,
+      "marker": ""
+    },
+    {
+      "self_ref": "#/texts/87",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 22,
+          "bbox": {
+            "l": 344.4095,
+            "t": 88.11189511718749,
+            "r": 556.8367,
+            "b": 58.13095585471456,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            208
+          ]
+        }
+      ],
+      "orig": "142 Schoretsanitis G, Weiler S, Barbui C, Raschi E, Gastaldon C. Disproportionality analysis from World Health Organization data on semaglutide, liraglutide, and suicidality. JAMA Netw Open 2024; 7: e2423385.",
+      "text": "142 Schoretsanitis G, Weiler S, Barbui C, Raschi E, Gastaldon C. Disproportionality analysis from World Health Organization data on semaglutide, liraglutide, and suicidality. JAMA Netw Open 2024; 7: e2423385.",
+      "enumerated": false,
+      "marker": ""
+    },
+    {
+      "self_ref": "#/texts/88",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 22,
+          "bbox": {
+            "l": 28.3464,
+            "t": 24.538795117187533,
+            "r": 35.3602998,
+            "b": 18.949484209950015,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            2
+          ]
+        }
+      ],
+      "orig": "22",
+      "text": "22"
+    },
+    {
+      "self_ref": "#/texts/89",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 22,
+          "bbox": {
+            "l": 208.047,
+            "t": 24.538795117187533,
+            "r": 558.4059948000001,
+            "b": 18.948359402901815,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            118
+          ]
+        }
+      ],
+      "orig": "www.thelancet.com/diabetes-endocrinology Published online July 8, 2026   https://doi.org/10.1016/S2213-8587(26)00122-1",
+      "text": "www.thelancet.com/diabetes-endocrinology Published online July 8, 2026   https://doi.org/10.1016/S2213-8587(26)00122-1"
+    },
+    {
+      "self_ref": "#/texts/90",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_header",
+      "prov": [
+        {
+          "page_no": 23,
+          "bbox": {
+            "l": 509.2497,
+            "t": 759.5817951171875,
+            "r": 544.2537000000001,
+            "b": 750.0001192762089,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            6
+          ]
+        }
+      ],
+      "orig": "Review",
+      "text": "Review"
+    },
+    {
+      "self_ref": "#/texts/91",
+      "parent": {
+        "$ref": "#/groups/2"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 23,
+          "bbox": {
+            "l": 36.8517,
+            "t": 668.4584951171875,
+            "r": 248.01889999999997,
+            "b": 630.4765558547147,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            262
+          ]
+        }
+      ],
+      "orig": "143\t McIntyre RS, Mansur RB, Rosenblat JD, et al. Glucagon-like peptide-1 receptor agonists (GLP-1 RAs) and suicidality: a replication study using reports to the World Health Organization pharmacovigilance database (VigiBase). J Affect Disord 2025; 369: 922-27 .",
+      "text": "143\t McIntyre RS, Mansur RB, Rosenblat JD, et al. Glucagon-like peptide-1 receptor agonists (GLP-1 RAs) and suicidality: a replication study using reports to the World Health Organization pharmacovigilance database (VigiBase). J Affect Disord 2025; 369: 922-27 .",
+      "enumerated": false,
+      "marker": ""
+    },
+    {
+      "self_ref": "#/texts/92",
+      "parent": {
+        "$ref": "#/groups/2"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 23,
+          "bbox": {
+            "l": 36.8517,
+            "t": 627.0410951171875,
+            "r": 247.47990000000001,
+            "b": 597.0601558547147,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            232
+          ]
+        }
+      ],
+      "orig": "144 Tang H, Lu Y, Donahoo WT, et al. Glucagon-like peptide-1 receptor agonists and risk for suicidal ideation and behaviors in US older adults with type 2 diabetes : a target trial emulation study. Ann Intern Med 2024; 177: 1004-15.",
+      "text": "144 Tang H, Lu Y, Donahoo WT, et al. Glucagon-like peptide-1 receptor agonists and risk for suicidal ideation and behaviors in US older adults with type 2 diabetes : a target trial emulation study. Ann Intern Med 2024; 177: 1004-15.",
+      "enumerated": false,
+      "marker": ""
+    },
+    {
+      "self_ref": "#/texts/93",
+      "parent": {
+        "$ref": "#/groups/2"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 23,
+          "bbox": {
+            "l": 36.8517,
+            "t": 593.6237951171875,
+            "r": 246.5559,
+            "b": 571.6438558547146,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            187
+          ]
+        }
+      ],
+      "orig": "145\t van Reekum EA, Darcy M, Drage J, et al. Psychiatric and cognitive functioning after metabolic and bariatric surgery: a systematic review and meta-analysis. Obes Rev 2025; 26: e13968.",
+      "text": "145\t van Reekum EA, Darcy M, Drage J, et al. Psychiatric and cognitive functioning after metabolic and bariatric surgery: a systematic review and meta-analysis. Obes Rev 2025; 26: e13968.",
+      "enumerated": false,
+      "marker": ""
+    },
+    {
+      "self_ref": "#/texts/94",
+      "parent": {
+        "$ref": "#/groups/2"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 23,
+          "bbox": {
+            "l": 36.8517,
+            "t": 568.2064951171875,
+            "r": 246.84990000000005,
+            "b": 538.2255558547147,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            229
+          ]
+        }
+      ],
+      "orig": "146\t Ganeshalingam AA, Uhrenholt N, Arnfred S, et al. Semaglutide treatment of antipsychotic-treated patients with schizophrenia, prediabetes, and obesity: the HISTORI Randomized Clinical Trial. JAMA Psychiatry 2025; 82: 1065-74.",
+      "text": "146\t Ganeshalingam AA, Uhrenholt N, Arnfred S, et al. Semaglutide treatment of antipsychotic-treated patients with schizophrenia, prediabetes, and obesity: the HISTORI Randomized Clinical Trial. JAMA Psychiatry 2025; 82: 1065-74.",
+      "enumerated": false,
+      "marker": ""
+    },
+    {
+      "self_ref": "#/texts/95",
+      "parent": {
+        "$ref": "#/groups/2"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 23,
+          "bbox": {
+            "l": 36.8517,
+            "t": 534.7891951171875,
+            "r": 234.3269000000001,
+            "b": 504.80825585471473,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            188
+          ]
+        }
+      ],
+      "orig": "147 Herman BK, Deal LS, DiBenedetti DB, Nelson L, Fehnel SE, Brown TM. Development of the 7-Item Binge-Eating Disorder Screener (BEDS-7). Prim Care Companion CNS Disord 2016; 18 : 15m01896",
+      "text": "147 Herman BK, Deal LS, DiBenedetti DB, Nelson L, Fehnel SE, Brown TM. Development of the 7-Item Binge-Eating Disorder Screener (BEDS-7). Prim Care Companion CNS Disord 2016; 18 : 15m01896",
+      "enumerated": false,
+      "marker": ""
+    },
+    {
+      "self_ref": "#/texts/96",
+      "parent": {
+        "$ref": "#/groups/2"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 23,
+          "bbox": {
+            "l": 36.8517,
+            "t": 501.3717951171875,
+            "r": 249.36290000000028,
+            "b": 471.3908558547147,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            199
+          ]
+        }
+      ],
+      "orig": "148\t De R, Smith ECC, Navagnanavel J, et al. The impact of weight gain on antipsychotic nonadherence or discontinuation: a systematic review and meta-analysis. Acta Psychiatr Scand 2025; 151: 109-26.",
+      "text": "148\t De R, Smith ECC, Navagnanavel J, et al. The impact of weight gain on antipsychotic nonadherence or discontinuation: a systematic review and meta-analysis. Acta Psychiatr Scand 2025; 151: 109-26.",
+      "enumerated": false,
+      "marker": ""
+    },
+    {
+      "self_ref": "#/texts/97",
+      "parent": {
+        "$ref": "#/groups/2"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 23,
+          "bbox": {
+            "l": 36.8517,
+            "t": 467.9544951171875,
+            "r": 242.92990000000006,
+            "b": 453.9755558547146,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            83
+          ]
+        }
+      ],
+      "orig": "149\t Treasure J, Duarte TA, Schmidt U. Eating disorders. Lancet 2020; 395: 899-911.",
+      "text": "149\t Treasure J, Duarte TA, Schmidt U. Eating disorders. Lancet 2020; 395: 899-911.",
+      "enumerated": false,
+      "marker": ""
+    },
+    {
+      "self_ref": "#/texts/98",
+      "parent": {
+        "$ref": "#/groups/2"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 23,
+          "bbox": {
+            "l": 36.8517,
+            "t": 450.5371951171875,
+            "r": 232.00990000000007,
+            "b": 428.55725585471464,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            165
+          ]
+        }
+      ],
+      "orig": "150\t Castellini G, Graffigna G. 'Food is more than just a source of nutrients': a qualitative phenomenological study on food involvement. Appetite 2022; 178: 106179.",
+      "text": "150\t Castellini G, Graffigna G. 'Food is more than just a source of nutrients': a qualitative phenomenological study on food involvement. Appetite 2022; 178: 106179.",
+      "enumerated": false,
+      "marker": ""
+    },
+    {
+      "self_ref": "#/texts/99",
+      "parent": {
+        "$ref": "#/groups/2"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 23,
+          "bbox": {
+            "l": 36.8517,
+            "t": 425.1198951171875,
+            "r": 247.63390000000004,
+            "b": 395.1389558547147,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            208
+          ]
+        }
+      ],
+      "orig": "151 Linge J, Petersson M, Forsgren MF, Sanyal AJ, Dahlqvist Leinhard O. Adverse muscle composition predicts all-cause mortality in the UK Biobank imaging study. J Cachexia Sarcopenia Muscle 2021; 12: 1513-26.",
+      "text": "151 Linge J, Petersson M, Forsgren MF, Sanyal AJ, Dahlqvist Leinhard O. Adverse muscle composition predicts all-cause mortality in the UK Biobank imaging study. J Cachexia Sarcopenia Muscle 2021; 12: 1513-26.",
+      "enumerated": false,
+      "marker": ""
+    },
+    {
+      "self_ref": "#/texts/100",
+      "parent": {
+        "$ref": "#/groups/2"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 23,
+          "bbox": {
+            "l": 36.8517,
+            "t": 391.7024951171875,
+            "r": 245.12090000000006,
+            "b": 369.72255585471464,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            190
+          ]
+        }
+      ],
+      "orig": "152\t Landr\u00e9 B, Czernichow S, Goldberg M, Zins M, Ankri J, Herr M. Association between life-course obesity and frailty in older adults: findings in the GAZEL cohort. Obesity 2020; 28: 388-96.",
+      "text": "152\t Landr\u00e9 B, Czernichow S, Goldberg M, Zins M, Ankri J, Herr M. Association between life-course obesity and frailty in older adults: findings in the GAZEL cohort. Obesity 2020; 28: 388-96.",
+      "enumerated": false,
+      "marker": ""
+    },
+    {
+      "self_ref": "#/texts/101",
+      "parent": {
+        "$ref": "#/groups/2"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 23,
+          "bbox": {
+            "l": 36.8517,
+            "t": 366.2851951171875,
+            "r": 245.4429,
+            "b": 344.3052558547147,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            154
+          ]
+        }
+      ],
+      "orig": "153\t Caturano A, Amaro A, Berra CC, Conte C. Sarcopenic obesity and weight loss-induced muscle mass loss. Curr Opin Clin Nutr Metab Care 2025; 28: 339-50.",
+      "text": "153\t Caturano A, Amaro A, Berra CC, Conte C. Sarcopenic obesity and weight loss-induced muscle mass loss. Curr Opin Clin Nutr Metab Care 2025; 28: 339-50.",
+      "enumerated": false,
+      "marker": ""
+    },
+    {
+      "self_ref": "#/texts/102",
+      "parent": {
+        "$ref": "#/groups/2"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 23,
+          "bbox": {
+            "l": 36.8517,
+            "t": 340.8678951171875,
+            "r": 252.42190000000005,
+            "b": 318.8879558547147,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            195
+          ]
+        }
+      ],
+      "orig": "154\t Beavers KM, Cortes TM, Foy CM, et al. GLP1Ra-based therapies and DXA-acquired musculoskeletal health outcomes: a focused metaanalysis of placebo-controlled trials. Obesity 2025; 33: 225-37 .",
+      "text": "154\t Beavers KM, Cortes TM, Foy CM, et al. GLP1Ra-based therapies and DXA-acquired musculoskeletal health outcomes: a focused metaanalysis of placebo-controlled trials. Obesity 2025; 33: 225-37 .",
+      "enumerated": false,
+      "marker": ""
+    },
+    {
+      "self_ref": "#/texts/103",
+      "parent": {
+        "$ref": "#/groups/2"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 23,
+          "bbox": {
+            "l": 36.8517,
+            "t": 315.4505951171875,
+            "r": 244.74990000000003,
+            "b": 285.4696558547147,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            220
+          ]
+        }
+      ],
+      "orig": "155\t Karakasis P, Patoulias D, Fragakis N, Mantzoros CS. Effect of glucagon-like peptide-1 receptor agonists and co-agonists on body composition: systematic review and network meta-analysis. Metabolism 2025; 164: 156113.",
+      "text": "155\t Karakasis P, Patoulias D, Fragakis N, Mantzoros CS. Effect of glucagon-like peptide-1 receptor agonists and co-agonists on body composition: systematic review and network meta-analysis. Metabolism 2025; 164: 156113.",
+      "enumerated": false,
+      "marker": ""
+    },
+    {
+      "self_ref": "#/texts/104",
+      "parent": {
+        "$ref": "#/groups/2"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 23,
+          "bbox": {
+            "l": 36.8517,
+            "t": 282.03319511718746,
+            "r": 226.55689999999996,
+            "b": 260.05325585471473,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            168
+          ]
+        }
+      ],
+      "orig": "156\t Dash S. Opportunities to optimize lifestyle interventions in combination with glucagon-like peptide-1-based therapy. Diabetes Obes Metab 2024; 26 (suppl 4) : 3-15.",
+      "text": "156\t Dash S. Opportunities to optimize lifestyle interventions in combination with glucagon-like peptide-1-based therapy. Diabetes Obes Metab 2024; 26 (suppl 4) : 3-15.",
+      "enumerated": false,
+      "marker": ""
+    },
+    {
+      "self_ref": "#/texts/105",
+      "parent": {
+        "$ref": "#/groups/2"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 23,
+          "bbox": {
+            "l": 36.8517,
+            "t": 256.6158951171875,
+            "r": 240.94890000000007,
+            "b": 234.63595585471467,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            146
+          ]
+        }
+      ],
+      "orig": "157 Sanchis-Gomar F, Neeland IJ, Lavie CJ. Balancing weight and muscle loss in GLP1 receptor agonist therapy. Nat Rev Endocrinol 2025; 21: 584-85.",
+      "text": "157 Sanchis-Gomar F, Neeland IJ, Lavie CJ. Balancing weight and muscle loss in GLP1 receptor agonist therapy. Nat Rev Endocrinol 2025; 21: 584-85.",
+      "enumerated": false,
+      "marker": ""
+    },
+    {
+      "self_ref": "#/texts/106",
+      "parent": {
+        "$ref": "#/groups/2"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 23,
+          "bbox": {
+            "l": 36.8517,
+            "t": 231.19859511718755,
+            "r": 244.9879,
+            "b": 201.21765585471462,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            223
+          ]
+        }
+      ],
+      "orig": "158\t Nevill AM, Lang JJ, Niemz M, Tomkinson GR. How should youth handgrip strength be normalized? New insights using 3-D allometry with 'generalizable' norm-referenced values, data from NHANES. Sports Med 2025; 55: 2303-12.",
+      "text": "158\t Nevill AM, Lang JJ, Niemz M, Tomkinson GR. How should youth handgrip strength be normalized? New insights using 3-D allometry with 'generalizable' norm-referenced values, data from NHANES. Sports Med 2025; 55: 2303-12.",
+      "enumerated": false,
+      "marker": ""
+    },
+    {
+      "self_ref": "#/texts/107",
+      "parent": {
+        "$ref": "#/groups/2"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 23,
+          "bbox": {
+            "l": 36.8517,
+            "t": 197.78129511718748,
+            "r": 250.06990000000005,
+            "b": 175.80135585471464,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            181
+          ]
+        }
+      ],
+      "orig": "159\t Pouget M, Pinel A, Miolanne M, et al. Improving the functional detection of sarcopenic obesity: prevalence and handgrip scoring in the OBESAR cohort. Obesity 2024; 32: 2237-45.",
+      "text": "159\t Pouget M, Pinel A, Miolanne M, et al. Improving the functional detection of sarcopenic obesity: prevalence and handgrip scoring in the OBESAR cohort. Obesity 2024; 32: 2237-45.",
+      "enumerated": false,
+      "marker": ""
+    },
+    {
+      "self_ref": "#/texts/108",
+      "parent": {
+        "$ref": "#/groups/2"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 23,
+          "bbox": {
+            "l": 36.8517,
+            "t": 172.36389511718744,
+            "r": 252.4079,
+            "b": 150.3839558547146,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            152
+          ]
+        }
+      ],
+      "orig": "160\t Abdalla PP, Bohn L, Dos Santos AP, et al. Adjusting grip strength to body size: analyses from 6 countries. J Am Med Dir Assoc 2022; 23: 903.e13-21.",
+      "text": "160\t Abdalla PP, Bohn L, Dos Santos AP, et al. Adjusting grip strength to body size: analyses from 6 countries. J Am Med Dir Assoc 2022; 23: 903.e13-21.",
+      "enumerated": false,
+      "marker": ""
+    },
+    {
+      "self_ref": "#/texts/109",
+      "parent": {
+        "$ref": "#/groups/2"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 23,
+          "bbox": {
+            "l": 36.8517,
+            "t": 146.94659511718748,
+            "r": 251.18289999999996,
+            "b": 124.96665585471465,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            183
+          ]
+        }
+      ],
+      "orig": "161 Locatelli JC, Costa JG, Haynes A, et al. Incretin-based weight loss pharmacotherapy: can resistance exercise optimize changes in body composition? Diabetes Care 2024; 47: 1718-30.",
+      "text": "161 Locatelli JC, Costa JG, Haynes A, et al. Incretin-based weight loss pharmacotherapy: can resistance exercise optimize changes in body composition? Diabetes Care 2024; 47: 1718-30.",
+      "enumerated": false,
+      "marker": ""
+    },
+    {
+      "self_ref": "#/texts/110",
+      "parent": {
+        "$ref": "#/groups/2"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 23,
+          "bbox": {
+            "l": 36.8517,
+            "t": 121.52919511718756,
+            "r": 251.40690000000006,
+            "b": 99.5492558547146,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            187
+          ]
+        }
+      ],
+      "orig": "162\t Neeland IJ, Linge J, Birkenfeld AL. Changes in lean body mass with glucagon-like peptide-1-based therapies and mitigation strategies. Diabetes Obes Metab 2024; 26 (suppl 4) : 16-27 .",
+      "text": "162\t Neeland IJ, Linge J, Birkenfeld AL. Changes in lean body mass with glucagon-like peptide-1-based therapies and mitigation strategies. Diabetes Obes Metab 2024; 26 (suppl 4) : 16-27 .",
+      "enumerated": false,
+      "marker": ""
+    },
+    {
+      "self_ref": "#/texts/111",
+      "parent": {
+        "$ref": "#/groups/2"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 23,
+          "bbox": {
+            "l": 36.8517,
+            "t": 96.11189511718749,
+            "r": 251.08489999999998,
+            "b": 74.13195585471465,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            168
+          ]
+        }
+      ],
+      "orig": "163\t Holmes CJ, Racette SB. The utility of body composition assessment in nutrition and clinical practice: an overview of current methodology. Nutrients 2021; 13: 2493.",
+      "text": "163\t Holmes CJ, Racette SB. The utility of body composition assessment in nutrition and clinical practice: an overview of current methodology. Nutrients 2021; 13: 2493.",
+      "enumerated": false,
+      "marker": ""
+    },
+    {
+      "self_ref": "#/texts/112",
+      "parent": {
+        "$ref": "#/groups/2"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 23,
+          "bbox": {
+            "l": 36.8517,
+            "t": 70.69459511718753,
+            "r": 241.06789999999992,
+            "b": 48.71465585471458,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            163
+          ]
+        }
+      ],
+      "orig": "164\t Silveira EA, Castro MCR, Rezende ATO, et al. Body composition assessment in individuals with class II/III obesity: a narrative review. BMC Nutr 2024; 10: 142.",
+      "text": "164\t Silveira EA, Castro MCR, Rezende ATO, et al. Body composition assessment in individuals with class II/III obesity: a narrative review. BMC Nutr 2024; 10: 142.",
+      "enumerated": false,
+      "marker": ""
+    },
+    {
+      "self_ref": "#/texts/113",
+      "parent": {
+        "$ref": "#/groups/2"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 23,
+          "bbox": {
+            "l": 262.2066,
+            "t": 668.4584951171875,
+            "r": 475.6138000000003,
+            "b": 646.4785558547146,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            150
+          ]
+        }
+      ],
+      "orig": "165\t Prado CM, Landi F, Chew STH, et al. Advances in muscle health and nutrition: a toolkit for healthcare professionals. Clin Nutr 2022; 41: 2244-63.",
+      "text": "165\t Prado CM, Landi F, Chew STH, et al. Advances in muscle health and nutrition: a toolkit for healthcare professionals. Clin Nutr 2022; 41: 2244-63.",
+      "enumerated": false,
+      "marker": ""
+    },
+    {
+      "self_ref": "#/texts/114",
+      "parent": {
+        "$ref": "#/groups/2"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 23,
+          "bbox": {
+            "l": 262.2066,
+            "t": 643.0410951171875,
+            "r": 477.65780000000024,
+            "b": 621.0611558547147,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            162
+          ]
+        }
+      ],
+      "orig": "166\t Norman K, Stob\u00e4us N, Gonzalez MC, Schulzke JD, Pirlich M. Hand grip strength: outcome predictor and marker of nutritional status. Clin Nutr 2011; 30: 135-42.",
+      "text": "166\t Norman K, Stob\u00e4us N, Gonzalez MC, Schulzke JD, Pirlich M. Hand grip strength: outcome predictor and marker of nutritional status. Clin Nutr 2011; 30: 135-42.",
+      "enumerated": false,
+      "marker": ""
+    },
+    {
+      "self_ref": "#/texts/115",
+      "parent": {
+        "$ref": "#/groups/2"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 23,
+          "bbox": {
+            "l": 262.2066,
+            "t": 617.6237951171875,
+            "r": 468.0468000000001,
+            "b": 595.6438558547146,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            150
+          ]
+        }
+      ],
+      "orig": "167 Busetto L, Dicker D, Fr\u00fchbeck G, et al. A new framework for the diagnosis, staging and management of obesity in adults. Nat Med 2024; 30: 2395-99.",
+      "text": "167 Busetto L, Dicker D, Fr\u00fchbeck G, et al. A new framework for the diagnosis, staging and management of obesity in adults. Nat Med 2024; 30: 2395-99.",
+      "enumerated": false,
+      "marker": ""
+    },
+    {
+      "self_ref": "#/texts/116",
+      "parent": {
+        "$ref": "#/groups/2"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 23,
+          "bbox": {
+            "l": 262.2066,
+            "t": 592.2064951171875,
+            "r": 459.42980000000017,
+            "b": 570.2265558547147,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            170
+          ]
+        }
+      ],
+      "orig": "168\t Wu Q, Ling Y, Yuan G, et al. Association between lipid accumulation products and relative handgrip strength: a large population-based study. Sci Rep 2025; 15: 11562.",
+      "text": "168\t Wu Q, Ling Y, Yuan G, et al. Association between lipid accumulation products and relative handgrip strength: a large population-based study. Sci Rep 2025; 15: 11562.",
+      "enumerated": false,
+      "marker": ""
+    },
+    {
+      "self_ref": "#/texts/117",
+      "parent": {
+        "$ref": "#/groups/2"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 23,
+          "bbox": {
+            "l": 262.2066,
+            "t": 566.7891951171875,
+            "r": 464.3228000000002,
+            "b": 544.8092558547147,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            137
+          ]
+        }
+      ],
+      "orig": "169\t Boyle LD, Akbas F, Yaz\u0131c\u0131 D, McGowan BM, Yumuk V. Pharmacotherapy for older people with obesity. Eur J Intern Med 2024; 130: 33-37 .",
+      "text": "169\t Boyle LD, Akbas F, Yaz\u0131c\u0131 D, McGowan BM, Yumuk V. Pharmacotherapy for older people with obesity. Eur J Intern Med 2024; 130: 33-37 .",
+      "enumerated": false,
+      "marker": ""
+    },
+    {
+      "self_ref": "#/texts/118",
+      "parent": {
+        "$ref": "#/groups/2"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 23,
+          "bbox": {
+            "l": 262.2066,
+            "t": 541.3717951171875,
+            "r": 475.2008000000003,
+            "b": 511.3908558547147,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            213
+          ]
+        }
+      ],
+      "orig": "170 Alsaqaaby MS, Cooney S, le Roux CW, Pournaras DJ. Sex, race, and BMI in clinical trials of medications for obesity over the past three decades: a systematic review. Lancet Diabetes Endocrinol 2024; 12: 414-21.",
+      "text": "170 Alsaqaaby MS, Cooney S, le Roux CW, Pournaras DJ. Sex, race, and BMI in clinical trials of medications for obesity over the past three decades: a systematic review. Lancet Diabetes Endocrinol 2024; 12: 414-21.",
+      "enumerated": false,
+      "marker": ""
+    },
+    {
+      "self_ref": "#/texts/119",
+      "parent": {
+        "$ref": "#/groups/2"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 23,
+          "bbox": {
+            "l": 262.2066,
+            "t": 507.9544951171875,
+            "r": 469.0268000000001,
+            "b": 485.97455585471465,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            183
+          ]
+        }
+      ],
+      "orig": "171 Rossi AP, Rubele S, Calugi S, et al. Weight cycling as a risk factor for low muscle mass and strength in a population of males and females with obesity. Obesity 2019; 27: 1068-75.",
+      "text": "171 Rossi AP, Rubele S, Calugi S, et al. Weight cycling as a risk factor for low muscle mass and strength in a population of males and females with obesity. Obesity 2019; 27: 1068-75.",
+      "enumerated": false,
+      "marker": ""
+    },
+    {
+      "self_ref": "#/texts/120",
+      "parent": {
+        "$ref": "#/groups/2"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 23,
+          "bbox": {
+            "l": 262.2066,
+            "t": 482.5371951171875,
+            "r": 477.35680000000025,
+            "b": 444.5552558547147,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            314
+          ]
+        }
+      ],
+      "orig": "172 Turicchi J, O'Driscoll R, Finlayson G, Beaulieu K, Deighton K, Stubbs RJ. Associations between the rate, amount, and composition of weight loss as predictors of spontaneous weight regain in adults achieving clinically significant weight loss: a systematic review and meta-regression. Obes Rev 2019; 20: 935-46.",
+      "text": "172 Turicchi J, O'Driscoll R, Finlayson G, Beaulieu K, Deighton K, Stubbs RJ. Associations between the rate, amount, and composition of weight loss as predictors of spontaneous weight regain in adults achieving clinically significant weight loss: a systematic review and meta-regression. Obes Rev 2019; 20: 935-46.",
+      "enumerated": false,
+      "marker": ""
+    },
+    {
+      "self_ref": "#/texts/121",
+      "parent": {
+        "$ref": "#/groups/2"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 23,
+          "bbox": {
+            "l": 262.2066,
+            "t": 441.1198951171875,
+            "r": 474.39579999999995,
+            "b": 411.1389558547147,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            204
+          ]
+        }
+      ],
+      "orig": "173\t Beavers KM, Lyles MF, Davis CC, Wang X, Beavers DP, Nicklas BJ. Is lost lean mass from intentional weight loss recovered during weight regain in postmenopausal women? Am J Clin Nutr 2011; 94: 767-74.",
+      "text": "173\t Beavers KM, Lyles MF, Davis CC, Wang X, Beavers DP, Nicklas BJ. Is lost lean mass from intentional weight loss recovered during weight regain in postmenopausal women? Am J Clin Nutr 2011; 94: 767-74.",
+      "enumerated": false,
+      "marker": ""
+    },
+    {
+      "self_ref": "#/texts/122",
+      "parent": {
+        "$ref": "#/groups/2"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 23,
+          "bbox": {
+            "l": 262.2066,
+            "t": 407.7024951171875,
+            "r": 469.90180000000004,
+            "b": 385.72255585471464,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            172
+          ]
+        }
+      ],
+      "orig": "174 Oppert JM, Ciangura C, Bellicha A. Health-enhancing physical activity in obesity management: the need to (seriously) go beyond weight loss. Int J Obes 2025; 49: 211-13.",
+      "text": "174 Oppert JM, Ciangura C, Bellicha A. Health-enhancing physical activity in obesity management: the need to (seriously) go beyond weight loss. Int J Obes 2025; 49: 211-13.",
+      "enumerated": false,
+      "marker": ""
+    },
+    {
+      "self_ref": "#/texts/123",
+      "parent": {
+        "$ref": "#/groups/2"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 23,
+          "bbox": {
+            "l": 262.2066,
+            "t": 382.2851951171875,
+            "r": 477.9868000000001,
+            "b": 352.3042558547147,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            270
+          ]
+        }
+      ],
+      "orig": "175 Bellicha A, van Baak MA, Battista F, et al. Effect of exercise training on weight loss, body composition changes, and weight maintenance in adults with overweight or obesity: an overview of 12 systematic reviews and 149 studies. Obes Rev 2021; 22 (suppl 4) : e13256.",
+      "text": "175 Bellicha A, van Baak MA, Battista F, et al. Effect of exercise training on weight loss, body composition changes, and weight maintenance in adults with overweight or obesity: an overview of 12 systematic reviews and 149 studies. Obes Rev 2021; 22 (suppl 4) : e13256.",
+      "enumerated": false,
+      "marker": ""
+    },
+    {
+      "self_ref": "#/texts/124",
+      "parent": {
+        "$ref": "#/groups/2"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 23,
+          "bbox": {
+            "l": 262.2066,
+            "t": 348.8678951171875,
+            "r": 459.91280000000006,
+            "b": 334.88895585471465,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            118
+          ]
+        }
+      ],
+      "orig": "176 Piercy KL, Troiano RP, Ballard RM, et al. The Physical Activity Guidelines for Americans. JAMA 2018; 320: 2020-28.",
+      "text": "176 Piercy KL, Troiano RP, Ballard RM, et al. The Physical Activity Guidelines for Americans. JAMA 2018; 320: 2020-28.",
+      "enumerated": false,
+      "marker": ""
+    },
+    {
+      "self_ref": "#/texts/125",
+      "parent": {
+        "$ref": "#/groups/2"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 23,
+          "bbox": {
+            "l": 262.2066,
+            "t": 331.4505951171875,
+            "r": 477.6298000000001,
+            "b": 293.4686558547147,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            278
+          ]
+        }
+      ],
+      "orig": "177 Cuthbertson DJ, Dobbie LJ. Role of exercise and physical activity in promoting weight loss and weight loss maintenance. In: Kopelman PG, Caterson ID, Dietz WH, Armstrong S, Sweeting AN, Wilding JPH, eds. Clinical obesity in adults and children, 4th edn. Wiley, 2022: 262-78.",
+      "text": "177 Cuthbertson DJ, Dobbie LJ. Role of exercise and physical activity in promoting weight loss and weight loss maintenance. In: Kopelman PG, Caterson ID, Dietz WH, Armstrong S, Sweeting AN, Wilding JPH, eds. Clinical obesity in adults and children, 4th edn. Wiley, 2022: 262-78.",
+      "enumerated": false,
+      "marker": ""
+    },
+    {
+      "self_ref": "#/texts/126",
+      "parent": {
+        "$ref": "#/groups/2"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 23,
+          "bbox": {
+            "l": 262.2066,
+            "t": 290.0331951171875,
+            "r": 477.4898000000002,
+            "b": 260.05225585471476,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            253
+          ]
+        }
+      ],
+      "orig": "178 Wadden TA, Bailey TS, Billings LK, et al. Effect of subcutaneous semaglutide vs placebo as an adjunct to intensive behavioral therapy on body weight in adults with overweight or obesity: the STEP 3 randomized clinical trial. JAMA 2021; 325: 1403-13.",
+      "text": "178 Wadden TA, Bailey TS, Billings LK, et al. Effect of subcutaneous semaglutide vs placebo as an adjunct to intensive behavioral therapy on body weight in adults with overweight or obesity: the STEP 3 randomized clinical trial. JAMA 2021; 325: 1403-13.",
+      "enumerated": false,
+      "marker": ""
+    },
+    {
+      "self_ref": "#/texts/127",
+      "parent": {
+        "$ref": "#/groups/2"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 23,
+          "bbox": {
+            "l": 262.2066,
+            "t": 256.6158951171875,
+            "r": 475.3478000000001,
+            "b": 218.6339558547146,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            291
+          ]
+        }
+      ],
+      "orig": "179 Oppert JM, Bellicha A, van Baak MA, et al. Exercise training in the management of overweight and obesity in adults: synthesis of the evidence and recommendations from the European Association for the Study of Obesity Physical Activity Working Group. Obes Rev 2021; 22 (suppl 4) : e13273.",
+      "text": "179 Oppert JM, Bellicha A, van Baak MA, et al. Exercise training in the management of overweight and obesity in adults: synthesis of the evidence and recommendations from the European Association for the Study of Obesity Physical Activity Working Group. Obes Rev 2021; 22 (suppl 4) : e13273.",
+      "enumerated": false,
+      "marker": ""
+    },
+    {
+      "self_ref": "#/texts/128",
+      "parent": {
+        "$ref": "#/groups/2"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 23,
+          "bbox": {
+            "l": 262.2066,
+            "t": 215.19859511718755,
+            "r": 468.01880000000006,
+            "b": 193.2186558547146,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            175
+          ]
+        }
+      ],
+      "orig": "180\t Oppert JM, Ciangura C, Bellicha A. Physical activity and exercise for weight loss and maintenance in people living with obesity. Rev Endocr Metab Disord 2023; 24: 937-49.",
+      "text": "180\t Oppert JM, Ciangura C, Bellicha A. Physical activity and exercise for weight loss and maintenance in people living with obesity. Rev Endocr Metab Disord 2023; 24: 937-49.",
+      "enumerated": false,
+      "marker": ""
+    },
+    {
+      "self_ref": "#/texts/129",
+      "parent": {
+        "$ref": "#/groups/2"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 23,
+          "bbox": {
+            "l": 262.2066,
+            "t": 189.78129511718748,
+            "r": 462.22980000000007,
+            "b": 175.80235585471462,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            119
+          ]
+        }
+      ],
+      "orig": "181 Bushman BA. Developing the P (for progression) in a FITT-VP exercise prescription. ACSM Health Fit J 2018; 22: 6-9.",
+      "text": "181 Bushman BA. Developing the P (for progression) in a FITT-VP exercise prescription. ACSM Health Fit J 2018; 22: 6-9.",
+      "enumerated": false,
+      "marker": ""
+    },
+    {
+      "self_ref": "#/texts/130",
+      "parent": {
+        "$ref": "#/groups/2"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 23,
+          "bbox": {
+            "l": 262.2066,
+            "t": 172.36389511718744,
+            "r": 476.8177999999999,
+            "b": 150.3839558547146,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            205
+          ]
+        }
+      ],
+      "orig": "182\t Chang YH, Chou YC, Chang YC, Tan KH, Wu MH. The effects of high-intensity power training versus traditional resistance training on exercise performance. Int J Environ Res Public Health 2022; 19: 9400.",
+      "text": "182\t Chang YH, Chou YC, Chang YC, Tan KH, Wu MH. The effects of high-intensity power training versus traditional resistance training on exercise performance. Int J Environ Res Public Health 2022; 19: 9400.",
+      "enumerated": false,
+      "marker": ""
+    },
+    {
+      "self_ref": "#/texts/131",
+      "parent": {
+        "$ref": "#/groups/2"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 23,
+          "bbox": {
+            "l": 262.2066,
+            "t": 146.94659511718748,
+            "r": 459.0098000000002,
+            "b": 132.96765585471462,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            119
+          ]
+        }
+      ],
+      "orig": "183\t Fassio A, Idolazzi L, Rossini M, et al. The obesity paradox and osteoporosis. Eat Weight Disord 2018; 23: 293-302.",
+      "text": "183\t Fassio A, Idolazzi L, Rossini M, et al. The obesity paradox and osteoporosis. Eat Weight Disord 2018; 23: 293-302.",
+      "enumerated": false,
+      "marker": ""
+    },
+    {
+      "self_ref": "#/texts/132",
+      "parent": {
+        "$ref": "#/groups/2"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 23,
+          "bbox": {
+            "l": 262.2066,
+            "t": 129.52919511718756,
+            "r": 476.8527999999987,
+            "b": 107.5492558547146,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            201
+          ]
+        }
+      ],
+      "orig": "184\t Gandham A, Zengin A, Bonham MP, et al. Incidence and predictors of fractures in older adults with and without obesity defined by body mass index versus body fat percentage. Bone 2020; 140: 115546.",
+      "text": "184\t Gandham A, Zengin A, Bonham MP, et al. Incidence and predictors of fractures in older adults with and without obesity defined by body mass index versus body fat percentage. Bone 2020; 140: 115546.",
+      "enumerated": false,
+      "marker": ""
+    },
+    {
+      "self_ref": "#/texts/133",
+      "parent": {
+        "$ref": "#/groups/2"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 23,
+          "bbox": {
+            "l": 262.2066,
+            "t": 104.11189511718749,
+            "r": 474.50780000000026,
+            "b": 82.13195585471465,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            164
+          ]
+        }
+      ],
+      "orig": "185\t Papageorgiou M, Kerschan-Schindl K, Sathyapalan T, Pietschmann P. Is weight loss harmful for skeletal health in obese older adults? Gerontology 2020; 66: 2-14.",
+      "text": "185\t Papageorgiou M, Kerschan-Schindl K, Sathyapalan T, Pietschmann P. Is weight loss harmful for skeletal health in obese older adults? Gerontology 2020; 66: 2-14.",
+      "enumerated": false,
+      "marker": ""
+    },
+    {
+      "self_ref": "#/texts/134",
+      "parent": {
+        "$ref": "#/groups/2"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 23,
+          "bbox": {
+            "l": 262.2066,
+            "t": 78.69459511718753,
+            "r": 471.81980000000004,
+            "b": 48.7136558547146,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            217
+          ]
+        }
+      ],
+      "orig": "186\t Johnson KC, Bray GA, Cheskin LJ, et al. The effect of intentional weight loss on fracture risk in persons with diabetes: results from the Look AHEAD randomized clinical trial. J Bone Miner Res 2017; 32: 2278-87 .",
+      "text": "186\t Johnson KC, Bray GA, Cheskin LJ, et al. The effect of intentional weight loss on fracture risk in persons with diabetes: results from the Look AHEAD randomized clinical trial. J Bone Miner Res 2017; 32: 2278-87 .",
+      "enumerated": false,
+      "marker": ""
+    },
+    {
+      "self_ref": "#/texts/135",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 23,
+          "bbox": {
+            "l": 36.8504,
+            "t": 24.538795117187533,
+            "r": 387.20939479999987,
+            "b": 18.948359402901815,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            118
+          ]
+        }
+      ],
+      "orig": "www.thelancet.com/diabetes-endocrinology Published online July 8, 2026   https://doi.org/10.1016/S2213-8587(26)00122-1",
+      "text": "www.thelancet.com/diabetes-endocrinology Published online July 8, 2026   https://doi.org/10.1016/S2213-8587(26)00122-1"
+    },
+    {
+      "self_ref": "#/texts/136",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 23,
+          "bbox": {
+            "l": 559.9434,
+            "t": 24.538795117187533,
+            "r": 566.9293002,
+            "b": 18.949484209950015,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            2
+          ]
+        }
+      ],
+      "orig": "23",
+      "text": "23"
+    },
+    {
+      "self_ref": "#/texts/137",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_header",
+      "prov": [
+        {
+          "page_no": 24,
+          "bbox": {
+            "l": 51.0249,
+            "t": 759.5817951171875,
+            "r": 86.0289,
+            "b": 750.0001192762089,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            6
+          ]
+        }
+      ],
+      "orig": "Review",
+      "text": "Review"
+    },
+    {
+      "self_ref": "#/texts/138",
+      "parent": {
+        "$ref": "#/groups/3"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 24,
+          "bbox": {
+            "l": 119.0551,
+            "t": 668.4584951171875,
+            "r": 326.0783000000001,
+            "b": 646.4785558547146,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            161
+          ]
+        }
+      ],
+      "orig": "187 Paccou J, Compston JE. Bone health in adults with obesity before and after interventions to promote weight loss. Lancet Diabetes Endocrinol 2024; 12: 748-60.",
+      "text": "187 Paccou J, Compston JE. Bone health in adults with obesity before and after interventions to promote weight loss. Lancet Diabetes Endocrinol 2024; 12: 748-60.",
+      "enumerated": false,
+      "marker": ""
+    },
+    {
+      "self_ref": "#/texts/139",
+      "parent": {
+        "$ref": "#/groups/3"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 24,
+          "bbox": {
+            "l": 119.0551,
+            "t": 643.0410951171875,
+            "r": 328.9343,
+            "b": 613.0601558547147,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            210
+          ]
+        }
+      ],
+      "orig": "188\t Paccou J, Tsourdi E, Meier C, et al. Bariatric surgery and skeletal health: a narrative review and position statement for management by the European Calcified Tissue Society (ECTS). Bone 2022; 154: 116236.",
+      "text": "188\t Paccou J, Tsourdi E, Meier C, et al. Bariatric surgery and skeletal health: a narrative review and position statement for management by the European Calcified Tissue Society (ECTS). Bone 2022; 154: 116236.",
+      "enumerated": false,
+      "marker": ""
+    },
+    {
+      "self_ref": "#/texts/140",
+      "parent": {
+        "$ref": "#/groups/3"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 24,
+          "bbox": {
+            "l": 119.0551,
+            "t": 609.6237951171875,
+            "r": 326.8763,
+            "b": 579.6428558547146,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            221
+          ]
+        }
+      ],
+      "orig": "189\t Hansen MS, W\u00f6lfel EM, Jeromdesella S, et al. Once-weekly semaglutide versus placebo in adults with increased fracture risk: a randomised, double-blinded, two-centre, phase 2 trial. EClinicalMedicine 2024; 72: 102624.",
+      "text": "189\t Hansen MS, W\u00f6lfel EM, Jeromdesella S, et al. Once-weekly semaglutide versus placebo in adults with increased fracture risk: a randomised, double-blinded, two-centre, phase 2 trial. EClinicalMedicine 2024; 72: 102624.",
+      "enumerated": false,
+      "marker": ""
+    },
+    {
+      "self_ref": "#/texts/141",
+      "parent": {
+        "$ref": "#/groups/3"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 24,
+          "bbox": {
+            "l": 119.0551,
+            "t": 576.2064951171875,
+            "r": 328.5493,
+            "b": 554.2265558547147,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            169
+          ]
+        }
+      ],
+      "orig": "190\t Karam L, Mabilleau G, Paccou J. Effects of glucagon-like peptide-1 receptor agonists on bone health in people living with obesity. Osteoporos Int 2025; 36: 2115-26.",
+      "text": "190\t Karam L, Mabilleau G, Paccou J. Effects of glucagon-like peptide-1 receptor agonists on bone health in people living with obesity. Osteoporos Int 2025; 36: 2115-26.",
+      "enumerated": false,
+      "marker": ""
+    },
+    {
+      "self_ref": "#/texts/142",
+      "parent": {
+        "$ref": "#/groups/3"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 24,
+          "bbox": {
+            "l": 119.0551,
+            "t": 550.7891951171875,
+            "r": 334.61129999999997,
+            "b": 528.8092558547147,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            182
+          ]
+        }
+      ],
+      "orig": "191 Nicholson WK, Silverstein M, Wong JB, et al. Screening for osteoporosis to prevent fractures: US Preventive Services Task Force Recommendation Statement. JAMA 2025; 333: 498-508.",
+      "text": "191 Nicholson WK, Silverstein M, Wong JB, et al. Screening for osteoporosis to prevent fractures: US Preventive Services Task Force Recommendation Statement. JAMA 2025; 333: 498-508.",
+      "enumerated": false,
+      "marker": ""
+    },
+    {
+      "self_ref": "#/texts/143",
+      "parent": {
+        "$ref": "#/groups/3"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 24,
+          "bbox": {
+            "l": 119.0551,
+            "t": 525.3717951171875,
+            "r": 331.2443,
+            "b": 503.39185585471466,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            166
+          ]
+        }
+      ],
+      "orig": "192\t Palermo A, Tsourdi E, Yavropoulou MP, et al. The effects of obesity and weight loss interventions on bone health: a narrative review. Curr Diab Rep 2025; 25: 52.",
+      "text": "192\t Palermo A, Tsourdi E, Yavropoulou MP, et al. The effects of obesity and weight loss interventions on bone health: a narrative review. Curr Diab Rep 2025; 25: 52.",
+      "enumerated": false,
+      "marker": ""
+    },
+    {
+      "self_ref": "#/texts/144",
+      "parent": {
+        "$ref": "#/groups/3"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 24,
+          "bbox": {
+            "l": 119.0551,
+            "t": 499.9544951171875,
+            "r": 327.6813,
+            "b": 461.9725558547147,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            263
+          ]
+        }
+      ],
+      "orig": "193\t Waterhouse M, Ebeling PR, McLeod DSA, et al. The effect of monthly vitamin D supplementation on fractures: a tertiary outcome from the population-based, double-blind, randomised, placebo-controlled D-Health trial. Lancet Diabetes Endocrinol 2023; 11: 324-32.",
+      "text": "193\t Waterhouse M, Ebeling PR, McLeod DSA, et al. The effect of monthly vitamin D supplementation on fractures: a tertiary outcome from the population-based, double-blind, randomised, placebo-controlled D-Health trial. Lancet Diabetes Endocrinol 2023; 11: 324-32.",
+      "enumerated": false,
+      "marker": ""
+    },
+    {
+      "self_ref": "#/texts/145",
+      "parent": {
+        "$ref": "#/groups/3"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 24,
+          "bbox": {
+            "l": 119.0551,
+            "t": 458.5371951171875,
+            "r": 329.0533000000001,
+            "b": 412.5542558547147,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            317
+          ]
+        }
+      ],
+      "orig": "194\t Chevalley T, Brandi ML, Cashman KD, et al. Role of vitamin D supplementation in the management of musculoskeletal diseases: update from an European Society of Clinical and Economical Aspects of Osteoporosis, Osteoarthritis and Musculoskeletal Diseases (ESCEO) working group. Aging Clin Exp Res 2022; 34: 2603-23.",
+      "text": "194\t Chevalley T, Brandi ML, Cashman KD, et al. Role of vitamin D supplementation in the management of musculoskeletal diseases: update from an European Society of Clinical and Economical Aspects of Osteoporosis, Osteoarthritis and Musculoskeletal Diseases (ESCEO) working group. Aging Clin Exp Res 2022; 34: 2603-23.",
+      "enumerated": false,
+      "marker": ""
+    },
+    {
+      "self_ref": "#/texts/146",
+      "parent": {
+        "$ref": "#/groups/3"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 24,
+          "bbox": {
+            "l": 119.0551,
+            "t": 409.1198951171875,
+            "r": 328.95529999999997,
+            "b": 363.13695585471476,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            359
+          ]
+        }
+      ],
+      "orig": "195\t Harvey NC, Biver E, Kaufman JM, et al. The role of calcium supplementation in healthy musculoskeletal ageing: an expert consensus meeting of the European Society for Clinical and Economic Aspects of Osteoporosis, Osteoarthritis and Musculoskeletal Diseases (ESCEO) and the International Foundation for Osteoporosis (IOF). Osteoporos Int 2017; 28: 447-62.",
+      "text": "195\t Harvey NC, Biver E, Kaufman JM, et al. The role of calcium supplementation in healthy musculoskeletal ageing: an expert consensus meeting of the European Society for Clinical and Economic Aspects of Osteoporosis, Osteoarthritis and Musculoskeletal Diseases (ESCEO) and the International Foundation for Osteoporosis (IOF). Osteoporos Int 2017; 28: 447-62.",
+      "enumerated": false,
+      "marker": ""
+    },
+    {
+      "self_ref": "#/texts/147",
+      "parent": {
+        "$ref": "#/groups/3"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 24,
+          "bbox": {
+            "l": 119.0551,
+            "t": 359.7024951171875,
+            "r": 312.4493000000001,
+            "b": 337.72255585471464,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            160
+          ]
+        }
+      ],
+      "orig": "196\t Paccou J, Gagnon C, Yu EW, Rosen CJ. Effects of weight-loss interventions on bone health in people living with obesity. J Bone Miner Res 2025; 40: 1319-31.",
+      "text": "196\t Paccou J, Gagnon C, Yu EW, Rosen CJ. Effects of weight-loss interventions on bone health in people living with obesity. J Bone Miner Res 2025; 40: 1319-31.",
+      "enumerated": false,
+      "marker": ""
+    },
+    {
+      "self_ref": "#/texts/148",
+      "parent": {
+        "$ref": "#/groups/3"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 24,
+          "bbox": {
+            "l": 119.0551,
+            "t": 334.2851951171875,
+            "r": 329.9352999999999,
+            "b": 312.3052558547147,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            155
+          ]
+        }
+      ],
+      "orig": "197 Kumar S, Smith C, Clifton-Bligh RJ, Beck BR, Girgis CM. Exercise for postmenopausal bone health-can we raise the bar? Curr Osteoporos Rep 2025; 23: 20.",
+      "text": "197 Kumar S, Smith C, Clifton-Bligh RJ, Beck BR, Girgis CM. Exercise for postmenopausal bone health-can we raise the bar? Curr Osteoporos Rep 2025; 23: 20.",
+      "enumerated": false,
+      "marker": ""
+    },
+    {
+      "self_ref": "#/texts/149",
+      "parent": {
+        "$ref": "#/groups/3"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 24,
+          "bbox": {
+            "l": 344.4094,
+            "t": 668.4584951171875,
+            "r": 550.9986000000001,
+            "b": 638.4775558547146,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            229
+          ]
+        }
+      ],
+      "orig": "198\t Jensen SBK, S\u00f8rensen V, Sandsdal RM, et al. Bone health after exercise alone, GLP-1 receptor agonist treatment, or combination treatment: a secondary analysis of a randomized clinical trial. JAMA Netw Open 2024; 7: e2416775.",
+      "text": "198\t Jensen SBK, S\u00f8rensen V, Sandsdal RM, et al. Bone health after exercise alone, GLP-1 receptor agonist treatment, or combination treatment: a secondary analysis of a randomized clinical trial. JAMA Netw Open 2024; 7: e2416775.",
+      "enumerated": false,
+      "marker": ""
+    },
+    {
+      "self_ref": "#/texts/150",
+      "parent": {
+        "$ref": "#/groups/3"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 24,
+          "bbox": {
+            "l": 344.4094,
+            "t": 635.0410951171875,
+            "r": 556.7876000000003,
+            "b": 605.0601558547147,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            233
+          ]
+        }
+      ],
+      "orig": "199\t Coulman KD, Margelyte R, Jones T, et al. Access to publicly funded weight management services in England using routine data from primary and secondary care (2007-2020): an observational cohort study. PLoS Med 2023; 20: e1004282.",
+      "text": "199\t Coulman KD, Margelyte R, Jones T, et al. Access to publicly funded weight management services in England using routine data from primary and secondary care (2007-2020): an observational cohort study. PLoS Med 2023; 20: e1004282.",
+      "enumerated": false,
+      "marker": ""
+    },
+    {
+      "self_ref": "#/texts/151",
+      "parent": {
+        "$ref": "#/groups/3"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 24,
+          "bbox": {
+            "l": 344.4094,
+            "t": 601.6237951171875,
+            "r": 557.9146000000001,
+            "b": 579.6438558547146,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            199
+          ]
+        }
+      ],
+      "orig": "200\t Mekonnen A, Vasilevski V, Chapman A, et al. Barriers and enablers to effective weight management for people living with overweight and obesity: a rapid scoping review. Obes Rev 2025; 26: e13858.",
+      "text": "200\t Mekonnen A, Vasilevski V, Chapman A, et al. Barriers and enablers to effective weight management for people living with overweight and obesity: a rapid scoping review. Obes Rev 2025; 26: e13858.",
+      "enumerated": false,
+      "marker": ""
+    },
+    {
+      "self_ref": "#/texts/152",
+      "parent": {
+        "$ref": "#/groups/3"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 24,
+          "bbox": {
+            "l": 344.4094,
+            "t": 576.2064951171875,
+            "r": 555.2126000000002,
+            "b": 562.2275558547146,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            127
+          ]
+        }
+      ],
+      "orig": "201\t Kendrick KN, Bode Padron KJ, Bomani NZ, et al. Equity in obesity review. Endocrinol Metab Clin North Am 2023; 52: 617-27 .",
+      "text": "201\t Kendrick KN, Bode Padron KJ, Bomani NZ, et al. Equity in obesity review. Endocrinol Metab Clin North Am 2023; 52: 617-27 .",
+      "enumerated": false,
+      "marker": ""
+    },
+    {
+      "self_ref": "#/texts/153",
+      "parent": {
+        "$ref": "#/groups/3"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 24,
+          "bbox": {
+            "l": 344.4094,
+            "t": 558.7891951171875,
+            "r": 539.0845999999999,
+            "b": 544.8102558547147,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            121
+          ]
+        }
+      ],
+      "orig": "202\t Karagiannis T, Bekiari E, Tsapas A. Socioeconomic aspects of incretin-based therapy. Diabetologia 2023; 66: 1859-68.",
+      "text": "202\t Karagiannis T, Bekiari E, Tsapas A. Socioeconomic aspects of incretin-based therapy. Diabetologia 2023; 66: 1859-68.",
+      "enumerated": false,
+      "marker": ""
+    },
+    {
+      "self_ref": "#/texts/154",
+      "parent": {
+        "$ref": "#/groups/3"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 24,
+          "bbox": {
+            "l": 344.4094,
+            "t": 541.3717951171875,
+            "r": 549.8506000000001,
+            "b": 519.3918558547147,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            153
+          ]
+        }
+      ],
+      "orig": "203\t Waldrop SW, Johnson VR, Stanford FC. Inequalities in the provision of GLP-1 receptor agonists for the treatment of obesity. Nat Med 2024; 30: 22-25.",
+      "text": "203\t Waldrop SW, Johnson VR, Stanford FC. Inequalities in the provision of GLP-1 receptor agonists for the treatment of obesity. Nat Med 2024; 30: 22-25.",
+      "enumerated": false,
+      "marker": ""
+    },
+    {
+      "self_ref": "#/texts/155",
+      "parent": {
+        "$ref": "#/groups/3"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 24,
+          "bbox": {
+            "l": 344.4094,
+            "t": 515.9544951171874,
+            "r": 557.8166000000001,
+            "b": 485.9735558547147,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            270
+          ]
+        }
+      ],
+      "orig": "204\t Food and Agriculture Organization of the UN. Changing policy concepts of food security. Food and Agriculture Organization of the United Nations. June 30, 2006. https://reliefweb.int/report/world/ policy-brief-food-security-issue-2-june-2006 (accessed Nov 20, 2025).",
+      "text": "204\t Food and Agriculture Organization of the UN. Changing policy concepts of food security. Food and Agriculture Organization of the United Nations. June 30, 2006. https://reliefweb.int/report/world/ policy-brief-food-security-issue-2-june-2006 (accessed Nov 20, 2025).",
+      "enumerated": false,
+      "marker": ""
+    },
+    {
+      "self_ref": "#/texts/156",
+      "parent": {
+        "$ref": "#/groups/3"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 24,
+          "bbox": {
+            "l": 344.4094,
+            "t": 482.5371951171875,
+            "r": 553.0566000000001,
+            "b": 460.55725585471464,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            170
+          ]
+        }
+      ],
+      "orig": "205\t Johnstone A, Lonnie M, FIO-Food project team. The cost-of-living crisis is feeding the paradox of obesity and food insecurities in the UK. Obesity 2023; 31: 1461-62.",
+      "text": "205\t Johnstone A, Lonnie M, FIO-Food project team. The cost-of-living crisis is feeding the paradox of obesity and food insecurities in the UK. Obesity 2023; 31: 1461-62.",
+      "enumerated": false,
+      "marker": ""
+    },
+    {
+      "self_ref": "#/texts/157",
+      "parent": {
+        "$ref": "#/groups/3"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 24,
+          "bbox": {
+            "l": 344.4094,
+            "t": 457.1198951171875,
+            "r": 558.1946000000002,
+            "b": 427.1389558547147,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            221
+          ]
+        }
+      ],
+      "orig": "206\t Stone RA, Brown A, Douglas F, et al. The impact of the cost of living crisis and food insecurity on food purchasing behaviours and food preparation practices in people living with obesity. Appetite 2024; 196: 107255.",
+      "text": "206\t Stone RA, Brown A, Douglas F, et al. The impact of the cost of living crisis and food insecurity on food purchasing behaviours and food preparation practices in people living with obesity. Appetite 2024; 196: 107255.",
+      "enumerated": false,
+      "marker": ""
+    },
+    {
+      "self_ref": "#/texts/158",
+      "parent": {
+        "$ref": "#/groups/3"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 24,
+          "bbox": {
+            "l": 344.4095,
+            "t": 423.7024951171875,
+            "r": 559.9866999999998,
+            "b": 401.72255585471464,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            156
+          ]
+        }
+      ],
+      "orig": "207\t Craig H, Sharib JR, Ridberg R, et al. Development, implementation, and validation of 2-item nutrition security screener. Curr Dev Nutr 2024; 8: 103151.",
+      "text": "207\t Craig H, Sharib JR, Ridberg R, et al. Development, implementation, and validation of 2-item nutrition security screener. Curr Dev Nutr 2024; 8: 103151.",
+      "enumerated": false,
+      "marker": ""
+    },
+    {
+      "self_ref": "#/texts/159",
+      "parent": {
+        "$ref": "#/groups/3"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 24,
+          "bbox": {
+            "l": 344.4095,
+            "t": 398.2851951171875,
+            "r": 560.0427000000001,
+            "b": 368.3042558547147,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            217
+          ]
+        }
+      ],
+      "orig": "208\t Czernichow S, Rassy N, Carette C, Shoung N, Hu FB, Rives-Lange C. Nutritional and functional outcomes in trials of nutrient-stimulated hormone-based therapy-a systematic mapping review. Obes Rev 2025; 26: e13890.",
+      "text": "208\t Czernichow S, Rassy N, Carette C, Shoung N, Hu FB, Rives-Lange C. Nutritional and functional outcomes in trials of nutrient-stimulated hormone-based therapy-a systematic mapping review. Obes Rev 2025; 26: e13890.",
+      "enumerated": false,
+      "marker": ""
+    },
+    {
+      "self_ref": "#/texts/160",
+      "parent": {
+        "$ref": "#/groups/3"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 24,
+          "bbox": {
+            "l": 344.4095,
+            "t": 364.8678951171875,
+            "r": 556.1157000000002,
+            "b": 342.8879558547147,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            182
+          ]
+        }
+      ],
+      "orig": "209\t Tinsley GM, Heymsfield SB. Fundamental body composition principles provide context for fat-free and skeletal muscle loss with GLP-1 RA treatments. J Endocr Soc 2024; 8: bvae164.",
+      "text": "209\t Tinsley GM, Heymsfield SB. Fundamental body composition principles provide context for fat-free and skeletal muscle loss with GLP-1 RA treatments. J Endocr Soc 2024; 8: bvae164.",
+      "enumerated": false,
+      "marker": ""
+    },
+    {
+      "self_ref": "#/texts/161",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 24,
+          "bbox": {
+            "l": 344.4077,
+            "t": 333.03189511718756,
+            "r": 552.4336999999999,
+            "b": 318.3039558547147,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            132
+          ]
+        }
+      ],
+      "orig": "Copyright \u00a9 2026 Elsevier Ltd. All rights reserved, including those for text and data mining, AI training, and similar technologies.",
+      "text": "Copyright \u00a9 2026 Elsevier Ltd. All rights reserved, including those for text and data mining, AI training, and similar technologies."
+    },
+    {
+      "self_ref": "#/texts/162",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 24,
+          "bbox": {
+            "l": 28.3464,
+            "t": 24.538795117187533,
+            "r": 35.7312945,
+            "b": 18.949484209950015,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            2
+          ]
+        }
+      ],
+      "orig": "24",
+      "text": "24"
+    },
+    {
+      "self_ref": "#/texts/163",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 24,
+          "bbox": {
+            "l": 208.047,
+            "t": 24.538795117187533,
+            "r": 558.4059948000001,
+            "b": 18.948359402901815,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            118
+          ]
+        }
+      ],
+      "orig": "www.thelancet.com/diabetes-endocrinology Published online July 8, 2026   https://doi.org/10.1016/S2213-8587(26)00122-1",
+      "text": "www.thelancet.com/diabetes-endocrinology Published online July 8, 2026   https://doi.org/10.1016/S2213-8587(26)00122-1"
+    }
+  ],
+  "pictures": [],
+  "tables": [],
+  "key_value_items": [],
+  "form_items": [],
+  "pages": {
+    "21": {
+      "size": {
+        "width": 595.2760009765625,
+        "height": 799.3699951171875
+      },
+      "page_no": 21
+    },
+    "22": {
+      "size": {
+        "width": 595.2760009765625,
+        "height": 799.3699951171875
+      },
+      "page_no": 22
+    },
+    "23": {
+      "size": {
+        "width": 595.2760009765625,
+        "height": 799.3699951171875
+      },
+      "page_no": 23
+    },
+    "24": {
+      "size": {
+        "width": 595.2760009765625,
+        "height": 799.3699951171875
+      },
+      "page_no": 24
+    }
+  }
+}

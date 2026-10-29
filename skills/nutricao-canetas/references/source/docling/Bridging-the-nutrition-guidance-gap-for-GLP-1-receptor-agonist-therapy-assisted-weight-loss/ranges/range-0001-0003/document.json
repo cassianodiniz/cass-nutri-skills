@@ -1,0 +1,3854 @@
+{
+  "schema_name": "DoclingDocument",
+  "version": "1.10.0",
+  "name": "Bridging the nutrition guidance gap for GLP-1 receptor agonist therapy assisted weight loss",
+  "origin": {
+    "mimetype": "application/pdf",
+    "binary_hash": 4302578378139263413,
+    "filename": "Bridging the nutrition guidance gap for GLP-1 receptor agonist therapy assisted weight loss.pdf"
+  },
+  "furniture": {
+    "self_ref": "#/furniture",
+    "children": [],
+    "content_layer": "furniture",
+    "name": "_root_",
+    "label": "unspecified"
+  },
+  "body": {
+    "self_ref": "#/body",
+    "children": [
+      {
+        "$ref": "#/texts/0"
+      },
+      {
+        "$ref": "#/texts/1"
+      },
+      {
+        "$ref": "#/texts/2"
+      },
+      {
+        "$ref": "#/texts/3"
+      },
+      {
+        "$ref": "#/texts/4"
+      },
+      {
+        "$ref": "#/texts/5"
+      },
+      {
+        "$ref": "#/pictures/0"
+      },
+      {
+        "$ref": "#/texts/6"
+      },
+      {
+        "$ref": "#/texts/7"
+      },
+      {
+        "$ref": "#/texts/8"
+      },
+      {
+        "$ref": "#/texts/9"
+      },
+      {
+        "$ref": "#/texts/10"
+      },
+      {
+        "$ref": "#/texts/11"
+      },
+      {
+        "$ref": "#/texts/12"
+      },
+      {
+        "$ref": "#/texts/13"
+      },
+      {
+        "$ref": "#/texts/14"
+      },
+      {
+        "$ref": "#/texts/15"
+      },
+      {
+        "$ref": "#/texts/16"
+      },
+      {
+        "$ref": "#/texts/17"
+      },
+      {
+        "$ref": "#/texts/18"
+      },
+      {
+        "$ref": "#/texts/19"
+      },
+      {
+        "$ref": "#/texts/20"
+      },
+      {
+        "$ref": "#/groups/0"
+      },
+      {
+        "$ref": "#/pictures/1"
+      },
+      {
+        "$ref": "#/texts/24"
+      },
+      {
+        "$ref": "#/texts/25"
+      },
+      {
+        "$ref": "#/texts/26"
+      },
+      {
+        "$ref": "#/tables/0"
+      },
+      {
+        "$ref": "#/texts/28"
+      },
+      {
+        "$ref": "#/texts/29"
+      },
+      {
+        "$ref": "#/texts/30"
+      },
+      {
+        "$ref": "#/texts/31"
+      },
+      {
+        "$ref": "#/texts/32"
+      },
+      {
+        "$ref": "#/texts/33"
+      },
+      {
+        "$ref": "#/texts/34"
+      },
+      {
+        "$ref": "#/texts/35"
+      },
+      {
+        "$ref": "#/texts/36"
+      },
+      {
+        "$ref": "#/texts/37"
+      },
+      {
+        "$ref": "#/texts/38"
+      },
+      {
+        "$ref": "#/texts/39"
+      },
+      {
+        "$ref": "#/texts/40"
+      },
+      {
+        "$ref": "#/texts/41"
+      },
+      {
+        "$ref": "#/texts/42"
+      },
+      {
+        "$ref": "#/texts/43"
+      },
+      {
+        "$ref": "#/texts/44"
+      },
+      {
+        "$ref": "#/texts/45"
+      },
+      {
+        "$ref": "#/texts/46"
+      },
+      {
+        "$ref": "#/texts/47"
+      },
+      {
+        "$ref": "#/groups/1"
+      },
+      {
+        "$ref": "#/texts/63"
+      },
+      {
+        "$ref": "#/texts/64"
+      },
+      {
+        "$ref": "#/texts/65"
+      },
+      {
+        "$ref": "#/texts/66"
+      },
+      {
+        "$ref": "#/texts/67"
+      },
+      {
+        "$ref": "#/texts/68"
+      },
+      {
+        "$ref": "#/texts/69"
+      },
+      {
+        "$ref": "#/texts/70"
+      },
+      {
+        "$ref": "#/texts/71"
+      },
+      {
+        "$ref": "#/texts/72"
+      },
+      {
+        "$ref": "#/pictures/2"
+      },
+      {
+        "$ref": "#/texts/75"
+      },
+      {
+        "$ref": "#/texts/76"
+      },
+      {
+        "$ref": "#/groups/2"
+      },
+      {
+        "$ref": "#/texts/78"
+      },
+      {
+        "$ref": "#/texts/79"
+      }
+    ],
+    "content_layer": "body",
+    "name": "_root_",
+    "label": "unspecified"
+  },
+  "groups": [
+    {
+      "self_ref": "#/groups/0",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/21"
+        },
+        {
+          "$ref": "#/texts/22"
+        }
+      ],
+      "content_layer": "body",
+      "name": "group",
+      "label": "key_value_area"
+    },
+    {
+      "self_ref": "#/groups/1",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/48"
+        },
+        {
+          "$ref": "#/texts/49"
+        },
+        {
+          "$ref": "#/texts/50"
+        },
+        {
+          "$ref": "#/texts/51"
+        },
+        {
+          "$ref": "#/texts/52"
+        },
+        {
+          "$ref": "#/texts/53"
+        },
+        {
+          "$ref": "#/texts/54"
+        },
+        {
+          "$ref": "#/texts/55"
+        },
+        {
+          "$ref": "#/texts/56"
+        },
+        {
+          "$ref": "#/texts/57"
+        },
+        {
+          "$ref": "#/texts/58"
+        },
+        {
+          "$ref": "#/texts/59"
+        },
+        {
+          "$ref": "#/texts/60"
+        },
+        {
+          "$ref": "#/texts/61"
+        },
+        {
+          "$ref": "#/texts/62"
+        }
+      ],
+      "content_layer": "body",
+      "name": "list",
+      "label": "list"
+    },
+    {
+      "self_ref": "#/groups/2",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/77"
+        }
+      ],
+      "content_layer": "body",
+      "name": "group",
+      "label": "key_value_area"
+    }
+  ],
+  "texts": [
+    {
+      "self_ref": "#/texts/0",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 36.170101165,
+            "t": 759.6729988087773,
+            "r": 207.78141939267266,
+            "b": 748.4611396759864,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            32
+          ]
+        }
+      ],
+      "orig": "International Journal of Obesity",
+      "text": "International Journal of Obesity"
+    },
+    {
+      "self_ref": "#/texts/1",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 478.091186523,
+            "t": 756.4394475140313,
+            "r": 549.7297351845222,
+            "b": 749.4884466476459,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            18
+          ]
+        }
+      ],
+      "orig": "www.nature.com/ijo",
+      "text": "www.nature.com/ijo",
+      "hyperlink": "www.nature.com/ijo"
+    },
+    {
+      "self_ref": "#/texts/2",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 2.4160768843300002,
+            "t": 488.27537555370304,
+            "r": 6.988910171416,
+            "b": 456.8314182120313,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            15
+          ]
+        }
+      ],
+      "orig": "1234567890();,:",
+      "text": "1234567890();,:"
+    },
+    {
+      "self_ref": "#/texts/3",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 35.8866,
+            "t": 708.2014365970313,
+            "r": 167.290600682,
+            "b": 693.7871751970312,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            16
+          ]
+        }
+      ],
+      "orig": "PERSPECTIVE OPEN",
+      "text": "PERSPECTIVE OPEN",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/4",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 35.8866,
+            "t": 682.4993124994212,
+            "r": 188.76449170209585,
+            "b": 673.8013454587502,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            34
+          ]
+        }
+      ],
+      "orig": "Epidemiology and Population Health",
+      "text": "Epidemiology and Population Health"
+    },
+    {
+      "self_ref": "#/texts/5",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 35.8866,
+            "t": 660.9804352410312,
+            "r": 549.9244834842102,
+            "b": 620.1638333165241,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            123
+          ]
+        }
+      ],
+      "orig": "Bridging the nutrition guidance gap for GLP-1 receptor agonist therapy assisted weight loss: lessons from bariatric surgery",
+      "text": "Bridging the nutrition guidance gap for GLP-1 receptor agonist therapy assisted weight loss: lessons from bariatric surgery",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/6",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 35.8866,
+            "t": 614.6520036360313,
+            "r": 277.492062455,
+            "b": 601.2600173464918,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            63
+          ]
+        }
+      ],
+      "orig": "Marie Spreckley 1 , Cara F. Ruggiero 1 and Adrian Brown 2,3,4 \u2709",
+      "text": "Marie Spreckley 1 , Cara F. Ruggiero 1 and Adrian Brown 2,3,4 \u2709"
+    },
+    {
+      "self_ref": "#/texts/7",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 35.8866,
+            "t": 587.8302751140512,
+            "r": 112.85914831748943,
+            "b": 580.4425938155155,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            20
+          ]
+        }
+      ],
+      "orig": "\u00a9 The Author(s) 2025",
+      "text": "\u00a9 The Author(s) 2025"
+    },
+    {
+      "self_ref": "#/texts/8",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 35.8866,
+            "t": 562.4852508780313,
+            "r": 397.47058009999097,
+            "b": 553.6175801780312,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            94
+          ]
+        }
+      ],
+      "orig": "International Journal of Obesity (2026) 50:265-267; https://doi.org/10.1038/s41366-025-01952-w",
+      "text": "International Journal of Obesity (2026) 50:265-267; https://doi.org/10.1038/s41366-025-01952-w"
+    },
+    {
+      "self_ref": "#/texts/9",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 35.88659999999999,
+            "t": 519.3403119080313,
+            "r": 98.4175762,
+            "b": 511.52058855500735,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            12
+          ]
+        }
+      ],
+      "orig": "INTRODUCTION",
+      "text": "INTRODUCTION",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/10",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 35.88659999999999,
+            "t": 509.3626132680313,
+            "r": 283.95363557999997,
+            "b": 401.93286456084826,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            684
+          ]
+        }
+      ],
+      "orig": "Glucagon-like peptide-1 receptor agonists and combination incretin medications (hereafter referred to as GLP-1 RAs) represent a paradigm shift in the management of obesity, approaching weight loss outcomes comparable to bariatric surgery [1, 2]. Despite global utilisation, there remain critical clinical and research gaps in structured nutritional guidance for their use. These gaps present a clinical concern, since GLP-1 RA-induced weight loss mirrors several physiological effects of bariatric interventions, potentially resulting in signi fi cant reductions in lean mass, micronutrient depletion, altered eating behaviours, gastrointestinal symptoms, and gallstone formation [3].",
+      "text": "Glucagon-like peptide-1 receptor agonists and combination incretin medications (hereafter referred to as GLP-1 RAs) represent a paradigm shift in the management of obesity, approaching weight loss outcomes comparable to bariatric surgery [1, 2]. Despite global utilisation, there remain critical clinical and research gaps in structured nutritional guidance for their use. These gaps present a clinical concern, since GLP-1 RA-induced weight loss mirrors several physiological effects of bariatric interventions, potentially resulting in signi fi cant reductions in lean mass, micronutrient depletion, altered eating behaviours, gastrointestinal symptoms, and gallstone formation [3]."
+    },
+    {
+      "self_ref": "#/texts/11",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 35.887493177974505,
+            "t": 399.7773912980314,
+            "r": 283.9545323184923,
+            "b": 292.34764259084835,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            677
+          ]
+        }
+      ],
+      "orig": "While physical activity and behavioural interventions are integral to long-term weight management, this discussion focuses on the currently neglected domain of nutrition in the context of GLP-1 RAs. We present a novel perspective by integrating evidence on nutritional risks associated with GLP-1 RAs with established post-bariatric dietary frameworks, to identify actionable insights and areas of uncertainty, ultimately arguing for the urgent development of international GLP-1 RA-speci fi c nutrition guidelines in adult populations (Table 1). References were selected through expert consensus based on relevance to obesity pharmacotherapy and post-bariatric models of care.",
+      "text": "While physical activity and behavioural interventions are integral to long-term weight management, this discussion focuses on the currently neglected domain of nutrition in the context of GLP-1 RAs. We present a novel perspective by integrating evidence on nutritional risks associated with GLP-1 RAs with established post-bariatric dietary frameworks, to identify actionable insights and areas of uncertainty, ultimately arguing for the urgent development of international GLP-1 RA-speci fi c nutrition guidelines in adult populations (Table 1). References were selected through expert consensus based on relevance to obesity pharmacotherapy and post-bariatric models of care."
+    },
+    {
+      "self_ref": "#/texts/12",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 35.887493177974505,
+            "t": 270.2923631080314,
+            "r": 272.8228668154019,
+            "b": 262.47263975500755,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            49
+          ]
+        }
+      ],
+      "orig": "GLP-1 RA THERAPY INDUCED WEIGHT LOSS: NUTRITIONAL",
+      "text": "GLP-1 RA THERAPY INDUCED WEIGHT LOSS: NUTRITIONAL",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/13",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 35.887493177974505,
+            "t": 260.3146644680314,
+            "r": 231.60837272794765,
+            "b": 242.57373016500753,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            85
+          ]
+        }
+      ],
+      "orig": "RISKS AND LESSONS FROM BARIATRIC SURGERY Preservation of lean mass and protein intake",
+      "text": "RISKS AND LESSONS FROM BARIATRIC SURGERY Preservation of lean mass and protein intake",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/14",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 35.887493177974505,
+            "t": 240.41575487803152,
+            "r": 283.9446639809167,
+            "b": 132.9295184808484,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            717
+          ]
+        },
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 301.8933968293155,
+            "t": 519.3483776866574,
+            "r": 549.944301009593,
+            "b": 471.67184543947434,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            718,
+            1020
+          ]
+        }
+      ],
+      "orig": "GLP-1 RAs suppress appetite and reduce food cravings, with trials showing up to 22.5% mean weight loss at 72 weeks [1]. Although this facilitates signi fi cant fat mass reduction, an estimated 30 -40% of weight lost may derive from fat-free mass, which is of particular concern for older adults and individuals with sarcopenic obesity [4, 5]. While some evidence suggests GLP-1 RAs may spare lean mass more effectively than alternative strategies [1], this is not universally observed. Loss of skeletal muscle can impair metabolic health, diminish physical function, and compromise weight maintenance [6]. Drawing on bariatric protocols, high-quality protein intake should be prioritised for adults with obesity using GLP-1 RAs [7], ideally accompanied by resistance training. Presently, there is a lack of prospective studies to determine optimal protein amounts, though ranges between 0.8 -1.6 g/kg/d or absolute protein amounts (80 -120 g/day), similar to those proposed for bariatric surgery, have been proposed [8].",
+      "text": "GLP-1 RAs suppress appetite and reduce food cravings, with trials showing up to 22.5% mean weight loss at 72 weeks [1]. Although this facilitates signi fi cant fat mass reduction, an estimated 30 -40% of weight lost may derive from fat-free mass, which is of particular concern for older adults and individuals with sarcopenic obesity [4, 5]. While some evidence suggests GLP-1 RAs may spare lean mass more effectively than alternative strategies [1], this is not universally observed. Loss of skeletal muscle can impair metabolic health, diminish physical function, and compromise weight maintenance [6]. Drawing on bariatric protocols, high-quality protein intake should be prioritised for adults with obesity using GLP-1 RAs [7], ideally accompanied by resistance training. Presently, there is a lack of prospective studies to determine optimal protein amounts, though ranges between 0.8 -1.6 g/kg/d or absolute protein amounts (80 -120 g/day), similar to those proposed for bariatric surgery, have been proposed [8]."
+    },
+    {
+      "self_ref": "#/texts/15",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 301.89430405748203,
+            "t": 469.57285986665744,
+            "r": 550.0653487858771,
+            "b": 401.9409303394744,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            454
+          ]
+        }
+      ],
+      "orig": "Therefore, urgent research gaps include ideal dosing during GLP-1 RA use, and the role of protein and resistance training in minimising loss of lean mass. In addition, appropriate measures need to be used to assess lean mass and functionality such as dual-energy X-ray absorptiometry, nitrogen balance, or handgrip strength. In studies focusing on the preservation of muscle mass, direct measurement with Magnetic Resonance Imaging should be prioritised.",
+      "text": "Therefore, urgent research gaps include ideal dosing during GLP-1 RA use, and the role of protein and resistance training in minimising loss of lean mass. In addition, appropriate measures need to be used to assess lean mass and functionality such as dual-energy X-ray absorptiometry, nitrogen balance, or handgrip strength. In studies focusing on the preservation of muscle mass, direct measurement with Magnetic Resonance Imaging should be prioritised."
+    },
+    {
+      "self_ref": "#/texts/16",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 301.89430405748203,
+            "t": 389.86424612665746,
+            "r": 532.3353872616552,
+            "b": 382.04452277363356,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            57
+          ]
+        }
+      ],
+      "orig": "Micronutrient de fi ciencies and pre-treatment assessment",
+      "text": "Micronutrient de fi ciencies and pre-treatment assessment",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/17",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 301.89430405748203,
+            "t": 379.8865474866575,
+            "r": 549.9720973466675,
+            "b": 192.73439431884822,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1163
+          ]
+        }
+      ],
+      "orig": "Early satiety, nausea, and changes in food preferences often result in reduced dietary variety and diminished intake of essential nutrients, including iron, vitamin B12, vitamin D, calcium, and thiamine [6, 9]. Although GLP-1 RAs do not induce malabsorption, the potential risk of micronutrient insuf fi ciencies remains considerable due to low oral intake that may be nutritionally inadequate, as supported by recently published evidence [10]. Unlike bariatric surgery, where preoperative screening for micronutrient de fi ciencies is standard practice [6], no formal consensus recommendations currently exist for individuals commencing GLP-1 RAs. Baseline nutritional assessments, including dietary reviews and biochemical monitoring with a multidisciplinary team, are especially important for high-risk groups, particularly older adults and people who menstruate. A risk-based approach is preferable where feasible. However, routine supplementation with a once daily complete multivitamin and mineral supplement containing iron, zinc, copper, B12 and folic acid, may offer a pragmatic, interim strategy in the absence of standardised nutritional screening [7].",
+      "text": "Early satiety, nausea, and changes in food preferences often result in reduced dietary variety and diminished intake of essential nutrients, including iron, vitamin B12, vitamin D, calcium, and thiamine [6, 9]. Although GLP-1 RAs do not induce malabsorption, the potential risk of micronutrient insuf fi ciencies remains considerable due to low oral intake that may be nutritionally inadequate, as supported by recently published evidence [10]. Unlike bariatric surgery, where preoperative screening for micronutrient de fi ciencies is standard practice [6], no formal consensus recommendations currently exist for individuals commencing GLP-1 RAs. Baseline nutritional assessments, including dietary reviews and biochemical monitoring with a multidisciplinary team, are especially important for high-risk groups, particularly older adults and people who menstruate. A risk-based approach is preferable where feasible. However, routine supplementation with a once daily complete multivitamin and mineral supplement containing iron, zinc, copper, B12 and folic acid, may offer a pragmatic, interim strategy in the absence of standardised nutritional screening [7]."
+    },
+    {
+      "self_ref": "#/texts/18",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 301.889652463,
+            "t": 180.60032578603125,
+            "r": 531.9451847671645,
+            "b": 172.7806024330073,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            55
+          ]
+        }
+      ],
+      "orig": "Alterations in eating behaviour and behavioural support",
+      "text": "Alterations in eating behaviour and behavioural support",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/19",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 301.8887544342572,
+            "t": 170.67911483603132,
+            "r": 549.964757439331,
+            "b": 132.92379353884814,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            248
+          ]
+        }
+      ],
+      "orig": "Patients using GLP-1 RAs may experience changes in eating behaviour, including reduced hunger, fewer food cravings, and a decrease in binge eating, ' food noise ' , emotional eating, and uncontrolled eating [1]. These behavioural adaptations, while",
+      "text": "Patients using GLP-1 RAs may experience changes in eating behaviour, including reduced hunger, fewer food cravings, and a decrease in binge eating, ' food noise ' , emotional eating, and uncontrolled eating [1]. These behavioural adaptations, while"
+    },
+    {
+      "self_ref": "#/texts/20",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 35.88596730571703,
+            "t": 106.20082007903125,
+            "r": 549.910811103677,
+            "b": 80.65136112352423,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            372
+          ]
+        }
+      ],
+      "orig": "1 MRC Epidemiology Unit, University of Cambridge, Cambridge, UK. 2 Centre for Obesity Research, University College London, London, UK. 3 Bariatric Centre for Weight Management and Metabolic Surgery, University College London Hospital NHS Trust, London, UK. 4 National Institute for Health Research, UCLH Biomedical Research Centre, London, UK. \u2709 email: a.c.brown@ucl.ac.uk",
+      "text": "1 MRC Epidemiology Unit, University of Cambridge, Cambridge, UK. 2 Centre for Obesity Research, University College London, London, UK. 3 Bariatric Centre for Weight Management and Metabolic Surgery, University College London Hospital NHS Trust, London, UK. 4 National Institute for Health Research, UCLH Biomedical Research Centre, London, UK. \u2709 email: a.c.brown@ucl.ac.uk"
+    },
+    {
+      "self_ref": "#/texts/21",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 35.8866,
+            "t": 73.13943028544122,
+            "r": 321.88903680756505,
+            "b": 67.06773107903132,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            73
+          ]
+        }
+      ],
+      "orig": "Received: 31 March 2025 Revised: 8 October 2025 Accepted: 31 October 2025",
+      "text": "Received: 31 March 2025 Revised: 8 October 2025 Accepted: 31 October 2025"
+    },
+    {
+      "self_ref": "#/texts/22",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 35.8866,
+            "t": 64.18176861104723,
+            "r": 169.72480298931578,
+            "b": 58.110069404637215,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            34
+          ]
+        }
+      ],
+      "orig": "Published online: 15 November 2025",
+      "text": "Published online: 15 November 2025"
+    },
+    {
+      "self_ref": "#/texts/23",
+      "parent": {
+        "$ref": "#/pictures/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 494.0,
+            "t": 709.5326944986979,
+            "r": 548.6666666666666,
+            "b": 700.5326944986979,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            17
+          ]
+        }
+      ],
+      "orig": "Check for updates",
+      "text": "Check for updates"
+    },
+    {
+      "self_ref": "#/texts/24",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 480.0,
+            "t": 40.86602783203125,
+            "r": 552.0,
+            "b": 29.53269449869788,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            15
+          ]
+        }
+      ],
+      "orig": "SPRINGER NATURE",
+      "text": "SPRINGER NATURE"
+    },
+    {
+      "self_ref": "#/texts/25",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_header",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 23.470899581,
+            "t": 744.7672357800313,
+            "r": 38.319092381000004,
+            "b": 734.6891145800313,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            3
+          ]
+        }
+      ],
+      "orig": "266",
+      "text": "266"
+    },
+    {
+      "self_ref": "#/texts/26",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_header",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 231.817306518,
+            "t": 755.8725529830313,
+            "r": 293.1727031866343,
+            "b": 748.9193280517636,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            19
+          ]
+        }
+      ],
+      "orig": "M. Spreckley et al.",
+      "text": "M. Spreckley et al."
+    },
+    {
+      "self_ref": "#/texts/27",
+      "parent": {
+        "$ref": "#/tables/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "caption",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 49.322799682,
+            "t": 726.3310075350513,
+            "r": 324.7525807054985,
+            "b": 718.992707597597,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            79
+          ]
+        }
+      ],
+      "orig": "Table 1. Nutritional Considerations with GLP-1 RA Therapy vs Bariatric Surgery.",
+      "text": "Table 1. Nutritional Considerations with GLP-1 RA Therapy vs Bariatric Surgery."
+    },
+    {
+      "self_ref": "#/texts/28",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 49.32279968199998,
+            "t": 381.30683391893126,
+            "r": 555.387067468025,
+            "b": 365.82831211663637,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            202
+          ]
+        }
+      ],
+      "orig": "A comparative overview of physiological mechanisms, nutritional risks, and management strategies in GLP-1 RA Therapy and bariatric surgery, based on BOMSS guidance and clinical literature [1, 6 -8, 10].",
+      "text": "A comparative overview of physiological mechanisms, nutritional risks, and management strategies in GLP-1 RA Therapy and bariatric surgery, based on BOMSS guidance and clinical literature [1, 6 -8, 10]."
+    },
+    {
+      "self_ref": "#/texts/29",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 45.354301452,
+            "t": 342.91251569203126,
+            "r": 293.3756094492492,
+            "b": 315.1913807248482,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            184
+          ]
+        }
+      ],
+      "orig": "partially responsible for weight loss, could lead to suboptimal dietary quality. Nutrition interventions should address foodrelated cognition, sensory experience, and emotional eating.",
+      "text": "partially responsible for weight loss, could lead to suboptimal dietary quality. Nutrition interventions should address foodrelated cognition, sensory experience, and emotional eating."
+    },
+    {
+      "self_ref": "#/texts/30",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 45.35430145199996,
+            "t": 313.03590746203133,
+            "r": 293.46975483306056,
+            "b": 185.6507614748483,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            852
+          ]
+        }
+      ],
+      "orig": "Behavioural strategies may improve eating behaviours, dietary quality and adherence during GLP-1 RA use, although the longer-term psychological and behavioural impacts following medication cessation remain poorly understood and warrant further investigation [11]. Behavioural nutrition support is currently not standard practice when prescribing GLP-1 RAs and should be considered a core component of care to address unintended dietary and psychological consequences. For example, patients frequently report a reduction in intrusive foodrelated thoughts during GLP-1 RA use, referred to in some literature as ' food noise ' , recently de fi ned and measured using a validated questionnaire [12]. Where required, behavioural nutrition support can be provided alongside more comprehensive psychological support during and after cessation of GLP-1 RA use.",
+      "text": "Behavioural strategies may improve eating behaviours, dietary quality and adherence during GLP-1 RA use, although the longer-term psychological and behavioural impacts following medication cessation remain poorly understood and warrant further investigation [11]. Behavioural nutrition support is currently not standard practice when prescribing GLP-1 RAs and should be considered a core component of care to address unintended dietary and psychological consequences. For example, patients frequently report a reduction in intrusive foodrelated thoughts during GLP-1 RA use, referred to in some literature as ' food noise ' , recently de fi ned and measured using a validated questionnaire [12]. Where required, behavioural nutrition support can be provided alongside more comprehensive psychological support during and after cessation of GLP-1 RA use."
+    },
+    {
+      "self_ref": "#/texts/31",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 45.35430352321529,
+            "t": 183.5517759020314,
+            "r": 293.41326943321536,
+            "b": 115.91984637484836,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            407
+          ]
+        }
+      ],
+      "orig": "Behaviour change frameworks such as the Capability, Opportunity, Motivation, Behaviour (COM-B) model can support the identi fi cation of psychological and contextual factors in fl uencing behaviour [13]. Incorporating both COM-B principles and strategies to support food noise suppression into behavioural nutrition support may be a promising avenue to improve psychological wellbeing and dietary adherence.",
+      "text": "Behaviour change frameworks such as the Capability, Opportunity, Motivation, Behaviour (COM-B) model can support the identi fi cation of psychological and contextual factors in fl uencing behaviour [13]. Incorporating both COM-B principles and strategies to support food noise suppression into behavioural nutrition support may be a promising avenue to improve psychological wellbeing and dietary adherence."
+    },
+    {
+      "self_ref": "#/texts/32",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 45.35520015321529,
+            "t": 103.84316216203138,
+            "r": 276.99149103792763,
+            "b": 96.02343880900753,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            55
+          ]
+        }
+      ],
+      "orig": "Gastrointestinal symptoms and structured meal practices",
+      "text": "Gastrointestinal symptoms and structured meal practices",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/33",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 45.35520015321529,
+            "t": 93.8654635220314,
+            "r": 293.3953370897322,
+            "b": 66.14432855484836,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            200
+          ]
+        },
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 311.3575223774146,
+            "t": 343.31330212899144,
+            "r": 559.3994486560624,
+            "b": 285.32104173180846,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            201,
+            586
+          ]
+        }
+      ],
+      "orig": "Nausea, vomiting, and constipation are commonly encountered side effects associated with GLP-1 RA use, particularly during dose titration and at higher doses [1]. Drawing on post-bariatric strategies, small, frequent meals, slow eating, and fl uid separation may help mitigate symptoms [7]. Dietary adaptations such as favouring dry, low-fat foods during periods of nausea, increasing fi bre and fl uid intake may support treatment adherence. These pragmatic strategies, however, are currently inconsistently communicated to patients and remain absent from current GLP-1 RA care models.",
+      "text": "Nausea, vomiting, and constipation are commonly encountered side effects associated with GLP-1 RA use, particularly during dose titration and at higher doses [1]. Drawing on post-bariatric strategies, small, frequent meals, slow eating, and fl uid separation may help mitigate symptoms [7]. Dietary adaptations such as favouring dry, low-fat foods during periods of nausea, increasing fi bre and fl uid intake may support treatment adherence. These pragmatic strategies, however, are currently inconsistently communicated to patients and remain absent from current GLP-1 RA care models."
+    },
+    {
+      "self_ref": "#/texts/34",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 311.3575223774146,
+            "t": 273.1869731989916,
+            "r": 478.35575656213615,
+            "b": 265.36724984596765,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            40
+          ]
+        }
+      ],
+      "orig": "Gallstone risk and prophylactic measures",
+      "text": "Gallstone risk and prophylactic measures",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/35",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 311.3575223774146,
+            "t": 263.2092745589915,
+            "r": 559.4075220968489,
+            "b": 175.7349231318085,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            570
+          ]
+        }
+      ],
+      "orig": "Rapid weight loss, irrespective of the mechanism, increases the risk of gallstone formation due to gallbladder stasis and cholesterol supersaturation. Gallstones occur in 10-30% of patients post-bariatric surgery [14], and similar trajectories in GLP-1 RAinduced weight loss suggest comparable susceptibility. Preventative strategies derived from surgical care, including moderating dietary fat, ensuring adequate hydration and fi bre intake, and considering ursodeoxycholic acid in high-risk cases [7], should be explored in the context of GLP-1 RA treatment protocols.",
+      "text": "Rapid weight loss, irrespective of the mechanism, increases the risk of gallstone formation due to gallbladder stasis and cholesterol supersaturation. Gallstones occur in 10-30% of patients post-bariatric surgery [14], and similar trajectories in GLP-1 RAinduced weight loss suggest comparable susceptibility. Preventative strategies derived from surgical care, including moderating dietary fat, ensuring adequate hydration and fi bre intake, and considering ursodeoxycholic acid in high-risk cases [7], should be explored in the context of GLP-1 RA treatment protocols."
+    },
+    {
+      "self_ref": "#/texts/36",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 311.35842243254115,
+            "t": 163.60085459899153,
+            "r": 446.24385344089626,
+            "b": 155.78113124596757,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            33
+          ]
+        }
+      ],
+      "orig": "Monitoring and clinical follow-up",
+      "text": "Monitoring and clinical follow-up",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/37",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 311.35752580254115,
+            "t": 153.62315595899156,
+            "r": 559.421871336895,
+            "b": 66.14880453180842,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            609
+          ]
+        }
+      ],
+      "orig": "Structured nutritional follow-up, including regular dietary reviews and biochemical monitoring, is a hallmark of post-bariatric care [7]. In contrast, GLP-1 RAs are typically administered with minimal ongoing nutritional oversight. Without proactive monitoring, clinicians may fail to identify emerging de fi ciencies or suboptimal intake, particularly in patients receiving therapy outside specialist care settings. Establishing agreed monitoring protocols aligned with bariatric standards in consultation with nutrition professionals could enhance safety and treatment ef fi cacy in this patient population.",
+      "text": "Structured nutritional follow-up, including regular dietary reviews and biochemical monitoring, is a hallmark of post-bariatric care [7]. In contrast, GLP-1 RAs are typically administered with minimal ongoing nutritional oversight. Without proactive monitoring, clinicians may fail to identify emerging de fi ciencies or suboptimal intake, particularly in patients receiving therapy outside specialist care settings. Establishing agreed monitoring protocols aligned with bariatric standards in consultation with nutrition professionals could enhance safety and treatment ef fi cacy in this patient population."
+    },
+    {
+      "self_ref": "#/texts/38",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 43.333333333333336,
+            "t": 40.86602783203125,
+            "r": 115.66666666666667,
+            "b": 29.53269449869788,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            15
+          ]
+        }
+      ],
+      "orig": "SPRINGER NATURE",
+      "text": "SPRINGER NATURE"
+    },
+    {
+      "self_ref": "#/texts/39",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 385.795196533,
+            "t": 37.86036983203121,
+            "r": 559.4523051944984,
+            "b": 30.543726232031304,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            52
+          ]
+        }
+      ],
+      "orig": "International Journal of Obesity (2026) 50:265 - 267",
+      "text": "International Journal of Obesity (2026) 50:265 - 267"
+    },
+    {
+      "self_ref": "#/texts/40",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_header",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 301.889709472,
+            "t": 755.8725529830313,
+            "r": 363.3016946092843,
+            "b": 748.9193280517636,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            19
+          ]
+        }
+      ],
+      "orig": "M. Spreckley et al.",
+      "text": "M. Spreckley et al."
+    },
+    {
+      "self_ref": "#/texts/41",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_header",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 556.781005859,
+            "t": 744.7672357800313,
+            "r": 571.6291986589999,
+            "b": 734.6891145800313,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            3
+          ]
+        }
+      ],
+      "orig": "267",
+      "text": "267"
+    },
+    {
+      "self_ref": "#/texts/42",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 35.8866,
+            "t": 731.6557407890313,
+            "r": 250.6160355499732,
+            "b": 713.8583187960073,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            81
+          ]
+        }
+      ],
+      "orig": "A CALL FOR GLP-1 RA THERAPY SPECIFIC NUTRITION GUIDELINES AND PROSPECTIVE STUDIES",
+      "text": "A CALL FOR GLP-1 RA THERAPY SPECIFIC NUTRITION GUIDELINES AND PROSPECTIVE STUDIES",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/43",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 35.8866,
+            "t": 711.7568311990312,
+            "r": 283.94915259415495,
+            "b": 624.2259920818482,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            555
+          ]
+        }
+      ],
+      "orig": "The global, continuously growing adoption of GLP-1 RAs across public and private healthcare settings necessitates the development of comprehensive, international nutritional consensus guidance. Recent publications have begun to address nutritional considerations for obesity management medication treatment [8, 10], although there remains no global consensus framework for dietary screening, intervention, or supplementation for GLP-1 RA users. This void can lead to heterogeneity in clinical practice and may expose patients to preventable complications.",
+      "text": "The global, continuously growing adoption of GLP-1 RAs across public and private healthcare settings necessitates the development of comprehensive, international nutritional consensus guidance. Recent publications have begun to address nutritional considerations for obesity management medication treatment [8, 10], although there remains no global consensus framework for dietary screening, intervention, or supplementation for GLP-1 RA users. This void can lead to heterogeneity in clinical practice and may expose patients to preventable complications."
+    },
+    {
+      "self_ref": "#/texts/44",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 35.8866,
+            "t": 622.0705188190313,
+            "r": 283.93570276106084,
+            "b": 484.7076741918484,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            874
+          ]
+        }
+      ],
+      "orig": "Nutrition therapy constitutes a foundational pillar of obesity treatment. Its exclusion from clinical GLP-1 RA care represents a critical oversight that may compromise patient outcomes. There is a need for the formation of an interdisciplinary task force, including experts in dietetics, psychology, obesity, endocrinology, surgery, and public health, to develop international GLP-1 RAspeci fi c nutritional consensus guidelines. Guidelines should address screening protocols, macronutrient and micronutrient requirements, symptom management, behavioural support, and long-term follow-up to minimise risk and aid long-term weight maintenance. However, implementation challenges, including limited access to registered dietitians, lack of reimbursement for nutritional counselling, and broader structural inequities, must also be addressed to ensure equitable access to care.",
+      "text": "Nutrition therapy constitutes a foundational pillar of obesity treatment. Its exclusion from clinical GLP-1 RA care represents a critical oversight that may compromise patient outcomes. There is a need for the formation of an interdisciplinary task force, including experts in dietetics, psychology, obesity, endocrinology, surgery, and public health, to develop international GLP-1 RAspeci fi c nutritional consensus guidelines. Guidelines should address screening protocols, macronutrient and micronutrient requirements, symptom management, behavioural support, and long-term follow-up to minimise risk and aid long-term weight maintenance. However, implementation challenges, including limited access to registered dietitians, lack of reimbursement for nutritional counselling, and broader structural inequities, must also be addressed to ensure equitable access to care."
+    },
+    {
+      "self_ref": "#/texts/45",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 35.8866,
+            "t": 462.6523947090315,
+            "r": 89.4602425,
+            "b": 454.8326713560076,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            10
+          ]
+        }
+      ],
+      "orig": "CONCLUSION",
+      "text": "CONCLUSION",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/46",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 35.88659785705431,
+            "t": 452.7311837590315,
+            "r": 284.00922469717307,
+            "b": 335.2672487218486,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            773
+          ]
+        }
+      ],
+      "orig": "GLP-1 RAs are an important addition to the therapeutic toolkit for obesity management. However, their success is contingent not only on pharmacological ef fi cacy but on comprehensive wraparound clinical support, particularly in nutrition. The physiological consequences of rapid weight loss, including lean mass loss, micronutrient de fi ciencies, altered eating behaviours, gastrointestinal symptoms, and gallstones, are well-documented. Clinicians should adopt a proactive approach by encouraging adequate protein intake and dietary quality, providing practical behavioural nutrition support, considering appropriate supplementation, and referring patients to registered dietitians. Nutrition must no longer remain a missing pillar in obesity management medication care.",
+      "text": "GLP-1 RAs are an important addition to the therapeutic toolkit for obesity management. However, their success is contingent not only on pharmacological ef fi cacy but on comprehensive wraparound clinical support, particularly in nutrition. The physiological consequences of rapid weight loss, including lean mass loss, micronutrient de fi ciencies, altered eating behaviours, gastrointestinal symptoms, and gallstones, are well-documented. Clinicians should adopt a proactive approach by encouraging adequate protein intake and dietary quality, providing practical behavioural nutrition support, considering appropriate supplementation, and referring patients to registered dietitians. Nutrition must no longer remain a missing pillar in obesity management medication care."
+    },
+    {
+      "self_ref": "#/texts/47",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 35.88749448705431,
+            "t": 315.1962114290317,
+            "r": 86.2870667870543,
+            "b": 307.3764880760078,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            10
+          ]
+        }
+      ],
+      "orig": "REFERENCES",
+      "text": "REFERENCES",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/48",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 39.344898223,
+            "t": 302.90508094603126,
+            "r": 283.9049042021984,
+            "b": 269.94967202152407,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            294
+          ]
+        }
+      ],
+      "orig": "1. Brown A, Mellor D, Makaronidis J, Shuttlewood E, Miras AD, Pournaras DJ. From evidence to practice ' Insights from the multidisciplinary team on the optimal integration of GLP-1 receptor agonists in obesity management services. Nutr Bull. 2024;49:257 -263. https://doi.org/10.1111/nbu.12700.",
+      "text": "Brown A, Mellor D, Makaronidis J, Shuttlewood E, Miras AD, Pournaras DJ. From evidence to practice ' Insights from the multidisciplinary team on the optimal integration of GLP-1 receptor agonists in obesity management services. Nutr Bull. 2024;49:257 -263. https://doi.org/10.1111/nbu.12700.",
+      "enumerated": true,
+      "marker": "1."
+    },
+    {
+      "self_ref": "#/texts/49",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 39.34559496141037,
+            "t": 267.0764860660312,
+            "r": 283.9411692999336,
+            "b": 243.02104070152404,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            197
+          ]
+        }
+      ],
+      "orig": "2. Almandoz JP, Wadden TA, Tewksbury C, Apovian CM, Fitch A, Ard JD, et al. Nutritional considerations with anti-obesity medications. Obesity. 2024;32:1613 -1631. https://doi.org/10.1002/oby.24067.",
+      "text": "Almandoz JP, Wadden TA, Tewksbury C, Apovian CM, Fitch A, Ard JD, et al. Nutritional considerations with anti-obesity medications. Obesity. 2024;32:1613 -1631. https://doi.org/10.1002/oby.24067.",
+      "enumerated": true,
+      "marker": "2."
+    },
+    {
+      "self_ref": "#/texts/50",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 39.344894952287774,
+            "t": 240.14785474603116,
+            "r": 283.8700290133346,
+            "b": 216.14889716152413,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            183
+          ]
+        }
+      ],
+      "orig": "3. Arterburn DE, Telem DA, Kushner RF, Courcoulas AP. Bene fi ts and risks of bariatric surgery in adults: a review. JAMA. 2020;324:879 -887. https://doi.org/10.1001/ jama.2020.12567.",
+      "text": "Arterburn DE, Telem DA, Kushner RF, Courcoulas AP. Bene fi ts and risks of bariatric surgery in adults: a review. JAMA. 2020;324:879 -887. https://doi.org/10.1001/ jama.2020.12567.",
+      "enumerated": true,
+      "marker": "3."
+    },
+    {
+      "self_ref": "#/texts/51",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 39.345589640400995,
+            "t": 213.27571120603113,
+            "r": 283.91954473203515,
+            "b": 189.2202658415241,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            197
+          ]
+        }
+      ],
+      "orig": "4. Prado CMM, Wells JCK, Smith SR, Stephan BCM, Siervo M. Sarcopenic obesity: a critical appraisal of the current evidence. Clin Nutr. 2012;31:583 -601. https:// doi.org/10.1016/j.clnu.2012.06.010.",
+      "text": "Prado CMM, Wells JCK, Smith SR, Stephan BCM, Siervo M. Sarcopenic obesity: a critical appraisal of the current evidence. Clin Nutr. 2012;31:583 -601. https:// doi.org/10.1016/j.clnu.2012.06.010.",
+      "enumerated": true,
+      "marker": "4."
+    },
+    {
+      "self_ref": "#/texts/52",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 39.345589640401045,
+            "t": 186.3463825060312,
+            "r": 283.94255920849804,
+            "b": 153.39097358152412,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            278
+          ]
+        }
+      ],
+      "orig": "5. Villareal DT, Apovian CM, Kushner RF, Klein S. American Society for Nutrition; NAASO, The Obesity Society. Obesity in older adults: technical review and position statement of the American Society for Nutrition and NAASO, The Obesity Society. Am J Clin Nutr. 2005;82:923 -934.",
+      "text": "Villareal DT, Apovian CM, Kushner RF, Klein S. American Society for Nutrition; NAASO, The Obesity Society. Obesity in older adults: technical review and position statement of the American Society for Nutrition and NAASO, The Obesity Society. Am J Clin Nutr. 2005;82:923 -934.",
+      "enumerated": true,
+      "marker": "5."
+    },
+    {
+      "self_ref": "#/texts/53",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 39.345587178649666,
+            "t": 150.5170902460311,
+            "r": 283.91745060119683,
+            "b": 126.46164488152408,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            234
+          ]
+        }
+      ],
+      "orig": "6. Gudzune KA, Huizinga MM, Chang HY, Asamoah V, Gadgil M, Clark JM. Screening and diagnosis of micronutrient de fi ciencies before and after bariatric surgery. Obes Surg. 2013;23:1581 -1589. https://doi.org/10.1007/s11695-013-0919-x.",
+      "text": "Gudzune KA, Huizinga MM, Chang HY, Asamoah V, Gadgil M, Clark JM. Screening and diagnosis of micronutrient de fi ciencies before and after bariatric surgery. Obes Surg. 2013;23:1581 -1589. https://doi.org/10.1007/s11695-013-0919-x.",
+      "enumerated": true,
+      "marker": "6."
+    },
+    {
+      "self_ref": "#/texts/54",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 39.34627588324247,
+            "t": 124.91348092603118,
+            "r": 283.9355741779185,
+            "b": 90.63305000152411,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            298
+          ]
+        }
+      ],
+      "orig": "7. Parretti H, O ' Kane M, Hughes C, Abbott S, Coulman K, Mears R et al. BOMSS postbariatric surgery nutritional guidance for GPs. British Obesity & Metabolic Surgery Society. Available from: https://bomss.org/bomss-post-bariatric-surgerynutritional-guidance-for-gps/. (2023). Accessed 28 Oct 2025.",
+      "text": "Parretti H, O ' Kane M, Hughes C, Abbott S, Coulman K, Mears R et al. BOMSS postbariatric surgery nutritional guidance for GPs. British Obesity & Metabolic Surgery Society. Available from: https://bomss.org/bomss-post-bariatric-surgerynutritional-guidance-for-gps/. (2023). Accessed 28 Oct 2025.",
+      "enumerated": true,
+      "marker": "7."
+    },
+    {
+      "self_ref": "#/texts/55",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 39.34627683167925,
+            "t": 87.70267888603121,
+            "r": 283.94464043614687,
+            "b": 63.7044186815242,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            247
+          ]
+        }
+      ],
+      "orig": "8. Mozaffarian D, Agarwal M, Aggarwal M, Alexander L, Apovian CM, Bindlish S, et al. Nutritional priorities to support GLP-1 therapy for obesity: a joint advisory from the American College of Lifestyle Medicine, the American Society for Nutrition,",
+      "text": "Mozaffarian D, Agarwal M, Aggarwal M, Alexander L, Apovian CM, Bindlish S, et al. Nutritional priorities to support GLP-1 therapy for obesity: a joint advisory from the American College of Lifestyle Medicine, the American Society for Nutrition,",
+      "enumerated": true,
+      "marker": "8."
+    },
+    {
+      "self_ref": "#/texts/56",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 313.7966889316792,
+            "t": 730.318101196954,
+            "r": 549.8898062663307,
+            "b": 715.2762923324469,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            122
+          ]
+        }
+      ],
+      "orig": "the Obesity Medicine Association, and The Obesity Society. Obesity. 2025;33:1475 -1503. https://doi.org/10.1002/oby.24336.",
+      "text": "the Obesity Medicine Association, and The Obesity Society. Obesity. 2025;33:1475 -1503. https://doi.org/10.1002/oby.24336.",
+      "enumerated": false,
+      "marker": ""
+    },
+    {
+      "self_ref": "#/texts/57",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 305.34932330401955,
+            "t": 712.403106376954,
+            "r": 549.9149102200989,
+            "b": 688.347661012447,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            218
+          ]
+        }
+      ],
+      "orig": "9. Kushner RF, Batsis JA, Butsch WS, Davis N, Golden A, Halperin F, et al. Weight history in clinical practice: the state of the science and future directions. Obesity. 2020;28:9 -17. https://doi.org/10.1002/oby.22642.",
+      "text": "Kushner RF, Batsis JA, Butsch WS, Davis N, Golden A, Halperin F, et al. Weight history in clinical practice: the state of the science and future directions. Obesity. 2020;28:9 -17. https://doi.org/10.1002/oby.22642.",
+      "enumerated": true,
+      "marker": "9."
+    },
+    {
+      "self_ref": "#/texts/58",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 301.89031587489694,
+            "t": 685.4737776769541,
+            "r": 549.9072361954936,
+            "b": 652.5183687524471,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            287
+          ]
+        }
+      ],
+      "orig": "10. Butsch WS, Sulo S, Chang AT, Kim JA, Kerr KW, Williams DR, et al. Nutritional de fi ciencies and muscle loss in adults with type 2 diabetes using GLP-1 receptor agonists: a retrospective observational study. Obes Pillars. 2025;15:100186. https://doi.org/10.1016/j.obpill.2025.100186.",
+      "text": "Butsch WS, Sulo S, Chang AT, Kim JA, Kerr KW, Williams DR, et al. Nutritional de fi ciencies and muscle loss in adults with type 2 diabetes using GLP-1 receptor agonists: a retrospective observational study. Obes Pillars. 2025;15:100186. https://doi.org/10.1016/j.obpill.2025.100186.",
+      "enumerated": true,
+      "marker": "10."
+    },
+    {
+      "self_ref": "#/texts/59",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 301.89101325489696,
+            "t": 649.6451827969543,
+            "r": 549.9483733167123,
+            "b": 616.6318913324473,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            265
+          ]
+        }
+      ],
+      "orig": "11. Wadden TA, Chao AM, Tronieri JS. Berkowitz RI. The role of lifestyle modi fi cation with second-generation anti-obesity medications: comparisons, questions, and clinical implications. Curr Obes Rep. 2023;12:453 -473. https://doi.org/10.1007/ s13679-023-00534-z.",
+      "text": "Wadden TA, Chao AM, Tronieri JS. Berkowitz RI. The role of lifestyle modi fi cation with second-generation anti-obesity medications: comparisons, questions, and clinical implications. Curr Obes Rep. 2023;12:453 -473. https://doi.org/10.1007/ s13679-023-00534-z.",
+      "enumerated": true,
+      "marker": "11."
+    },
+    {
+      "self_ref": "#/texts/60",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 301.891018938544,
+            "t": 613.7587053769544,
+            "r": 549.94559803851,
+            "b": 589.7604451724474,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            201
+          ]
+        }
+      ],
+      "orig": "12. Diktas HE, Cardel MI, Foster GD, LeBlanc MM, Dickinson SL, Ables EM, et al. Development and validation of the Food Noise Questionnaire. Obesity. 2025;33:289 -297. https://doi.org/10.1002/oby.24216.",
+      "text": "Diktas HE, Cardel MI, Foster GD, LeBlanc MM, Dickinson SL, Ables EM, et al. Development and validation of the Food Noise Questionnaire. Obesity. 2025;33:289 -297. https://doi.org/10.1002/oby.24216.",
+      "enumerated": true,
+      "marker": "12."
+    },
+    {
+      "self_ref": "#/texts/61",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 301.8910163094214,
+            "t": 586.8300740569545,
+            "r": 549.9016600849707,
+            "b": 562.8318138524475,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            208
+          ]
+        }
+      ],
+      "orig": "13. Michie S, van Stralen MM, West R. The behaviour change wheel: a new method for characterising and designing behaviour change interventions. Implement Sci. 2011;6:42 https://doi.org/10.1186/1748-5908-6-42.",
+      "text": "Michie S, van Stralen MM, West R. The behaviour change wheel: a new method for characterising and designing behaviour change interventions. Implement Sci. 2011;6:42 https://doi.org/10.1186/1748-5908-6-42.",
+      "enumerated": true,
+      "marker": "13."
+    },
+    {
+      "self_ref": "#/texts/62",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 301.89101729272716,
+            "t": 559.9579305169545,
+            "r": 549.8772528547303,
+            "b": 535.9596703124475,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            208
+          ]
+        }
+      ],
+      "orig": "14. Dai Y, Luo B, Li W. Incidence and risk factors for cholelithiasis after bariatric surgery: a systematic review and meta-analysis. Lipids Health Dis. 2023;22:139 https://doi.org/10.1186/s12944-023-01774-7.",
+      "text": "Dai Y, Luo B, Li W. Incidence and risk factors for cholelithiasis after bariatric surgery: a systematic review and meta-analysis. Lipids Health Dis. 2023;22:139 https://doi.org/10.1186/s12944-023-01774-7.",
+      "enumerated": true,
+      "marker": "14."
+    },
+    {
+      "self_ref": "#/texts/63",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 301.889709472,
+            "t": 513.5014133970312,
+            "r": 405.7562253567212,
+            "b": 505.6816900440074,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            20
+          ]
+        }
+      ],
+      "orig": "AUTHOR CONTRIBUTIONS",
+      "text": "AUTHOR CONTRIBUTIONS",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/64",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 301.889709472,
+            "t": 503.1443690320313,
+            "r": 549.9163933280586,
+            "b": 479.1461088275242,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            249
+          ]
+        }
+      ],
+      "orig": "MS, CR and AB jointly developed the concept and approach for the manuscript. MS led the writing and literature synthesis. All authors contributed to reviewing, revising, and fi nalising the manuscript, and approved the fi nal version for submission.",
+      "text": "MS, CR and AB jointly developed the concept and approach for the manuscript. MS led the writing and literature synthesis. All authors contributed to reviewing, revising, and fi nalising the manuscript, and approved the fi nal version for submission."
+    },
+    {
+      "self_ref": "#/texts/65",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 301.889709472,
+            "t": 456.6952000180313,
+            "r": 339.69163027199994,
+            "b": 448.8754766650074,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            7
+          ]
+        }
+      ],
+      "orig": "FUNDING",
+      "text": "FUNDING",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/66",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 301.889709472,
+            "t": 446.3947660040313,
+            "r": 549.9345254209062,
+            "b": 404.4229310595243,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            373
+          ]
+        }
+      ],
+      "orig": "AB is funded by the National Institute for Health Research with an Advanced Fellowship. The funders were not involved in the design and conduct of the review, analysis, and interpretation of the data; preparation, review, or approval of the manuscript; and decision to submit the manuscript for publication. CFR is supported by the Medical Research Council (MC_UU_00006/6).",
+      "text": "AB is funded by the National Institute for Health Research with an Advanced Fellowship. The funders were not involved in the design and conduct of the review, analysis, and interpretation of the data; preparation, review, or approval of the manuscript; and decision to submit the manuscript for publication. CFR is supported by the Medical Research Council (MC_UU_00006/6)."
+    },
+    {
+      "self_ref": "#/texts/67",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 301.889709472,
+            "t": 381.9739170590313,
+            "r": 396.246567522,
+            "b": 374.1541937060074,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            19
+          ]
+        }
+      ],
+      "orig": "COMPETING INTERESTS",
+      "text": "COMPETING INTERESTS",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/68",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 301.889012092,
+            "t": 371.6734830450313,
+            "r": 549.9268542409063,
+            "b": 311.7880480405242,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            513
+          ]
+        }
+      ],
+      "orig": "MS and CR declare no con fl icts of interest. AB declares researcher-led grants from the National Institute for Health Research, Rosetrees Trust, MRC, INNOVATE UK, British Dietetic Association, British Association of Parenteral and Enteral Nutrition, BBRSC, the Of fi ce of Health Improvement and Disparities and Novo Nordisk. AB reports honoraria from Novo Nordisk, Eli Lilly, Nutricia and Mac Nutrition outside the submitted work and is on the Medical Advisory Board and shareholder of Reset Health Clinics Ltd.",
+      "text": "MS and CR declare no con fl icts of interest. AB declares researcher-led grants from the National Institute for Health Research, Rosetrees Trust, MRC, INNOVATE UK, British Dietetic Association, British Association of Parenteral and Enteral Nutrition, BBRSC, the Of fi ce of Health Improvement and Disparities and Novo Nordisk. AB reports honoraria from Novo Nordisk, Eli Lilly, Nutricia and Mac Nutrition outside the submitted work and is on the Medical Advisory Board and shareholder of Reset Health Clinics Ltd."
+    },
+    {
+      "self_ref": "#/texts/69",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 301.889709472,
+            "t": 291.32200055503125,
+            "r": 413.8859694025392,
+            "b": 283.50227720200735,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            22
+          ]
+        }
+      ],
+      "orig": "ADDITIONAL INFORMATION",
+      "text": "ADDITIONAL INFORMATION",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/70",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 301.889709472,
+            "t": 278.9805814340313,
+            "r": 548.8368491319725,
+            "b": 272.8966186695243,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            78
+          ]
+        }
+      ],
+      "orig": "Correspondence and requests for materials should be addressed to Adrian Brown.",
+      "text": "Correspondence and requests for materials should be addressed to Adrian Brown."
+    },
+    {
+      "self_ref": "#/texts/71",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 301.889709472,
+            "t": 261.0655866140313,
+            "r": 549.8389841893359,
+            "b": 246.02447512952426,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            83
+          ]
+        }
+      ],
+      "orig": "Reprints and permission information is available at http://www.nature.com/ reprints",
+      "text": "Reprints and permission information is available at http://www.nature.com/ reprints"
+    },
+    {
+      "self_ref": "#/texts/72",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 301.88971234520557,
+            "t": 235.51846507403127,
+            "r": 549.9596339714545,
+            "b": 219.15233158952424,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            139
+          ]
+        }
+      ],
+      "orig": "Publisher ' s note Springer Nature remains neutral with regard to jurisdictional claims in published maps and institutional af fi liations.",
+      "text": "Publisher ' s note Springer Nature remains neutral with regard to jurisdictional claims in published maps and institutional af fi liations."
+    },
+    {
+      "self_ref": "#/texts/73",
+      "parent": {
+        "$ref": "#/pictures/2"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 305.3333333333333,
+            "t": 193.53269449869788,
+            "r": 313.0,
+            "b": 187.86602783203125,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            2
+          ]
+        }
+      ],
+      "orig": "CC",
+      "text": "CC"
+    },
+    {
+      "self_ref": "#/texts/74",
+      "parent": {
+        "$ref": "#/pictures/2"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 325.3333333333333,
+            "t": 187.19936116536462,
+            "r": 331.3333333333333,
+            "b": 182.86602783203125,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            2
+          ]
+        }
+      ],
+      "orig": "BY",
+      "text": "BY"
+    },
+    {
+      "self_ref": "#/texts/75",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 350.078704833,
+            "t": 197.3428708630313,
+            "r": 549.9512987797445,
+            "b": 182.24457421852424,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            128
+          ]
+        }
+      ],
+      "orig": "Open Access This article is licensed under a Creative Commons Attribution 4.0 International License, which permits use, sharing,",
+      "text": "Open Access This article is licensed under a Creative Commons Attribution 4.0 International License, which permits use, sharing,"
+    },
+    {
+      "self_ref": "#/texts/76",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 301.88974789999145,
+            "t": 179.37138826303124,
+            "r": 549.9596719510727,
+            "b": 101.57165581852428,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            726
+          ]
+        }
+      ],
+      "orig": "adaptation, distribution and reproduction in any medium or format, as long as you give appropriate credit to the original author(s) and the source, provide a link to the Creative Commons licence, and indicate if changes were made. The images or other third party material in this article are included in the article ' s Creative Commons licence, unless indicated otherwise in a credit line to the material. If material is not included in the article ' s Creative Commons licence and your intended use is not permitted by statutory regulation or exceeds the permitted use, you will need to obtain permission directly from the copyright holder. To view a copy of this licence, visit http:// creativecommons.org/licenses/by/4.0/.",
+      "text": "adaptation, distribution and reproduction in any medium or format, as long as you give appropriate credit to the original author(s) and the source, provide a link to the Creative Commons licence, and indicate if changes were made. The images or other third party material in this article are included in the article ' s Creative Commons licence, unless indicated otherwise in a credit line to the material. If material is not included in the article ' s Creative Commons licence and your intended use is not permitted by statutory regulation or exceeds the permitted use, you will need to obtain permission directly from the copyright holder. To view a copy of this licence, visit http:// creativecommons.org/licenses/by/4.0/."
+    },
+    {
+      "self_ref": "#/texts/77",
+      "parent": {
+        "$ref": "#/groups/2"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 301.8897503687167,
+            "t": 81.74655682303126,
+            "r": 365.3262246461419,
+            "b": 75.66259405852429,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            20
+          ]
+        }
+      ],
+      "orig": "\u00a9 The Author(s) 2025",
+      "text": "\u00a9 The Author(s) 2025"
+    },
+    {
+      "self_ref": "#/texts/78",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 35.8866,
+            "t": 37.86036983203121,
+            "r": 209.54370861132588,
+            "b": 30.543726232031304,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            52
+          ]
+        }
+      ],
+      "orig": "International Journal of Obesity (2026) 50:265 - 267",
+      "text": "International Journal of Obesity (2026) 50:265 - 267"
+    },
+    {
+      "self_ref": "#/texts/79",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 480.0,
+            "t": 40.86602783203125,
+            "r": 552.0,
+            "b": 29.53269449869788,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            15
+          ]
+        }
+      ],
+      "orig": "SPRINGER NATURE",
+      "text": "SPRINGER NATURE"
+    }
+  ],
+  "pictures": [
+    {
+      "self_ref": "#/pictures/0",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "picture",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 247.8775174360722,
+            "t": 613.3525804230512,
+            "r": 278.14935027658936,
+            "b": 601.359571137124,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [],
+      "references": [],
+      "footnotes": [],
+      "annotations": []
+    },
+    {
+      "self_ref": "#/pictures/1",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/23"
+        }
+      ],
+      "content_layer": "body",
+      "label": "picture",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 477.46728936284774,
+            "t": 712.669069265577,
+            "r": 550.9987578719854,
+            "b": 697.2854218880608,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [],
+      "references": [],
+      "footnotes": [],
+      "annotations": []
+    },
+    {
+      "self_ref": "#/pictures/2",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/73"
+        },
+        {
+          "$ref": "#/texts/74"
+        }
+      ],
+      "content_layer": "body",
+      "label": "picture",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 300.8160792358219,
+            "t": 198.06898631074478,
+            "r": 343.7436670288443,
+            "b": 183.1734383173955,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [],
+      "references": [],
+      "footnotes": [],
+      "annotations": []
+    }
+  ],
+  "tables": [
+    {
+      "self_ref": "#/tables/0",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/27"
+        }
+      ],
+      "content_layer": "body",
+      "label": "table",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 44.42168110627681,
+            "t": 715.9832203750441,
+            "r": 560.3994788408279,
+            "b": 386.4689257370117,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [
+        {
+          "$ref": "#/texts/27"
+        }
+      ],
+      "references": [],
+      "footnotes": [],
+      "data": {
+        "table_cells": [
+          {
+            "bbox": {
+              "l": 48.48124675452709,
+              "t": 79.66370541974902,
+              "r": 89.36757099628448,
+              "b": 95.3182571195066,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 0,
+            "end_row_offset_idx": 1,
+            "start_col_offset_idx": 0,
+            "end_col_offset_idx": 1,
+            "text": "Nutritional Parameter",
+            "column_header": true,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 140.59745025634766,
+              "t": 78.3468883279711,
+              "r": 250.2843451499939,
+              "b": 88.78089415282011,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 0,
+            "end_row_offset_idx": 1,
+            "start_col_offset_idx": 1,
+            "end_col_offset_idx": 2,
+            "text": "Bariatric Surgery Mechanisms",
+            "column_header": true,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 280.0840917825699,
+              "t": 78.50265397038311,
+              "r": 362.3871235847473,
+              "b": 88.40167858824134,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 0,
+            "end_row_offset_idx": 1,
+            "start_col_offset_idx": 2,
+            "end_col_offset_idx": 3,
+            "text": "GLP-1 RA Mechanisms",
+            "column_header": true,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 404.203161239624,
+              "t": 78.98724225815386,
+              "r": 540.9439535140991,
+              "b": 88.3094003945589,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 0,
+            "end_row_offset_idx": 1,
+            "start_col_offset_idx": 3,
+            "end_col_offset_idx": 4,
+            "text": "Bariatric-Based Nutritional Strategies",
+            "column_header": true,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 48.68123185634613,
+              "t": 99.88477818667889,
+              "r": 120.77489513158798,
+              "b": 117.25070302188396,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 1,
+            "end_row_offset_idx": 2,
+            "start_col_offset_idx": 0,
+            "end_col_offset_idx": 1,
+            "text": "Lean Mass Loss and Sarcopenia",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 138.12808203697205,
+              "t": 99.7150861248374,
+              "r": 264.98807978630066,
+              "b": 118.50441965460777,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 1,
+            "end_row_offset_idx": 2,
+            "start_col_offset_idx": 1,
+            "end_col_offset_idx": 2,
+            "text": "Malabsorption and energy restriction accelerate lean mass loss",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 277.809485912323,
+              "t": 99.8345081359148,
+              "r": 378.62555170059204,
+              "b": 127.63946935534477,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 1,
+            "end_row_offset_idx": 2,
+            "start_col_offset_idx": 2,
+            "end_col_offset_idx": 3,
+            "text": "Energy de fi cit and reduced protein intake contribute to lean mass loss",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 401.83685636520386,
+              "t": 98.79532166570425,
+              "r": 554.5084552764893,
+              "b": 152.27719676494598,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 1,
+            "end_row_offset_idx": 2,
+            "start_col_offset_idx": 3,
+            "end_col_offset_idx": 4,
+            "text": "Higher protein intake from high-quality sources; early prioritisation of protein; monitoring for sarcopenia, especially in older adults and those at risk of or with sarcopenic obesity. Between 0.8 - 1.6 g/kg/d or absolute protein amounts (80 - 120 g/day)",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 48.97143006324768,
+              "t": 157.95042741298676,
+              "r": 97.43176257610321,
+              "b": 175.67574340105057,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 2,
+            "end_row_offset_idx": 3,
+            "start_col_offset_idx": 0,
+            "end_col_offset_idx": 1,
+            "text": "Micronutrient De fi ciency",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 138.0699224472046,
+              "t": 157.3837789297104,
+              "r": 256.1781475543976,
+              "b": 176.5045177936554,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 2,
+            "end_row_offset_idx": 3,
+            "start_col_offset_idx": 1,
+            "end_col_offset_idx": 2,
+            "text": "Reduced absorption of iron, B12, vitamin D, calcium, thiamine",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 276.5257306098938,
+              "t": 157.13498777151108,
+              "r": 381.0907063484192,
+              "b": 193.24159145355225,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 2,
+            "end_row_offset_idx": 3,
+            "start_col_offset_idx": 2,
+            "end_col_offset_idx": 3,
+            "text": "Reduced intake and possible dietary quality due to early satiety, nausea, and food restrictions",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 400.4184513092041,
+              "t": 156.6902738213539,
+              "r": 556.5972180366516,
+              "b": 210.6265967488289,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 2,
+            "end_row_offset_idx": 3,
+            "start_col_offset_idx": 3,
+            "end_col_offset_idx": 4,
+            "text": "Pre-treatment micronutrient screening; routine lifelong complete multivitamin and mineral supplementation (including iron, B12, calcium, zinc, copper and folic acid); proactive monitoring for de fi ciencies every 6 months",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 49.02318087220192,
+              "t": 214.2521979212761,
+              "r": 96.32190552353859,
+              "b": 232.80883759260178,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 3,
+            "end_row_offset_idx": 4,
+            "start_col_offset_idx": 0,
+            "end_col_offset_idx": 1,
+            "text": "Altered Food Preferences",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 138.47987681627274,
+              "t": 214.7205516397953,
+              "r": 246.02479338645935,
+              "b": 233.15023663640022,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 3,
+            "end_row_offset_idx": 4,
+            "start_col_offset_idx": 1,
+            "end_col_offset_idx": 2,
+            "text": "Changes in taste, aversions to meats and fats",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 276.15901148319244,
+              "t": 214.48666402697563,
+              "r": 388.9318861961365,
+              "b": 241.9522803425789,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 3,
+            "end_row_offset_idx": 4,
+            "start_col_offset_idx": 2,
+            "end_col_offset_idx": 3,
+            "text": "Decreased interest in nutrient- dense foods, especially protein- and fat-rich foods",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 401.31575751304626,
+              "t": 212.5658813714981,
+              "r": 556.2440469264984,
+              "b": 259.1673460006714,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 3,
+            "end_row_offset_idx": 4,
+            "start_col_offset_idx": 3,
+            "end_col_offset_idx": 4,
+            "text": "Behavioural nutrition therapy to address food-related cognition, sensory experience, and emotional eating; patient education on food choices and preferences; referral to psychological support, if required.",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 49.09022510051727,
+              "t": 263.4967474937439,
+              "r": 104.84691804647446,
+              "b": 280.6163716316223,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 4,
+            "end_row_offset_idx": 5,
+            "start_col_offset_idx": 0,
+            "end_col_offset_idx": 1,
+            "text": "Gastrointestinal Symptoms",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 138.95105868577957,
+              "t": 263.248917222023,
+              "r": 248.769704580307,
+              "b": 282.0038524866104,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 4,
+            "end_row_offset_idx": 5,
+            "start_col_offset_idx": 1,
+            "end_col_offset_idx": 2,
+            "text": "Nausea, vomiting, early satiety, diarrhoea, dumping syndrome",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 276.3678139448166,
+              "t": 263.5242210030556,
+              "r": 388.3195343017578,
+              "b": 291.01086896657944,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 4,
+            "end_row_offset_idx": 5,
+            "start_col_offset_idx": 2,
+            "end_col_offset_idx": 3,
+            "text": "Nausea, vomiting, constipation, particularly during dose titration and higher doses",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 401.05310130119324,
+              "t": 262.0243948698044,
+              "r": 556.1473500728607,
+              "b": 307.26661694049835,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 4,
+            "end_row_offset_idx": 5,
+            "start_col_offset_idx": 3,
+            "end_col_offset_idx": 4,
+            "text": "Small, frequent meals; slow eating; fl uid separation from meals; bland, low-fat foods during nausea; consider food containing ginger; increase fi bre and fl uid intake; consider use of medication if required.",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 49.75835683941841,
+              "t": 310.9626765847206,
+              "r": 120.13686966896057,
+              "b": 319.5949277281761,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 5,
+            "end_row_offset_idx": 6,
+            "start_col_offset_idx": 0,
+            "end_col_offset_idx": 1,
+            "text": "Gallstone Formation",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 138.6822282075882,
+              "t": 311.5587007403374,
+              "r": 263.05311238765717,
+              "b": 339.0047953724861,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 5,
+            "end_row_offset_idx": 6,
+            "start_col_offset_idx": 1,
+            "end_col_offset_idx": 2,
+            "text": "Rapid weight loss increases risk of gallstones due to gallbladder stasis and cholesterol supersaturation",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 276.64129626750946,
+              "t": 311.6385327577591,
+              "r": 388.2984356880188,
+              "b": 340.03645408153534,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 5,
+            "end_row_offset_idx": 6,
+            "start_col_offset_idx": 2,
+            "end_col_offset_idx": 3,
+            "text": "Similar rapid weight loss trajectories; gallstones may form due to similar mechanisms",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 401.7103877067566,
+              "t": 311.89858001470566,
+              "r": 548.1327986717224,
+              "b": 355.8452133536339,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 5,
+            "end_row_offset_idx": 6,
+            "start_col_offset_idx": 3,
+            "end_col_offset_idx": 4,
+            "text": "Moderate fat intake; ensure adequate hydration and fi bre intake; consider ursodeoxycholic acid prophylaxis in high- risk cases, particularly for rapid treatment responders",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 48.936560451984406,
+              "t": 360.4980610013008,
+              "r": 90.03719440102577,
+              "b": 377.0264065861702,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 6,
+            "end_row_offset_idx": 7,
+            "start_col_offset_idx": 0,
+            "end_col_offset_idx": 1,
+            "text": "Nutritional Monitoring",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 138.60462313890457,
+              "t": 361.02990186214447,
+              "r": 263.6887004375458,
+              "b": 397.7078015804291,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 6,
+            "end_row_offset_idx": 7,
+            "start_col_offset_idx": 1,
+            "end_col_offset_idx": 2,
+            "text": "Regular biochemical surveillance and dietitian-led follow- up; routine screening for de fi ciencies and adjustments",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 274.5911476612091,
+              "t": 361.42039436101913,
+              "r": 382.432498216629,
+              "b": 397.04182881116867,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 6,
+            "end_row_offset_idx": 7,
+            "start_col_offset_idx": 2,
+            "end_col_offset_idx": 3,
+            "text": "No routine nutritional monitoring in clinical practice, leading to potential undiagnosed de fi ciencies",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 402.00318479537964,
+              "t": 360.18449825048447,
+              "r": 554.5812239646912,
+              "b": 403.3226926922798,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 6,
+            "end_row_offset_idx": 7,
+            "start_col_offset_idx": 3,
+            "end_col_offset_idx": 4,
+            "text": "Implement structured nutritional follow-up with regular biochemical testing (e.g., B12, iron, calcium); integrate dietetic support into clinical pathways, especially for long- term therapy",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          }
+        ],
+        "num_rows": 7,
+        "num_cols": 4,
+        "orientation": "rot_0",
+        "grid": [
+          [
+            {
+              "bbox": {
+                "l": 48.48124675452709,
+                "t": 79.66370541974902,
+                "r": 89.36757099628448,
+                "b": 95.3182571195066,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 0,
+              "end_row_offset_idx": 1,
+              "start_col_offset_idx": 0,
+              "end_col_offset_idx": 1,
+              "text": "Nutritional Parameter",
+              "column_header": true,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 140.59745025634766,
+                "t": 78.3468883279711,
+                "r": 250.2843451499939,
+                "b": 88.78089415282011,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 0,
+              "end_row_offset_idx": 1,
+              "start_col_offset_idx": 1,
+              "end_col_offset_idx": 2,
+              "text": "Bariatric Surgery Mechanisms",
+              "column_header": true,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 280.0840917825699,
+                "t": 78.50265397038311,
+                "r": 362.3871235847473,
+                "b": 88.40167858824134,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 0,
+              "end_row_offset_idx": 1,
+              "start_col_offset_idx": 2,
+              "end_col_offset_idx": 3,
+              "text": "GLP-1 RA Mechanisms",
+              "column_header": true,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 404.203161239624,
+                "t": 78.98724225815386,
+                "r": 540.9439535140991,
+                "b": 88.3094003945589,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 0,
+              "end_row_offset_idx": 1,
+              "start_col_offset_idx": 3,
+              "end_col_offset_idx": 4,
+              "text": "Bariatric-Based Nutritional Strategies",
+              "column_header": true,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            }
+          ],
+          [
+            {
+              "bbox": {
+                "l": 48.68123185634613,
+                "t": 99.88477818667889,
+                "r": 120.77489513158798,
+                "b": 117.25070302188396,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 1,
+              "end_row_offset_idx": 2,
+              "start_col_offset_idx": 0,
+              "end_col_offset_idx": 1,
+              "text": "Lean Mass Loss and Sarcopenia",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 138.12808203697205,
+                "t": 99.7150861248374,
+                "r": 264.98807978630066,
+                "b": 118.50441965460777,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 1,
+              "end_row_offset_idx": 2,
+              "start_col_offset_idx": 1,
+              "end_col_offset_idx": 2,
+              "text": "Malabsorption and energy restriction accelerate lean mass loss",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 277.809485912323,
+                "t": 99.8345081359148,
+                "r": 378.62555170059204,
+                "b": 127.63946935534477,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 1,
+              "end_row_offset_idx": 2,
+              "start_col_offset_idx": 2,
+              "end_col_offset_idx": 3,
+              "text": "Energy de fi cit and reduced protein intake contribute to lean mass loss",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 401.83685636520386,
+                "t": 98.79532166570425,
+                "r": 554.5084552764893,
+                "b": 152.27719676494598,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 1,
+              "end_row_offset_idx": 2,
+              "start_col_offset_idx": 3,
+              "end_col_offset_idx": 4,
+              "text": "Higher protein intake from high-quality sources; early prioritisation of protein; monitoring for sarcopenia, especially in older adults and those at risk of or with sarcopenic obesity. Between 0.8 - 1.6 g/kg/d or absolute protein amounts (80 - 120 g/day)",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            }
+          ],
+          [
+            {
+              "bbox": {
+                "l": 48.97143006324768,
+                "t": 157.95042741298676,
+                "r": 97.43176257610321,
+                "b": 175.67574340105057,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 2,
+              "end_row_offset_idx": 3,
+              "start_col_offset_idx": 0,
+              "end_col_offset_idx": 1,
+              "text": "Micronutrient De fi ciency",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 138.0699224472046,
+                "t": 157.3837789297104,
+                "r": 256.1781475543976,
+                "b": 176.5045177936554,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 2,
+              "end_row_offset_idx": 3,
+              "start_col_offset_idx": 1,
+              "end_col_offset_idx": 2,
+              "text": "Reduced absorption of iron, B12, vitamin D, calcium, thiamine",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 276.5257306098938,
+                "t": 157.13498777151108,
+                "r": 381.0907063484192,
+                "b": 193.24159145355225,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 2,
+              "end_row_offset_idx": 3,
+              "start_col_offset_idx": 2,
+              "end_col_offset_idx": 3,
+              "text": "Reduced intake and possible dietary quality due to early satiety, nausea, and food restrictions",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 400.4184513092041,
+                "t": 156.6902738213539,
+                "r": 556.5972180366516,
+                "b": 210.6265967488289,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 2,
+              "end_row_offset_idx": 3,
+              "start_col_offset_idx": 3,
+              "end_col_offset_idx": 4,
+              "text": "Pre-treatment micronutrient screening; routine lifelong complete multivitamin and mineral supplementation (including iron, B12, calcium, zinc, copper and folic acid); proactive monitoring for de fi ciencies every 6 months",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            }
+          ],
+          [
+            {
+              "bbox": {
+                "l": 49.02318087220192,
+                "t": 214.2521979212761,
+                "r": 96.32190552353859,
+                "b": 232.80883759260178,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 3,
+              "end_row_offset_idx": 4,
+              "start_col_offset_idx": 0,
+              "end_col_offset_idx": 1,
+              "text": "Altered Food Preferences",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 138.47987681627274,
+                "t": 214.7205516397953,
+                "r": 246.02479338645935,
+                "b": 233.15023663640022,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 3,
+              "end_row_offset_idx": 4,
+              "start_col_offset_idx": 1,
+              "end_col_offset_idx": 2,
+              "text": "Changes in taste, aversions to meats and fats",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 276.15901148319244,
+                "t": 214.48666402697563,
+                "r": 388.9318861961365,
+                "b": 241.9522803425789,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 3,
+              "end_row_offset_idx": 4,
+              "start_col_offset_idx": 2,
+              "end_col_offset_idx": 3,
+              "text": "Decreased interest in nutrient- dense foods, especially protein- and fat-rich foods",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 401.31575751304626,
+                "t": 212.5658813714981,
+                "r": 556.2440469264984,
+                "b": 259.1673460006714,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 3,
+              "end_row_offset_idx": 4,
+              "start_col_offset_idx": 3,
+              "end_col_offset_idx": 4,
+              "text": "Behavioural nutrition therapy to address food-related cognition, sensory experience, and emotional eating; patient education on food choices and preferences; referral to psychological support, if required.",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            }
+          ],
+          [
+            {
+              "bbox": {
+                "l": 49.09022510051727,
+                "t": 263.4967474937439,
+                "r": 104.84691804647446,
+                "b": 280.6163716316223,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 4,
+              "end_row_offset_idx": 5,
+              "start_col_offset_idx": 0,
+              "end_col_offset_idx": 1,
+              "text": "Gastrointestinal Symptoms",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 138.95105868577957,
+                "t": 263.248917222023,
+                "r": 248.769704580307,
+                "b": 282.0038524866104,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 4,
+              "end_row_offset_idx": 5,
+              "start_col_offset_idx": 1,
+              "end_col_offset_idx": 2,
+              "text": "Nausea, vomiting, early satiety, diarrhoea, dumping syndrome",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 276.3678139448166,
+                "t": 263.5242210030556,
+                "r": 388.3195343017578,
+                "b": 291.01086896657944,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 4,
+              "end_row_offset_idx": 5,
+              "start_col_offset_idx": 2,
+              "end_col_offset_idx": 3,
+              "text": "Nausea, vomiting, constipation, particularly during dose titration and higher doses",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 401.05310130119324,
+                "t": 262.0243948698044,
+                "r": 556.1473500728607,
+                "b": 307.26661694049835,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 4,
+              "end_row_offset_idx": 5,
+              "start_col_offset_idx": 3,
+              "end_col_offset_idx": 4,
+              "text": "Small, frequent meals; slow eating; fl uid separation from meals; bland, low-fat foods during nausea; consider food containing ginger; increase fi bre and fl uid intake; consider use of medication if required.",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            }
+          ],
+          [
+            {
+              "bbox": {
+                "l": 49.75835683941841,
+                "t": 310.9626765847206,
+                "r": 120.13686966896057,
+                "b": 319.5949277281761,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 5,
+              "end_row_offset_idx": 6,
+              "start_col_offset_idx": 0,
+              "end_col_offset_idx": 1,
+              "text": "Gallstone Formation",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 138.6822282075882,
+                "t": 311.5587007403374,
+                "r": 263.05311238765717,
+                "b": 339.0047953724861,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 5,
+              "end_row_offset_idx": 6,
+              "start_col_offset_idx": 1,
+              "end_col_offset_idx": 2,
+              "text": "Rapid weight loss increases risk of gallstones due to gallbladder stasis and cholesterol supersaturation",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 276.64129626750946,
+                "t": 311.6385327577591,
+                "r": 388.2984356880188,
+                "b": 340.03645408153534,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 5,
+              "end_row_offset_idx": 6,
+              "start_col_offset_idx": 2,
+              "end_col_offset_idx": 3,
+              "text": "Similar rapid weight loss trajectories; gallstones may form due to similar mechanisms",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 401.7103877067566,
+                "t": 311.89858001470566,
+                "r": 548.1327986717224,
+                "b": 355.8452133536339,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 5,
+              "end_row_offset_idx": 6,
+              "start_col_offset_idx": 3,
+              "end_col_offset_idx": 4,
+              "text": "Moderate fat intake; ensure adequate hydration and fi bre intake; consider ursodeoxycholic acid prophylaxis in high- risk cases, particularly for rapid treatment responders",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            }
+          ],
+          [
+            {
+              "bbox": {
+                "l": 48.936560451984406,
+                "t": 360.4980610013008,
+                "r": 90.03719440102577,
+                "b": 377.0264065861702,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 6,
+              "end_row_offset_idx": 7,
+              "start_col_offset_idx": 0,
+              "end_col_offset_idx": 1,
+              "text": "Nutritional Monitoring",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 138.60462313890457,
+                "t": 361.02990186214447,
+                "r": 263.6887004375458,
+                "b": 397.7078015804291,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 6,
+              "end_row_offset_idx": 7,
+              "start_col_offset_idx": 1,
+              "end_col_offset_idx": 2,
+              "text": "Regular biochemical surveillance and dietitian-led follow- up; routine screening for de fi ciencies and adjustments",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 274.5911476612091,
+                "t": 361.42039436101913,
+                "r": 382.432498216629,
+                "b": 397.04182881116867,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 6,
+              "end_row_offset_idx": 7,
+              "start_col_offset_idx": 2,
+              "end_col_offset_idx": 3,
+              "text": "No routine nutritional monitoring in clinical practice, leading to potential undiagnosed de fi ciencies",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 402.00318479537964,
+                "t": 360.18449825048447,
+                "r": 554.5812239646912,
+                "b": 403.3226926922798,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 6,
+              "end_row_offset_idx": 7,
+              "start_col_offset_idx": 3,
+              "end_col_offset_idx": 4,
+              "text": "Implement structured nutritional follow-up with regular biochemical testing (e.g., B12, iron, calcium); integrate dietetic support into clinical pathways, especially for long- term therapy",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            }
+          ]
+        ]
+      },
+      "annotations": []
+    }
+  ],
+  "key_value_items": [],
+  "form_items": [],
+  "pages": {
+    "1": {
+      "size": {
+        "width": 595.2760009765625,
+        "height": 790.8660278320312
+      },
+      "page_no": 1
+    },
+    "2": {
+      "size": {
+        "width": 595.2760009765625,
+        "height": 790.8660278320312
+      },
+      "page_no": 2
+    },
+    "3": {
+      "size": {
+        "width": 595.2760009765625,
+        "height": 790.8660278320312
+      },
+      "page_no": 3
+    }
+  }
+}

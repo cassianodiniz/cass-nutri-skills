@@ -1,0 +1,59 @@
+PDF_PHYSICAL_PAGE=223
+194                                            Capítulo 6 Interpretação de Importância em Nutrição sobre Hemograma
+
+
+
+TABELA 6-1. Valores de referência do hemograma
+
+                                          SÉRIE VERMELHA
+
+ Hemácias (por mm3)                                            Hemoglobina
+
+      Homem                 4.500.000 a 6.000.000              Homem                        14 a 18 g
+
+      Mulher                4.000.000 a 5.500.000              Mulher                       12 a 16 g
+
+      Recém-nascido         5.000.000 a 7.000.000              Criança                      12 a 14 g
+
+                                                               Recém-nascido                14,5 a 24,5 g
+
+ Hematócrito
+
+      Homem                 38% a 54%
+
+      Mulher                36% a 47%
+
+ VCM (volume corpuscular médio)                                                             82 a 92 fL3
+
+ HCM (hemoglobina corpuscular média)                                                        27 a 33 μg
+
+ CHCM (concentração de hemoglobina corpuscular média)                                       32 a 36%
+
+ Obs.: Células normocíticas e normocrômicas.
+
+
+                                           SÉRIE BRANCA
+
+                                               Total
+
+ Adulto                                                 4.500 a 10.000/mm3
+
+ Criança                                                4.500 a 13.500/mm3
+
+ Obs.: Sem alterações citomorfológicas.
+
+                                        Contagem diferencial
+
+ Neutrófilos
+
+           Segmentados          40% a 70%           Basófilos                  0% a 3%
+
+           Mielócitos           0%                  Eosinófilos                0% a 4%
+
+           Metamielócitos       0%                  Linfócitos                 20% a 50%
+
+           Bastonetes           1% a 5%             Monócitos                  2% a 6%
+
+ PLAQUETAS
+
+           Total              130.000 a 400.000/mm3                  Obs.: Morfologia normal

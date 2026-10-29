@@ -1,0 +1,52 @@
+PDF_PHYSICAL_PAGE=44
+Capítulo 1 Interpretação de Exames de Importância em Nutrição para Cardiopatias e/ou Hiperlipoproteinemias   15
+
+
+                             O perfil lipídico tem uma relação estreita com as
+                         cardiopatias; logo, deve-se solicitar aos pacientes
+                         que apresentarem mais de dois fatores de risco exa-
+                         mes das seguintes frações lipídicas: colesterol total,
+                         LDL-C, HDL-C e triglicerídeos. Vale ressaltar que a
+                         interpretação do aspecto do soro é importante, uma
+                         vez que quanto mais turvo, maior a presença de quilo-
+                         mícrons e triglicerídeos (Tabela 1-4).
+
+		Colesterol
+                             É pertinente mencionar, também, os valores de
+                         referência de colesterolemia para crianças e adoles-
+                         centes (Tabela 1-5).
+                             A partir dos valores obtidos pode-se inferir a pre-
+                         sença ou ausência de fatores de risco, com conse-
+                         quente interpretação clínica, sinais de alerta e propos-
+                         ta de conduta clínica (Tabela 1-6).
+
+
+TABELA 1-4. Interpretação do aspecto do soro com as possíveis alterações do
+perfil lipídico
+
+  ASPECTO DO SORO                                     ALTERAÇÃO DO PERFIL LIPÍDICO
+
+  Límpido ou claro                                    Sem dislipidemia ou hipercolesterolemia isolada
+
+  Turvo                                               Hipertrigliceridemia isolada ou combinada
+
+  Cremoso                                             Hipertrigliceridemia grave ou hiperquilomicronemia
+
+Fonte: IV Diretriz de Dislipidemia e Aterosclerose da Sociedade Brasileira de Cardiologia, 2007.
+
+
+
+TABELA 1-5. Interpretação laboratorial dos valores de referência para
+colesterolemia no perfil lipídico para crianças e adolescentes
+
+  IDADE/INTERPRETAÇÃO                                                                    2-19 ANOS
+
+  Desejável                                                                             < 170 mg/dL
+
+  Ótimo                                                                                        –
+
+  Limítrofe                                                                          170 a 199 mg/dL
+
+  Alto                                                                                  ≥ 200 mg/dL
+
+Fonte: Duarte, 2007.

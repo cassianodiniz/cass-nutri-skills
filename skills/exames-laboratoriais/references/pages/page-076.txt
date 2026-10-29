@@ -1,0 +1,58 @@
+PDF_PHYSICAL_PAGE=76
+Capítulo 1 Interpretação de Exames de Importância em Nutrição para Cardiopatias e/ou Hiperlipoproteinemias                  47
+
+
+TABELA 1-15. Dados laboratoriais
+
+                                                                                      INTER-             REFERÊNCIAS
+  EXAMES                 12/06       29/07        01/08       14/08       16/08       PRETAÇÃO           (HULW)
+
+  Glicemia                  –           –           –          109         125        Elevada            70 a 99 mg/dL
+
+  Ureia                    36          37           –           18           –        Normal             Idade < 50 anos: 19
+                                                                                                         a 44 mg/dL
+                                                                                                         Idade > 50 anos:
+                                                                                                         17,9 a 54,9 mg/dL
+
+  Creatinina              1,19        0,88        0,83          –            –        Normal             0,9 a 1,3 mg/dL
+
+  TGO                       –          15           –           –            –        Normal             5 a 34 U/L
+
+  TGP                       –          17           –           –            –        Normal             6 a 55 U/L
+
+  Bilirrubina               –         0,45        0,33          –            –        Normal             0,0 a 0,5 mg/dL
+  Indireta
+
+  Bilirrubina               –         0,39        0,34          –            –        Normal             0,0 a 0,5 mg/dL
+  Direta
+
+  PCR                      0,5          –           –           –            –        Normal             < 6,0 mg/L
+
+  Albumina                  –          3,1          3           –            –        Reduzida           3,8 a 5,4 g/dL
+
+  Hemácias                  –         3,54        3,19        3,03           –        Reduzida           4,5 a 6,0 milh/mL
+
+  Hemoglobina               –         9,83        9,46        8,79           –        Reduzida           12,8 a 17,8 g/dL
+
+  Hematócrito               –        31,22       26,67       26,17           –        Reduzida           40% a 52%
+
+  Linfócitos                –           –          26           –            –        Normal             20% a 45%
+
+  Leucócito                 –       15.060 13.300 12.230                     –        Elevada            4 a 11 mm3
+
+  Plaquetas                 –      162.100 132.700 400.600                   –        Normal             150 a 450 mil/mm3
+
+  Hba1c                  5,8%           –           –           –            –        Normal             Diabetes controlado:
+                                                                                                         6% a 8%
+
+  Potássio                  –         3,35        3,91          4            –        Normal             3,5 a 5,1 nmol/L
+
+  Sódio                     –         141          143         134           –        Normal             136 a 14 5 nmol/L
+
+  Triglicerídeos            –         207           –           –            –        Elevado            < 150 mg/dL
+
+  Colesterol                –         127           –           –            –        Normal             < 200 mg/dL
+
+  HDL                       –          26           –           –            –        Reduzido           40 a 60 mg/dL
+
+  LDL                       –         59,6          –           –            –        Normal             < 100 mg/dL

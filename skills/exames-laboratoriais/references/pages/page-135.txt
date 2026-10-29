@@ -1,0 +1,42 @@
+PDF_PHYSICAL_PAGE=135
+106                       Capítulo 3 Interpretação de Exames de Importância em Nutrição para Doença Renal
+
+
+
+
+            Causas/significado de valores anormais
+               É um marcador útil e válido do estado nutricional
+            energético-proteico de pacientes em diálise.
+               Reflete a soma da ingestão de alimentos ricos
+            em creatina e creatinina (p. ex., carnes) e nitrogê-
+            nio muscular ou produção endógena de creatinina
+            (músculo squelético) menos a excreção urinária,
+            remoção dialítica e degradação endógena de creati-
+            nina. Níveis baixos estão associados a maior risco de
+            mortalidade, ↑ na insuficiência renal aguda e crôni-
+            ca, dano muscular, hipertireodismo, com ↑ massa
+            muscular, privação alimentar prolongada, acidose
+            diabética, ingestão excessiva de carne, gigantismo,
+            cromegalia.
+               ↓ na gestação, com ↓ massa muscular.
+
+      3.5   Ureia
+            Intervalo de referência
+               Valores de referência: 20 a 40 mg/dL.
+               Transplante: 15 a 50 mg/dL.
+               Hemodiálise: 130 a 200 mg/dL.
+               Diálise peritoneal contínua: 100 a 150 mg/dL.
+
+            Causas/significado de valores anormais
+                Reflete quebra proteica endógena (cataboliza-
+            da) ou exógena (ingerida); logo, reflete o nitrogênio
+            nutricional.
+                Pode indicar o estado de hidratação do paciente,
+            ↑ na insuficiência renal, choque, desidratação, febre,
+            infecção, diabetes, gota crônica, catabolismo protei-
+            co excessivo, infarto do miocárdio, ↓ na insuficiência
+            hepática, desnutrição, ingestão proteica baixa, má
+            absorção, hiper-hidratação (excesso de líquidos
+            endovenosos), gestação, êmese, diarreia, anabolis-
+            mo proteico, síndrome de secreção inadequada do
+            hormônio antidiurético.

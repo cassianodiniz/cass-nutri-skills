@@ -1,0 +1,43 @@
+PDF_PHYSICAL_PAGE=204
+Capítulo 5 Interpretação Metabólica sobre Deficiências Vitamínicas         175
+
+
+                             Resta saber se a excreção urinária do 4-PA pode
+                         refletir bem o estado funcional vitamínico B6; trata-se
+                         de uma hipótese justificável, na medida em que os
+                         níveis urinários desse catabólito parecem estar corre-
+                         lacionados, principalmente, com o consumo alimentar
+                         de vitamina B6.
+
+        5.2.4            Vitamina B12
+                            Para se determinar o conteúdo de cobalamina, em
+                         um tecido ou em um compartimento do organismo, po-
+                         de-se recorrer a dois tipos de análise: a quantificação
+                         direta da vitamina e as análises dinâmicas. A análise
+                         global, a partir do método microbiológico, consiste em
+                         medir o crescimento de uma fonte bacteriana capaz
+                         de sintetizar a cobalamina em presença da amostra a
+                         ser analisada, e os resultados obtidos são comparados
+                         com a solução padrão. Outro método de quantificação
+                         da vitamina B12 é a análise realizada por radiodiluição
+                         com isótopos, que permite reduzir os problemas de
+                         assepsia e de espera (sete dias) do método microbio-
+                         lógico. Essa análise baseia-se no princípio da fixação
+                         da cobalamina sérica endógena em uma solução
+                         padrão, ou de fator intrínseco, ao qual se junta, em
+                         seguida, a solução de base nos limites conhecidos.
+                            As análises dinâmicas compreendem o teste de
+                         Schilling (teste de absorção da cobalamina), o estudo
+                         da excreção do ácido metilmalônico e um teste que se
+                         baseia na repercussão da deficiência de vitamina B12
+                         sobre o metabolismo do ácido fólico. Essas análises
+                         apresentam o interesse de informar sobre o pool de
+                         cofatores, efetivamente disponível para as reações
+                         cobalamina-dependentes.
+
+        5.2.5            Folatos
+                            Os métodos de dosagem dos folatos, no soro,
+                         correspondem à análise por diluição com isótopos e
+                         aos métodos microbiológicos que se baseiam na exis-
+                         tência de diferentes fontes bacterianas autotróficas. A
+                         análise da folatemia é um bom indicador do estado

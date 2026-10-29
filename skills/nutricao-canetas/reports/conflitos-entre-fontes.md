@@ -18,9 +18,9 @@ Os documentos convergem no núcleo do cuidado nutricional durante tratamento da 
 
 Arquivos originais:
 
-- E - consenso europeu (PDF local fornecido pelo usuário).
-- A - advisory americano (PDF local fornecido pelo usuário).
-- B - perspectiva sobre bariátrica (PDF local fornecido pelo usuário).
+- E - consenso europeu (PDF incluído em references/source/).
+- A - advisory americano (PDF incluído em references/source/).
+- B - perspectiva sobre bariátrica (PDF incluído em references/source/).
 
 Identidade e datas também conferidas nas fontes institucionais: [E no PubMed](https://pubmed.ncbi.nlm.nih.gov/42419343/), [A na revista](https://ajcn.nutrition.org/article/S0002-9165%2825%2900240-0/fulltext) e [B no PubMed](https://pubmed.ncbi.nlm.nih.gov/41241664/). A análise das condutas abaixo se baseia nos PDFs fornecidos. As páginas citadas são as páginas físicas de cada PDF; em A, PDF p.10 corresponde à página 353 do periódico, por exemplo.
 
@@ -79,7 +79,7 @@ Doença renal crônica e outras condições que alterem as necessidades proteica
 
 ## 6. Estrutura proposta para dieta-canetas
 
-Nesta distribuição, a skill é instalada pelo Cass Nutri Skills como `nutricao-canetas`; o corpus privado segue a configuração externa descrita no SKILL.md.
+Esta distribuição é instalada pelo plugin como nutricao-canetas.
 
 - `SKILL.md`: aplicação nutricional em adultos em uso de GLP-1 ou terapias incretínicas combinadas, principais decisões, limites clínicos e roteamento para evidências.
 - `chapters/`: três capítulos de análise, um por documento, com princípios, aplicação e limites.

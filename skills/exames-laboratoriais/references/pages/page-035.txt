@@ -1,0 +1,43 @@
+PDF_PHYSICAL_PAGE=35
+6       Capítulo 1 Interpretação de Exames de Importância em Nutrição para Cardiopatias e/ou Hiperlipoproteinemias
+
+
+
+       em hemoconcentração, causando elevação de ma-
+       cromoléculas que não são capazes de penetrar na
+       parede dos capilares, com o aumento de 5% no nível
+       de colesterol sérico. Caso a duração desse torniquete
+       ultrapasse 5 min, o aumento do nível de colesterol
+       poderá oscilar entre 10% e 15%. Visando minimizar o
+       “efeito torniquete”, este deverá ser desfeito tão logo a
+       agulha penetre na veia.
+
+		Efeito de exercício
+           Atividades físicas como caminhadas, atividades
+       extenuantes como a prática de esporte em aca-
+       demias e maratonas podem afetar os resultados
+       de vários exames. Em função da transferência de
+       líquidos do volume intravascular para o intersticial,
+       por causa da sudorese durante o exercício, ocorre
+       uma elevação dos níveis proteicos, porém causando
+       um efeito benéfico a longo termo, pela redução dos
+       níveis de LDL–C, Apo B, e elevação do HDL–C e Apo
+       AI. Recomenda-se não praticar exercícios extenuan-
+       tes na noite que precede a coleta, muito menos na
+       manhã do dia em questão. O anticoagulante EDTA
+       pode ser utilizado para a medição do colesterol total
+       e triglicérides.
+       • Nota 1 – Quando for utilizado plasma, ao se utilizar
+           EDTA deve-se multiplicar o valor plasmático por
+           1,03 para se obter o valor equivalente aos níveis
+           séricos.
+       • Nota 2 – Os métodos para medição do HDL-C
+           (precipitação e homogêneos) sofrem interferência
+           do EDTA e este não pode ser usado.
+           – Heparina: pode ser utilizada para medição do
+               colesterol total e HDL-C.
+       • Nota 3 – A heparina não é recomendada para a
+           determinação dos triglicérides por ativar a lipase
+           das lipoproteínas in vivo (e também in vitro), alte-
+           rando os seus níveis.
+            Outros anticoagulantes não devem ser utilizados.

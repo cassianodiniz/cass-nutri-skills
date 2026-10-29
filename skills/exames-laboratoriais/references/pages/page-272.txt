@@ -1,0 +1,71 @@
+PDF_PHYSICAL_PAGE=272
+Índice Remissivo                                                                         243
+
+Hemoglobina                                    LDL colesterol
+  glicada, 64                                     interpretação, 8
+  glicosada no soro, 60                           intervalo de referência, 8
+  glicosilada, 81                                 limitações e/ou interações, 9
+Hemograma                                         princípios e recomendações, 8
+  interpretação de importância em nutrição     LDL-C, 16
+     sobre, 191-216                               dieta recomendada para redução de, 236
+     caso clínico, 207                            redução por modificação na dieta, 36
+  plaquetas, 207                                  valores de referência para, interpretação, 17
+  série                                        Lesões de hepatócitos, testes de avaliação,
+     branca, 205                                  135
+     vermelha, 193                             Lipídeos dietéticos, 19
+  valores laboratoriais de referência, 193     Lipoproteínas, 20
+Hemólise, 151                                     interpretação, 10
+Hepatites                                         limitações, 10
+  agudas virais, ALT e AST e, 139                 princípios e recomendações, 9
+  crônicas                                     Luteína, 36
+     ALT, AST e, 140
+     de etiologia não viral, ALT, AST e, 142
+     virais, ALT e, 141
+                                               M
+                                               Marcadores inflamatórios, 219
+Hepatocarcinoma
+                                               Medicações orais para redução da glicose,
+  ALT, AST e, 148
+                                                 81
+  sinais e sintomas, 149
+                                               Método de avaliação bioquímica do estado
+Hepatopatias crônicas, 149
+                                                 vitamínico, 172
+Hiperglicemia, 68, 80
+                                               Microalbuminúria, dosagens de, 66
+  de “rebote”, 78
+Hiperinsulinismo alimentar, 70
+Hipoalbuminemia, 154                           N
+Hipocolesterolemia, 148                        NCEP (National Cholesterol Education
+Hipoglicemia, 80                                 Program), 18
+  conceitos, 79                                Neuroglicopenia, 81
+  diagnóstico, 71                              Nutrição
+  do jejum, 71                                   para cardiopatias e/ou
+  de origem não diabética, 81                        hiperlipoproteinemias, interpretação de
+  pós-prandial, 69, 70                               exames de importância, 1-55
+  tratamento, 79                                     caso clínico, 37, 45
+Homocisteína                                     para diabetes mellitus
+  interpretação, 10                                  interpretação de exames de
+  intervalo de referência, 10                           importância em, 57-102
+  limitações, 10                                     caso clínico, 91
+  princípios e recomendações, 10                 para doença renal, interpretação de
+Hormônio insulina, 69                                exames de importância em, 103-130
+                                                     caso clínico, 122
+I                                                sobre hemograma, interpretação de
+Icterícia, ALT e, 139                                importância em, 191-216
+Idade, variável fisiológica, 3                   visão atual sobre, 22
+Índice
+   AST/ALT, 146                                O
+   de estresse oxidativo, 19                   Ovo
+   glicêmico, 85                                 de avestruz, 35
+Insuficiência renal crônica, 107                 de galinha, 35
+   terapia dietética na progressão da, 111       ingestão de, 36
+Insulina, resistência à, 77
+Insulinoma, 71                                 P
+                                               Painel de Tratamento de Adultos do NCEP,
+J                                                18
+Jejum, duração de, 5                           Pectina, 99
+                                               Perfil
+L                                                bioquímico, 141
+Lactose, 72                                      de aminoácidos séricos, 150
+Latosterol, 31                                   glicêmico, 90

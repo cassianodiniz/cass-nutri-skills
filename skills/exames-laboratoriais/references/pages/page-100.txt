@@ -1,0 +1,44 @@
+PDF_PHYSICAL_PAGE=100
+Capítulo 2 Interpretação de Exames de Importância em Nutrição para Diabetes Mellitus   71
+
+
+                             A hipoglicemia do jejum pode ocorrer em res-
+                         posta a se ter passado oito ou mais horas sem ingerir
+                         alimentos. Entretanto, geralmente, a hipoglicemia do
+                         jejum é o resultado de uma condição média de base
+                         séria. As causas da hipoglicemia incluem estados
+                         de deficiência hormonal (p. ex., hipopituitarismo,
+                         insuficiência adrenal, deficiência de catecolaminas
+                         ou glucagon) (doença hepática adquirida, salicilato),
+                         insulinoma (do qual a maioria é benigna, mas 6%
+                         a 10% podem ser malignas) e outros tumores não
+                         pancreáticos.
+                             Os sintomas relacionados à hipoglicemia do jejum
+                         tendem a ser particularmente graves, podendo incluir
+                         perda de acuidade mental, convulsões e inconsciên-
+                         cia. Se o problema de base puder ser resolvido, a
+                         hipoglicemia não será mais um problema.
+
+        2.5.2            Diagnóstico de hipoglicemia
+                              Um dos critérios utilizados para confirmar a
+                         existência de hipoglicemia é um nível de glicose
+                         sanguínea de menos de 50 mg/dL (< 2,8 mmol/L).
+                         Anteriormente, o teste de tolerância à glicose oral foi
+                         o teste padrão para esta condição. Entretanto, esse
+                         teste não é útil, uma vez que envolve um estímulo
+                         não fisiológico e os resultados mostram pequena
+                         correlação com indivíduos que são posteriormente
+                         documentados como portadores de hipoglicemia. O
+                         registro das avaliações por punção digital da glicose
+                         sanguínea durante a ocorrência espontânea de episó-
+                         dios sintomáticos, em casa, é um método geralmente
+                         utilizado para estabelecer o diagnóstico. Um método
+                         alternativo é realizar o teste da glicose em ambiente
+                         de consultório médico, caso em que é oferecida ao
+                         paciente uma refeição típica com documentação
+                         precedente de ter induzido episódios sintomáticos; a
+                         tríade de Whippe pode ser confirmada caso ocorram
+                         sintomas (ver adiante).
+                              Se os níveis de glicose sangüuínea são baixos
+                         durante o período sintomático, e caso os sintomas
+                         desapareçam ao se alimentar, a hipoglicemia é

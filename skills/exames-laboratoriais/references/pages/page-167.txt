@@ -1,0 +1,45 @@
+PDF_PHYSICAL_PAGE=167
+138             Capítulo 4 Interpretação Metabólica sobre Exames de Importância nas Doenças Hepáticas
+
+
+
+           Na ausência de outras causas, o sobrepeso e a
+      obesidade por si só aumentam o risco de ocorrência
+      de doença hepática. O índice de massa corporal
+      (IMC) e a relação cintura-quadril (RCQ) elevados es-
+      tão associados à elevação dos níveis séricos da ALT,
+      e a obesidade é a principal causa de ALT elevada nas
+      populações saudáveis. Em um estudo populacional,
+      RUHL et al. (2003) demonstraram que a adiposidade
+      central, a leptina sérica elevada e a hiperinsulinemia
+      são os principais determinantes da associação de
+      sobrepeso com ALT sérica elevada. Dentre os 5.724
+      adultos envolvidos nesse estudo, o percentual de ALT
+      sérica elevada em indivíduos com IMC acima de 25
+      kg/m² foi de 65%.
+           Embora a ALT seja o indicador mais comumente
+      utilizado para avaliar a existência de doença hepática,
+      os padrões de normalidade deste teste bioquímico
+      são questionados na literatura. Níveis séricos de ALT
+      considerados normais podem falhar em identificar
+      indivíduos com dano hepático e considerar como
+      normais indivíduos com doença hepática subclínica.
+      Em um estudo italiano que avaliou 6.835 candidatos
+      a realizar doação de sangue, foram encontrados 209
+      indivíduos portadores do vírus da hepatite C, com ALT
+      normal. Esse achado levou os autores a sugerirem que
+      deve ser realizada uma revisão dos limites normais da
+      ALT sérica.
+           Também nos indivíduos com doença hepática
+      alcoólica pode-se encontrar ALT sérica normal as-
+      sociada à doença avançada. Na doença hepática
+      alcoólica geralmente ocorre o predomínio de AST,
+      enzima 70% citoplasmática e 30% mitocondrial, cujos
+      níveis séricos elevados também são indicadores de
+      comprometimento hepatocelular.
+           Existem várias substâncias, medicamentos e ervas
+      cujo uso é associado à elevação das aminotransfera-
+      ses séricas e até mesmo à falência hepática. É, pois,
+      necessária a investigação na anamnese do uso de
+      substâncias ou medicações e da ocorrência de expo-
+      sição acidental ou profissional.

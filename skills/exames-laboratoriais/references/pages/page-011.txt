@@ -1,0 +1,46 @@
+PDF_PHYSICAL_PAGE=11
+x                                                              Colaboradores
+
+
+
+Mussara Gomes Cavalcante Alves Monteiro
+    Enfermeira Graduada pela Fundação Francisco Mascarenhas,
+    Paraíba. Nutricionista Graduada pela Universidade Federal da
+    Paraíba. Especialista em Saúde Pública pelas Faculdades Integradas
+    de Patos. Mestre em Ciências da Nutrição pela Universidade Federal
+    da Paraíba. Membro do Núcleo Interdisciplinar de Estudos em Saúde
+    e Nutrição – UFPB
+
+Myrella Cariry Lira
+    Nutricionista graduada pela Universidade Federal da Paraíba. Mestre
+    em Ciências da Nutrição pela Universidade Federal da Paraíba
+
+Paulo Duques Amorim
+    Graduado em Medicina pela Universidade Federal da Paraíba.
+    Médico Residente em Clínica Médica do Conjunto Hospitalar do
+    Mandaqui. Médico Residente em Gastroenterologia da Universidade
+    de São Paulo. Médico Residente em Endoscopia Digestiva da
+    Universidade de São Paulo
+
+Pedro Duques de Amorim
+    Médico Residente em Hepatologia da UNICAMP – São Paulo
+
+Rafaella Cristhine Pordeus Luna
+    Nutricionista Graduada pela Universidade Federal da Paraíba.
+    Especialista em Nutrição Clínica pela Universidade Gama Filho.
+    Mestre em Ciências da Nutrição pela Universidade Federal da
+    Paraíba. Membro do Núcleo Interdisciplinar de Estudos em Saúde e
+    Nutrição – UFPB. Professora de Dietoterapia do Curso de Graduação
+    em Nutrição da Universidade Federal do Piauí
+
+Raquel Patrícia Ataíde Lima
+    Nutricionista Graduada pela Universidade Federal da Paraíba.
+    Mestre em Ciências da Nutrição pela Universidade Federal da
+    Paraíba. Membro do Núcleo Interdisciplinar de Estudos em Saúde
+    e Nutrição – UFP. Doutorado em Andamento em Ciências da Nutrição
+    pela Universidade Federal da Paraíba
+
+Regina Maria Cardoso Monteiro
+    Nutricionista Graduada pela Universidade Federal da Paraíba.
+    Especialista em Nutrição Clínica pela Universidade Federal da
+    Paraíba

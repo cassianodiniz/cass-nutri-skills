@@ -1,0 +1,45 @@
+PDF_PHYSICAL_PAGE=179
+150                  Capítulo 4 Interpretação Metabólica sobre Exames de Importância nas Doenças Hepáticas
+
+
+
+           à reserva parenquimatosa por meio da atividade de
+           protrombina (AP) e plaquetas.
+               Além de ocorrer na doença hepática, a hipoalbu-
+           minemia pode ocorrer na desnutrição calórico-pro-
+           teica, nas doenças graves com catabolismo proteico
+           acentuado, na nefrose, nas síndromes de má absor-
+           ção e em doenças do trato gastrointestinal. Também
+           o tempo de protrombina pode se elevar nas síndro-
+           mes de má absorção e em várias doenças genéticas
+           hematológicas. Apesar dessas alterações em outras
+           condições, os níveis de albumina sérica e o tempo
+           e a atividade de protrombina (TAP) são parâmetros
+           essenciais no contexto da doença hepática.
+               Quando ocorre icterícia, a hiperbilirrubinemia
+           reflete o grau de reserva hepatocitária. O perfil de
+           aminoácidos séricos pode se alterar, ocorrendo um
+           aumento nos níveis de aminoácidos aromáticos e
+           diminuição nos de cadeia ramificada. Ocorre síntese
+           anormal de ureia e produção anormal de amônia, e a
+           hiperamonemia é uma das causas de encefalopatia
+           hepática.
+               A glicemia de jejum pode também sofrer altera-
+           ções, devido à redução do armazenamento de glico-
+           gênio e à hiperinsulinemia, ocorrendo hipoglicemia.
+           O déficit de síntese de lipoproteínas e os quadros
+           disabsortivos associados (com esteatorreia) podem
+           levar também à carência de vitaminas lipossolúveis,
+           magnésio e cálcio.
+
+
+4.15 OUTROS COMPONENTES
+
+
+  4.15.1   Bilirrubina total e frações
+               A bilirrubina é um produto da degradação das he-
+           mácias, é insolúvel em água – forma não conjugada
+           ou indireta (BI) – e requer conjugação por enzima para
+           tornar-se solúvel em água – forma conjugada ou direta
+           (BD) –, compondo a secreção biliar. A bilirrubina total
+           e frações (BD e BI) permitem avaliar os pacientes que

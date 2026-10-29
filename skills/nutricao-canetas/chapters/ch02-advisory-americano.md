@@ -1,6 +1,6 @@
 # ch02 — Advisory ACLM, ASN, OMA e TOS
 
-Mozaffarian et al., 2025. PDF de 24 páginas, correspondentes às páginas 344–367 do periódico. Fonte integral (`../references/chapters/ch02-advisory-americano-source.md`, no corpus privado).
+Mozaffarian et al., 2025. PDF de 24 páginas, correspondentes às páginas 344–367 do periódico. [Fonte integral](../references/chapters/ch02-advisory-americano-source.md).
 
 ## Ideia central
 

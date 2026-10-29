@@ -1,6 +1,6 @@
 # ch03 — Bridging the nutrition guidance gap
 
-Spreckley, Ruggiero e Brown. Publicação online em 15/11/2025, edição 2026. Artigo de perspectiva de três páginas físicas, correspondentes a 265–267 do periódico. Fonte integral (`../references/chapters/ch03-ponte-bariatrica-source.md`, no corpus privado).
+Spreckley, Ruggiero e Brown. Publicação online em 15/11/2025, edição 2026. Artigo de perspectiva de três páginas físicas, correspondentes a 265–267 do periódico. [Fonte integral](../references/chapters/ch03-ponte-bariatrica-source.md).
 
 ## Ideia central
 

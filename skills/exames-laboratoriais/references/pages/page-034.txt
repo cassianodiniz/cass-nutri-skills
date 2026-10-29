@@ -1,0 +1,42 @@
+PDF_PHYSICAL_PAGE=34
+Capítulo 1 Interpretação de Exames de Importância em Nutrição para Cardiopatias e/ou Hiperlipoproteinemias   5
+
+
+                            O tabagismo é o hábito de vida que, sem dúvida,
+                         tem maior impacto na saúde como um todo e, sobre-
+                         tudo, como interferente no perfil bioquímico e celular,
+                         também reduzindo os níveis de HDL-C sérico que
+                         está relacionado com o número de cigarros fumados
+                         por dia.
+
+		Duração de jejum
+                             Coleta da Amostra. O colesterol total pode ser de-
+                         terminado em pacientes recém-alimentados; porém, a
+                         lipemia, quando presente, pode interferir na metodolo-
+                         gia de quantificação do colesterol. A padronização do
+                         perfil lipídico recomenda jejum de 12 h a 14 h prévio à
+                         coleta da amostra. Os valores de referência do NCEP,
+                         no qual se baseiam os documentos de consenso, fo-
+                         ram obtidos com jejum de 12 h.
+
+		Postura durante a coleta
+                             A mudança da posição deitada para a ereta ou
+                         sentada pode resultar na troca da água corpórea
+                         do compartimento intravascular para o extravascu-
+                         lar, resultando em alteração na diluição do sangue.
+                         Amostras sanguíneas obtidas em indivíduos que es-
+                         tiveram deitados durante 5 minutos e em seguida se
+                         sentaram podem apresentar 10% de redução no nível
+                         de colesterol total e 12% nos níveis de triglicérides.
+                         Portanto, é recomendável que a punção venosa seja
+                         realizada na posição sentada, devendo o paciente
+                         permanecer desta maneira em torno de 10 min a 15
+                         min antes da realização da coleta.
+
+		Duração do tempo do torniquete
+                             A utilização do torniquete, por baixar a pressão
+                         sistólica, mantém uma efetiva pressão de filtração
+                         dentro dos capilares, resultando na transferência
+                         das pequenas moléculas e fluidos do compartimento
+                         intravascular para o espaço intersticial. A sua per-
+                         manência por mais de 1 min até 3 min pode resultar

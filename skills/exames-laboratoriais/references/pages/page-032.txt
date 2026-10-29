@@ -1,0 +1,40 @@
+PDF_PHYSICAL_PAGE=32
+Capítulo 1 Interpretação de Exames de Importância em Nutrição para Cardiopatias e/ou Hiperlipoproteinemias   3
+
+
+  1.1 PRINCIPAIS FONTES DE VARIAÇÃO PRÉ-ANALÍTICA DO
+      PERFIL LIPÍDICO: VARIÁVEIS FISIOLÓGICAS
+
+
+		Idade
+                            O efeito da idade nos resultados dos exames labo-
+                         ratoriais tem sido reconhecido pelo ponto separador
+                         do intervalo de referência que distingue as popula-
+                         ções pediátrica, adolescente, adulta e geriátrica.
+
+		Sexo
+                            Entre 15 e 55 anos de idade há um progressivo
+                         aumento dos níveis de CT e LDL-C, com níveis bas-
+                         tante baixos em mulheres pré-menopausa, talvez pelo
+                         efeito protetor dos estrógenos, quando comparados a
+                         homens da mesma idade.
+
+		Variabilidade
+                             Os componentes do perfil lipídico sofrem flutuações
+                         ao longo do tempo em resposta a vários estímulos. A
+                         magnitude dessas flutuações é própria de cada indi-
+                         víduo e caracteriza a variabilidade biológica intraindi-
+                         vidual. As variações médias em indivíduos saudáveis,
+                         em termos de coeficiente de variação (CV%), podem
+                         ser resumidas em: para CT, HDL-C e LDL-C, cerca de
+                         10%, e para os TGs, de 25%. Portanto, para os TGs
+                         podem ser encontradas variações muito expressivas
+                         entre duas determinações, considerando-se apenas a
+                         influência da variabilidade biológica.
+
+		Gravidez
+                             Durante a gravidez, sobretudo no segundo e
+                         terceiro trimestres, existe um incremento do metabo-
+                         lismo, havendo uma maior mobilização dos lipídeos,
+                         determinando uma elevação dos níveis séricos das
+                         apolipoproteínas, TG e CT, sobretudo o LDL-C. Esses

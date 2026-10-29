@@ -1,114 +1,37 @@
 # Cass Nutri Skills
 
-Plugin para nutricionistas. Versão 0.6.0. Contém **dieta**, **biodisp-nutrients**, **nutricao-canetas** e **exames-laboratoriais**.
-O nutricionista toma as decisões clínicas; a skill executa a prescrição informada,
-confere o cálculo e prepara o documento depois da revisão autorizada.
+Versão 0.7.0 — pacote com fontes incluídas, pronto para consulta após instalar.
 
-## Fonte
+| Skill | Conteúdo incluído |
+|---|---|
+| dieta | Planilha, scripts e instruções de prescrição |
+| biodisp-nutrients | PDF original e corpus integral de Cozzolino: 910 páginas, 53 capítulos, índice e conferência de proveniência |
+| nutricao-canetas | Três PDFs originais, 51 páginas, textos integrais, imagens de revisão e índice de busca |
+| exames-laboratoriais | PDF original de Costa (2013), 273 páginas extraídas, tabelas conferidas e 11 imagens de revisão |
 
-A base de 22 arquivos foi importada originalmente de
-[cass-dieta.skill](https://skills.praxios.com.br/assets/cass-dieta.skill).
-SHA-256: `07b57c4fcc1bc16ca2fbcbcc7924ce601dcabc92184930f4c51a56fb65b738c6`.
-Desde a versão 0.3.0, a dieta inclui filtros por FODMAPs, lactose e restrições
-informadas pelo profissional: alimento/porção/fonte, três resultados (compatível,
-incompatível, verificar), conferência de modelos e alternativas. Não inclui uma
-base clínica completa nem presume classificação pela memória do modelo. Dados e
-restrições permanecem nas pastas externas do profissional e do paciente.
+Não é preciso fornecer os livros nem baixar fontes por fora para consultar esse
+material. Os caminhos são relativos à skill instalada. As fontes históricas e os
+limites de revisão visual continuam identificados; incluir a obra não a torna
+diretriz clínica atual. O suplemento online não fornecido dos documentos de
+canetas continua identificado como ausente.
 
-A distribuição pública não é uma cópia exata da dieta pessoal do autor: a planilha
-é preparada para distribuição e esta versão ainda não inclui o recurso local de
-alternativas textuais no documento. Não usa pacientes ou perfis do autor.
-
-Os nomes de acionamento não repetem o nome do plugin. Use `Cass Nutri Skills: dieta` ou `Cass Nutri Skills: biodisp-nutrients`. Os diretórios de dados e o identificador do pacote original do livro foram preservados.
-
-## Instalar
+## Instalação
 
 ```sh
 codex plugin marketplace add cassianodiniz/cass-nutri-skills --ref main
 codex plugin add cass-nutri-skills@cass-nutri-skills
 ```
 
-Depois peça: “Use dieta para montar a prescrição que vou informar”.
-Para consultar a obra, peça: “Use biodisp-nutrients para consultar meu corpus local”. A consulta bibliográfica é separada da prescrição; não altera a dieta automaticamente.
-
-## Preparação e arquivos permanentes
-
-Python, LibreOffice e um motor de PDF são necessários. A skill verifica o ambiente
-antes do atendimento e só instala dependências com autorização, sem senha.
-Leia `skills/dieta/references/1-ambiente.md`.
-
-Perfis, cadastros e o ambiente WeasyPrint ficam em `~/.cass-dieta/`, fora do plugin.
-As planilhas e documentos dos pacientes ficam no consultório confirmado pelo
-profissional. A planilha-modelo distribuída permanece somente para leitura;
-os cálculos usam cópias descartáveis e as versões anteriores são preservadas.
-Atualizar o plugin não deve substituir esses diretórios externos. Nunca salve
-perfis, pacientes ou prescrições dentro da pasta instalada do plugin.
-
-Uma dieta local existente continua independente. Use o nome do plugin/skill
-explicitamente para testar esta distribuição sem substituir sua instalação local.
-
-## Atualizações e validação
-
-Novas versões são publicadas neste GitHub. A disponibilidade do refresh automático
-depende do cliente; no Codex CLI, o catálogo pode ser atualizado com
-`codex plugin marketplace upgrade cass-nutri-skills`, seguido de
+Atualização: `codex plugin marketplace upgrade cass-nutri-skills`, seguido de
 `codex plugin add cass-nutri-skills@cass-nutri-skills`.
-Não há garantia de que um chat já aberto recarregue as instruções.
 
-`python3 tests/validar_pacote.py` confere manifesto, arquivos, links, sintaxe e hash
-da planilha. Isso valida o empacotamento, sem substituir a conferência clínica ou
-provar um atendimento real em todos os sistemas. A skill informa os limites de
-plataforma e faz sua própria conferência do cálculo antes de gerar documentos.
+Use `dieta`, `biodisp-nutrients`, `nutricao-canetas` ou `exames-laboratoriais`.
+Scripts de consulta usam Python 3.10+. A prescrição com planilha requer as
+ferramentas indicadas em dieta. Perfis, pacientes, documentos produzidos e
+programas instalados continuam fora do plugin e são preservados nas atualizações.
 
-## Biodisponibilidade de Nutrientes
+## Validação
 
-A skill `biodisp-nutrients` integra o corpus de Cozzolino com busca por
-página e conferência de proveniência. O livro é uma fonte histórica; informação
-atual não deve ser atribuída a ele. Sua transcrição, o índice SQLite e os registros
-privados não são distribuídos neste repositório público.
-
-No primeiro uso, forneça o arquivo `.skill` de uma cópia a que você tenha acesso
-autorizado. A preparação guarda o corpus em `~/.cass-book-biodisp-nutrients/corpus/`,
-confere hashes internos, a liberação da extração e a integridade SQLite e preserva
-qualquer instalação anterior. O plugin só distribui a integração e o preparador.
-Python 3.10+ com sqlite3 é suficiente; não precisa instalar bibliotecas adicionais.
-
-Comandos a partir da pasta `skills/biodisp-nutrients/`:
-
-```sh
-python3 scripts/corpus_local.py instalar --pacote /caminho/da-copia-autorizada.skill
-python3 scripts/corpus_local.py verificar
-```
-
-O preparador não faz consultas nem altera o buscador, o índice ou o conferente
-originais. Depois da preparação, a skill lê as instruções originais na pasta
-privada e executa aquele motor. Atualizar o plugin preserva essa pasta externa.
-Não envie o corpus para o GitHub; não coloque dados ou registros do usuário no
-plugin. Se o corpus não estiver disponível, a skill informa a pendência em vez
-de apresentar memória do modelo como conteúdo consultado.
-
-O pacote fonte verificado nesta versão tem SHA-256
-`8881d2600aba87058a46eafbaa85ec2417c2f348240227993fad7fa8c9b41d1c`.
-Os testes do preparador usam somente conteúdo sintético:
-`python3 -m unittest discover -s tests -p 'test_*.py' -v`.
-
-## Nutrição Canetas
-
-Nome exibido: **Nutrição Canetas**; acionamento: `nutricao-canetas`. Importada da
-skill local dieta-canetas, mantendo o conteúdo clínico e o buscador original.
-Instruções e resumos são distribuídos; textos integrais, páginas, imagens de PDFs
-e banco de busca permanecem privados, fora do plugin. Configure a pasta externa
-em `~/.nutricao-canetas/config.json` com `{"corpus": "/caminho/absoluto"}`;
-o destino padrão é `~/.nutricao-canetas/corpus`. Cada usuário fornece sua cópia
-autorizada. A skill declara a limitação quando as fontes não estão disponíveis.
-
-## Exames Laboratoriais
-
-Nome exibido: **Exames Laboratoriais**; acionamento: `exames-laboratoriais`.
-Integra a skill do livro de Costa (2013), preservando a distinção entre valores
-visualmente conferidos e extração não verificada. É consulta histórica, não
-diretriz atual. O plugin distribui as instruções; PDF, 273 páginas extraídas,
-base de tabelas verificadas e imagens permanecem privados fora do plugin.
-Configure `~/.exames-laboratoriais/config.json` com o caminho absoluto em `corpus`;
-o padrão é `~/.exames-laboratoriais/corpus/`. Cada usuário fornece uma cópia
-autorizada. O verificador original deve passar antes das consultas.
+`python3 tests/validar_pacote.py` confere estrutura, contagens, fontes e integridade.
+As buscas são verificadas também em cópia limpa sem configuração pessoal. Isso
+confere distribuição e recuperação, não um atendimento clínico completo.

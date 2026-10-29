@@ -1,0 +1,50 @@
+PDF_PHYSICAL_PAGE=43
+14                    Capítulo 1 Interpretação de Exames de Importância em Nutrição para Cardiopatias e/ou Hiperlipoproteinemias
+
+
+
+QUADRO 1-1. Fatores de risco a cada 10 anos (continuação)
+
+  PASSOS 5 E 6
+
+                                         HOMENS                                       MULHERES
+
+  Diabetes
+  – sim                                  2                                            4
+  – não                                  0                                            0
+  Fumo
+  – sim                                  2                                            2
+  – não                                  0                                            0
+*Fumo: qualquer cigarro no último mês.
+
+
+  PASSO 7 Somar os pontos
+
+  Idade + CT + HDL – c + PAS ou PAD + DM* + Fumo = total de pontos
+
+*DM: diabetes mellitus.
+
+  PASSO 8 Veja risco absoluto nas tabelas
+
+      HOMENS                HOMENS – RISCO DE                      MULHERES                 MULHERES – RISCO DE
+      – PONTOS              DAC EM 10 ANOS (%)                      – PONTOS                 DAC EM 10 ANOS (%)
+
+        < –1                            2                              ≤ –2                               1
+          0                             3                               –1                                2
+          1                             3                                0                                2
+          2                             4                                1                                2
+          3                             5                                2                                3
+          4                             7                                3                                3
+          5                             8                                4                                4
+          6                             10                               5                                4
+          7                             13                               6                                5
+          8                             16                               7                                6
+          9                             20                               8                                7
+         10                             25                               9                                8
+         11                             31                              10                               10
+         12                             37                              11                               11
+         13                             45                              12                               13
+        ≥ 14                            53                              13                               15
+                                                                        15                               20
+                                                                        16                               24
+                                                                        17                              ≤ 27

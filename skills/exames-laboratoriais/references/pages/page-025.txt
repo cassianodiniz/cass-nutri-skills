@@ -1,0 +1,20 @@
+PDF_PHYSICAL_PAGE=25
+xxiv                                                         Introdução
+
+
+
+   Quando os dados são obtidos de um laboratório com um pro-
+grama de controle de qualidade bem planejado e fielmente exe-
+cutado, o profissional da saúde pode confiar, pois os dados não
+estão comprometidos por métodos analíticos inadequados, erros
+operacionais ou tendenciosos.
+   Esses dados laboratoriais, quando interpretados com segu-
+rança, auxiliam os profissionais, confirmando e corroborando as
+avaliações nutricionais.
+   Com o advento de novas pesquisas, foi possível verificar os
+efeitos de determinados alimentos nos valores de exames labo-
+ratoriais. Interferindo nos resultados ou sendo utilizados como
+coadjuvantes no tratamento de doenças, eles alteram as taxas
+sanguíneas, contribuindo para o retorno dos níveis de normalidade.
+A nossa proposta, neste livro, é auxiliar a rotina dos profissionais
+especialistas em nutrição.

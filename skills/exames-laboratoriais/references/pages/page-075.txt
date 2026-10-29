@@ -1,0 +1,43 @@
+PDF_PHYSICAL_PAGE=75
+46                  Capítulo 1 Interpretação de Exames de Importância em Nutrição para Cardiopatias e/ou Hiperlipoproteinemias
+
+
+
+TABELA 1-14. Mapa conceitual para estudo de caso
+
+ PERFIL DO PACIENTE                    HISTÓRICO MÉDICO                             CONDUTA DIETÉTICA
+
+ Homem, 68 anos de idade,              De acordo com prontuário                     Dieta via oral para paciente
+   foi admitido no HULW no               médico, exames                               diabético e hipertenso
+   dia 26/06/2013 relatando              laboratoriais e Doppler                      apresentando as
+   episódio de dor intensa em            colorido venoso do MID,                      seguintes características:
+   MID há 2 meses e procurou             o paciente possui o                          normocalórica com base no
+   assistência médica, que               diagnóstico definitivo de                    peso amputado de 70,58
+   constatou a presença                  aneurisma gigante da                         kg, normoglicídica com
+   de um trombo na artéria               artéria femoral, diabetes                    seleção, priorizando os
+   femoral.                              mellitus e hipertensão                       carboidratos complexos e
+ Após a realização de exames             arterial.                                    com aumento do consumo
+   no MMII, constatou-se a             No dia 29/07 foi realizada                     de fibras para controle
+   oclusão da artéria femoral            a cirurgia vascular                          do trânsito intestinal e
+   comum esquerda +                      bypass arterial de MID                       melhor resposta glicêmica,
+   aneurisma trombosado em               femoropoplíteo. O paciente,                  normoproteica para facilitar
+   um terço distal poplíteo              após a cirurgia, apresentou                  a biodisponibilidade
+   e aneurisma da artéria                edema de MID que                             proteica, normolipídica com
+   femoral superficial direita +         aumentou no decorrer dos                     seleção (monoinsaturada,
+   oclusão bilateral de artérias         dias (3+/4+) e edema de                      12,8%, poli-insaturada,
+   tibiais posteriores.                  joelho (+/4+).                               6,03% e saturada, 4,37%).
+ O paciente evolui                     No dia 14/08 o paciente                      Foram utilizados dois
+   clinicamente estável,                 apresentou quadros de                        suplementos, o SUP 2, que
+   sem queixas, com sono                 febre, a extremidade do                      é indicado em pacientes
+   e apetite preservados,                MID estava fria e com                        em pré e pós-cirúrgico, e
+   pele e mucosa corada,                 cianose fixa, apresentando                   o DIAMAX, que auxilia nas
+   hidratado, relatou que                sinais de sofrimento da                      complicações provocadas
+   estava constipado e estava            pele com bolhas na face                      pelo diabetes.
+   aguardando a prótese para             lateral do tornozelo e no                  A dieta deve ser hipossódica
+   a realização da cirurgia.             dorso do hálux.                              para controle da PA. Dieta
+                                       O paciente foi encaminhado                     de consistência normal e
+                                         para a realização da                         fracionada em 6 refeições
+                                         cirurgia de amputação do                     diárias a cada 3 horas.
+                                         MID acima do tornozelo
+                                         neste mesmo dia.
+                                       PA: 140/80 mmHg

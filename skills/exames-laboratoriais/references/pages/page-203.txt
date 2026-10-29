@@ -1,0 +1,45 @@
+PDF_PHYSICAL_PAGE=203
+174                                Capítulo 5 Interpretação Metabólica sobre Deficiências Vitamínicas
+
+
+
+                 Embora certos autores questionem o valor preditivo
+              do coeficiente α-EGR, devido à existência de fatores
+              que influenciam a atividade EGR basal, a avaliação
+              do caráter funcional da riboflavina é considerada um
+              teste muito sensível de atividade vitamínica B2.
+
+      5.2.3   Vitamina B6
+                   A variedade de testes propostos para a avaliação
+              do estado vitamínico B6 compreende a análise da piri-
+              doxemia e da concentração plasmática do piridoxal, a
+              medida da relação ou do coeficiente EGOT, a medida
+              do débito urinário do ácido 4–piridóxico e os testes
+              de sobrecarga em triptofano e metionina. A vitamina
+              B6 intervém na ativação da transaminase glutâmico
+              oxaloacética (GOT) e as medidas in vitro da atividade
+              basal eritrocitária da GOT traduzem a impregnação
+              dessa enzima pela forma ativa da vitamina B6, o piri-
+              doxal 5-fosfato (PLP). Nesse método, cada amostra
+              é medida antes e após saturação in vitro pela adição
+              de PLP, o que permite definir o coeficiente α-EGOT
+              utilizado para medir a atividade vitamínica B6.
+                   A concentração plasmática do PLP é, igualmente,
+              considerada um teste de avaliação do estado vitamí-
+              nico B6, uma vez que as concentrações de PLP variam
+              em função do consumo da vitamina, fato esse eviden-
+              ciado quando, após uma deficiência de consumo de
+              vitamina B6, os níveis de PLP plasmático, sanguíneo e
+              eritrocitário diminuem rapidamente. Essa diminuição é
+              muito precoce e aparece antes de qualquer outra mo-
+              dificação bioquímica, como, por exemplo, a diminui-
+              ção dos níveis circulantes de piridoxal ou piridoxami-
+              na. Para alguns, a concentração do PLP plasmático e
+              o coeficiente da atividade EGOT eritrocitária parecem
+              bem correlacionados com vários testes bioquímicos,
+              utilizados comumente para diagnosticar deficiência
+              de vitamina B6. As investigações com isótopos têm
+              demonstrado que 40% a 50% da vitamina B6 ingerida
+              é secretada na urina, sob a forma de ácido 4-piridó-
+              xico (4-PA), sendo o resto eliminado, principalmente,
+              sob a forma de piridoxamina.

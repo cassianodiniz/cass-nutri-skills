@@ -1,0 +1,42 @@
+PDF_PHYSICAL_PAGE=136
+Capítulo 3 Interpretação de Exames de Importância em Nutrição para Doença Renal   107
+
+
+  3.6 INTERPRETAÇÃO METABÓLICA SOBRE TAXA E
+      FILTRAÇÃO GLOMERULAR
+
+        3.6.1           Introdução
+                        • O clearance de creatinina é o método mais utiliza-
+                          do para estimar o ritmo de filtração glomerular.
+                        • A estimativa do clearance da creatinina utilizando
+                          a equação de Cockcroft-Gault considera efeitos
+                          da idade, sexo e peso corporal e os valores en-
+                          contrados de creatinina sérica conforme fórmula a
+                          seguir:
+
+                              Ccr(mL/min) = [140 – idade (anos) × peso (kg)]
+                                    ÷ [crs (mg/dL) × 72] para homens
+
+                        *Para mulheres, multiplicar o resultado por 0,85.
+                        *crs = creatinina sérica.
+
+                            Na insuficiência renal crônica (IRC), com a perda
+                        progressiva da capacidade excretória renal, ou seja,
+                        com redução da filtração glomerular, uma variedade
+                        de solutos tóxicos, sobretudo provenientes do meta-
+                        bolismo de proteínas e aminoácidos, acumula-se no
+                        soro ou plasma. Os mais importantes quantitativamen-
+                        te são a ureia, com valor normal (VN) de 10 a 45 mg/
+                        dL, e a creatinina (VN = 0,5 a 1,2 mg/dL). Na prática,
+                        estima-se a filtração glomerular calculando-se a clea-
+                        rance (Ccr) ou depuração de creatinina.
+                            Como a quantidade de creatinina depende da
+                        massa muscular, o clearance deve ser corrigido pela
+                        superfície corporal, ou seja, o valor obtido deve ser
+                        dividido pela superfície corporal e o resultado multipli-
+                        cado por 1,73 m².
+                            Valor normal de creatinina: 80 a 120 mL/min/1,73 m².
+                            Esse metabólito, produzido constantemente pelos
+                        músculos, é eliminado em sua maior parte por filtração
+                        glomerular. Entretanto, com a redução progressiva da
+                        função renal, uma fração da creatinina é secretada

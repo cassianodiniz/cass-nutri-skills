@@ -1,52 +1,82 @@
 ---
 name: biodisp-nutrients
-description: "Use when answering questions about nutrient bioavailability, absorption, metabolism, nutrient interactions, or exact tables and values from the user's Cozzolino book corpus. Do not use to create a dietary prescription or claim current evidence without checking appropriate sources."
+description: "Use when answering questions about nutrient bioavailability, mechanisms, interactions, metabolism, tables, units, or values from the bundled Cozzolino book corpus."
 ---
 
 # Biodisponibilidade de Nutrientes
 
-Consulta o corpus local do livro de Cozzolino, com recuperação por página e
-conferência de proveniência. O plugin distribui esta integração; a transcrição e
-o índice do livro ficam privados no computador do usuário, fora do GitHub.
+© 2026 Cassiano Diniz. Skill criada por [Cassiano Diniz](https://instagram.com/cassiano.diniz).
 
-## Preparar ou retomar
+**Autores:** Silvia M. Franciscato Cozzolino (org.)
+**Páginas físicas:** 910 | **Capítulos:** 53
 
-Rode `python3 scripts/corpus_local.py localizar`, com o caminho deste script
-resolvido a partir da pasta deste SKILL.md. O comando confere integridade e mostra
-`corpus` e `instrucoes`; não faz pesquisa nem gera uma resposta sobre nutrientes.
+## Distribuição completa
 
-Se o corpus não estiver preparado, peça o arquivo `.skill` da cópia autorizada do
-usuário. Explique que será guardado em `~/.cass-book-biodisp-nutrients/corpus/`,
-fora do plugin, e execute `python3 scripts/corpus_local.py instalar --pacote
-<arquivo-local.skill>` quando o usuário autorizar essa preparação. Não baixe nem
-redistribua o livro por iniciativa própria. Não substitua uma instalação existente;
-`CASS_BIODISP_HOME` permite escolher outra pasta externa. Pacote inválido é recusado
-antes de instalar. Não trate falta de corpus como ausência de informação no livro.
+As fontes e referências acompanham esta skill. Resolva todos os caminhos a partir
+da pasta deste SKILL.md e execute os scripts originais nesta pasta. Não exija
+configuração em pastas externas nem arquivos adicionais do usuário para consultar
+o material incluído. Registros de paciente e saídas continuam fora do plugin.
 
-Se a conferência falhar, informe o erro e preserve o corpus existente. Não faça
-busca ou resposta factual com arquivos cuja integridade não foi confirmada.
+## Estado obrigatório
 
-## Consultar o livro
+Leia `metadata/extraction.json` antes de responder. Enquanto `release_allowed=false`, use a skill para localização e estudo, mas não apresente números, tabelas, fórmulas ou recomendações como verificados.
 
-Depois de localizar, leia integralmente o `SKILL.md` original apontado em
-`instrucoes` e `references/PROVENANCE.md` dentro do corpus. Execute o fluxo original
-da obra, usando os scripts e caminhos daquela pasta externa. O buscador, o índice
-e o conferente de proveniência são os originais, sem troca de motor.
+## Contrato obrigatório de proveniência
 
-1. Confira `metadata/extraction.json`; só apresente valores como verificados quando
-   a extração estiver liberada, conforme as instruções originais.
-2. Use `scripts/search_book.py` do corpus para localizar páginas. Um resumo ou
-   snippet não substitui a leitura da página usada como evidência.
-3. Registre a proveniência em arquivo temporário da sessão, fora da skill e do
-   projeto. Confira cada número/tabela na página exata e rode o conferente original
-   `scripts/check_answer_provenance.py`. Só responda depois de PASS.
-4. Preserve o contrato original: separar livro, inferência e eventual fonte externa;
-   não pesquisar fora automaticamente quando o dado não for localizado. Se o pedido
-   exigir evidência atual, diga que o livro é histórico e use fontes atuais acessíveis
-   com identificação explícita, sem atribuí-las ao livro.
-5. Se a ferramenta não permitir consulta local ou o conferente falhar, explique a
-   limitação; não alegue leitura, valor confirmado ou PASS que não ocorreram.
+1. Leia `references/PROVENANCE.md` antes de formular a resposta.
+2. As únicas fontes factuais do livro são `references/pages/`, `references/chapters/*-source.md` e `references/source/full-text.md`.
+3. Nunca trate conversa anterior, memória do modelo, saída do Claude, outra skill, `chapters/` ou `facts/` como prova do que o livro diz.
+4. Antes de toda resposta factual, crie o registro interno em `/tmp/`, nunca dentro da skill ou do projeto do usuário. Declare `Origem: livro`, `Origem: externa` ou `Não localizado no livro`.
+5. No registro interno, `Origem: livro` exige `Cozzolino (2012), PDF p. N` e `Evidência [PDF p. N]: trecho curto` copiado de `references/pages/page-NNNN.md`.
+6. Se houver conteúdo do livro e externo, separe-os no registro sob `Separação de fontes:`. Nunca misture silenciosamente.
+7. Use de 3 a 6 evidências centrais numa resposta normal. Execute `python3 scripts/check_answer_provenance.py <registro-interno.md>` uma vez depois de montar o registro e só responda após `PASS`.
+8. Na resposta ao usuário, omita por padrão o registro, a página e o trecho quando toda a resposta vier diretamente do livro.
+9. Mostre a proveniência quando o usuário pedir, quando houver conflito/ambiguidade ou quando a conferência explícita for necessária.
+10. Sempre avise visivelmente se usar fonte externa, se o dado não for localizado no livro ou se houver `Inferência:`.
+11. `scripts/test_provenance_guard.py` é teste de manutenção; não o execute durante uma resposta normal.
 
-A dieta permanece uma skill separada: esta consulta não muda quantidades, metas,
-fórmulas ou prescrições por iniciativa própria. Não publique transcrições integrais,
-corpus, índices ou registros privados no repositório do plugin.
+## Como encontrar dados
+
+Uma vitamina ou um mineral pode aparecer em muitos capítulos. O capítulo principal é o ponto de partida, não o limite da busca.
+
+1. Execute `python3 scripts/search_book.py "pergunta completa" --json --comprehensive`.
+2. Leia `detected_topics`, `coverage` e os resultados. O buscador faz duas passagens: prioriza o capítulo principal e varre globalmente todas as páginas por aliases cadastrados.
+3. Em perguntas focadas, use os resultados padrão. Em perguntas amplas — `interações`, `o que aumenta`, `o que diminui`, `tudo sobre` — use `--limit 20 --per-chapter 2`. A cobertura global já foi calculada; não repita a varredura com `rg`.
+4. Os resultados são diversificados por capítulo: a primeira rodada traz a melhor página de cada capítulo antes de repetir um capítulo. Não substitua isso pelos primeiros resultados em ordem de página.
+5. Abra somente os `page_path` efetivamente usados na resposta. `snippet` localiza o contexto; `evidence` é um trecho literal curto, pronto para o registro de proveniência. Não altere sua pontuação.
+6. Organize a síntese por mecanismo: capítulo principal, fatores que aumentam, fatores que reduzem, interação com outros nutrientes, condições clínicas e limites/incertezas.
+7. Para números e tabelas, use `facts/` apenas para localizar candidatos; confirme cada valor na página exata.
+8. Use `chapters/` somente como roteiro de navegação, nunca como evidência factual.
+9. Se a busca interna não sustentar a resposta, diga `Não localizado no livro`; só procure fora se o usuário pedir.
+
+### O que o índice garante
+
+- `references/search/topic-aliases.json` registra nomes equivalentes e o capítulo principal de cada nutriente.
+- `references/search/book-search.sqlite3` contém FTS5 e um mapa determinístico alias → página → capítulo.
+- `coverage.matching_pages` e `coverage.matching_chapters` contam todas as ocorrências delimitadas do tópico principal antes do recorte de resultados.
+- `source_scope=book-only` e `external_sources_used=false` deixam explícito que a recuperação não consultou a internet.
+- O mapa não cria relações por inteligência artificial. Uma interação só pode entrar na resposta quando estiver sustentada pela página aberta.
+
+### Atualizar o índice
+
+Se páginas ou aliases forem alterados, execute `python3 scripts/build_search_index.py`. Depois rode `python3 tests/test_retrieval_v2.py -v` e `python3 scripts/test_provenance_guard.py`.
+
+## Navegação por capítulos
+
+Use `references/INDEX.md` para a lista completa dos 53 capítulos e suas faixas de páginas. O índice é navegação; a evidência factual continua sendo `references/pages/`.
+
+## Arquivos
+
+- `references/source/full-text.md` — fonte integral recuperada e marcada por página.
+- `references/pages/` — uma página recuperada por arquivo para revisão e citação.
+- `references/chapters/` — fonte integral dividida por capítulo.
+- `references/PROVENANCE.md` — contrato que separa livro, fonte externa e inferência.
+- `references/search/topic-aliases.json` — aliases e capítulos principais.
+- `references/search/book-search.sqlite3` — índice local FTS5 e mapa de ocorrências.
+- `chapters/` — roteiros mecânicos sem autoridade factual.
+- `facts/` — índices mecânicos de candidatos; todo dado deve ser confirmado na página.
+- `reports/source-coverage.md` — cobertura e revisão.
+
+## Limites
+
+Esta é uma fonte histórica. O corpus integral e seus índices acompanham esta distribuição. Para decisão clínica, combine o livro com avaliação profissional e evidência atualizada.

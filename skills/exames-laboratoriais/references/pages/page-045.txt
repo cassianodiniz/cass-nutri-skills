@@ -1,0 +1,51 @@
+PDF_PHYSICAL_PAGE=45
+16                     Capítulo 1 Interpretação de Exames de Importância em Nutrição para Cardiopatias e/ou Hiperlipoproteinemias
+
+
+
+TABELA 1-6. Interpretação da colesterolemia: presença ou não de fatores de risco
+cardiovascular; interpretação clínica; sinal de alerta e proposta de conduta clínica
+para adultos
+
+  VALORES                 FATORES            INTERPRETAÇÃO              SINAIS DE
+  OBTIDOS                 DE RISCO           CLÍNICA                    ALERTA            CONDUTA CLÍNICA
+
+  Até 200 mg/dL           Ausente            Bom                        Verde             Observar
+
+  Até 200 mg/dL           Presente           Atenção!                   Amarelo           Controlar fator de risco
+
+  201 a 239 mg/dL         Ausente            Atenção!                   Amarelo           Avaliar dieta e exercícios
+
+  201 a 239 mg/dL         Presente           Cuidado!                   Vermelho          Avaliar dieta, exercícios,
+                                                                                          controlar fator de risco e,
+                                                                                          se indicado, medicamento
+
+  Acima de                Ausente            Cuidado!                   Vermelho          Avaliar dieta, exercícios
+  240 mg/dL                                                                               e, se indicado,
+                                                                                          medicamentos
+
+  Acima de 240            Presente           Muito cuidado e            “A coisa          Medicamento para retirar
+  mg/dL                                      atenção!                   está              da faixa de perigo, depois
+                                                                        preta!”           seguir os passos do sinal
+                                                                                          vermelho
+
+Fonte: Duarte, 2007.
+
+
+
+
+		HDL-C
+                          Esta fração apresenta um enorme poder antiate-
+                       rogênico, por transportar o colesterol dos tecidos
+                       periféricos para o fígado (Tabela 1-7).
+
+		LDL-C
+                           É constituído pelas moléculas lipídicas mais atero-
+                       gênicas no sangue e também é a mais importante via
+                       transportadora de colesterol para os tecidos, sendo
+                       assim, essencial; contudo, não deve ultrapassar os
+                       níveis aceitáveis (Tabela 1-8).
+                           No intuito de acompanhar pequenas alterações
+                       lípidicas, pode-se lançar mão da interpretação do
+                       Índice de Castelli 1, que correlaciona o colesterol total
+                       e o HDL-C, ou o Índice de Castelli 2, o qual estabelece

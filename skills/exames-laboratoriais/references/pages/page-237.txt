@@ -1,0 +1,56 @@
+PDF_PHYSICAL_PAGE=237
+208                                                Capítulo 6 Interpretação de Importância em Nutrição sobre Hemograma
+
+
+
+TABELA 6-3. Mapa conceitual para estudo de caso
+
+ PERFIL DO PACIENTE               HISTÓRICO MÉDICO                                CONDUTA DIETÉTICA
+
+ F.G.S., homem com 68             Acompanhante afirma que há 1 ano                Via de administração oral;
+   anos de idade, deu              e 5 meses procurou assistência                 Nutrientes:
+   entrada no HULW                 médica devido à palidez do                       macronutrientes
+   dia 27/10/2008;                 paciente, tendo sido diagnosticada               normais (DRIs, 2005),
+   eupineico; acianótico;          anemia. Foi realizado um exame                   Fracionamento em 6
+   anictérico; afebril e           parasitológico que detectou vermes.              refeições;
+   hipocorado. Apresenta           A anemia foi tratada com vermífugo             Horários: 3 em 3 h.
+   funções excretoras              e sulfato ferroso. Em março
+   normais e relata                continuou tomando Combiron®
+   boa aceitação da                Fólico devido à anemia, e quando
+   alimentação.                    parou a medicação solicitou um
+                                   parasitológico de fezes.
+
+
+TABELA 6-4. Exames realizados pelo paciente com os valores encontrados e seus
+respectivos valores de referência
+
+                             DIA            DIA            DIA             DIA                VALORES DE
+ EXAMES                     11/11          17/11          18/11           25/11               REFERÊNCIA
+
+ Hemácias                   4,28           3,43           3,37            3,72          4,5 a 6,0 milhões/mL
+
+ Hemoglobulina              10,8           9,05           8,91            9,59             12,8 a 17,8 g/dL
+
+ Hematócrito                33,4           27,7            27             29,6                40% a 52%
+
+ Ureia                      45,96         20,52           19,74           35,64             10 a 50 mg/dL
+
+ Creatinina                 0,92           0,95           0,78             0,82            0,4 a 1,2 mg/dL
+
+ Sódio                      144            142             142             135             132 a 150 meq/L
+
+ Potássio                    4,2            5,2            4,3             5,1             3,5 a 5,5 meq/L
+
+ Cálcio                     10,55          8,32           9,25             9,18            8,5 a 10,7 mg/dL
+
+ Glicose                      -           55,94              -               -                       -
+
+ Transaminase (TGP)         21,37            -               -               -                  < 40 U/L
+
+ Transaminase (TGO)         18,32            -               -               -                  < 41 U/L
+
+ Proteínas totais           6,63             -               -               -               6,0 a 8,3 g/dL
+
+ Albumina                    3,2             -               -               -               3,5 a 5,0 g/dL
+
+ Globulina                  3,37             -               -               -               1,5 a 3,2 g/dL

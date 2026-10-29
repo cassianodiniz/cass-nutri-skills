@@ -1,0 +1,42 @@
+PDF_PHYSICAL_PAGE=89
+60                       Capítulo 2 Interpretação de Exames de Importância em Nutrição para Diabetes Mellitus
+
+
+
+
+             Limitações e/ou interações
+                 Do teste de glicose no soro ou plasma: níveis ele-
+             vados de glicose são normais em estresse fisiológico:
+             o sangue total dá valores discretamente mais baixos.
+                 Do teste TTG: frequentemente utilizado para con-
+             firmação; pacientes ambulatoriais apenas; repouso no
+             leito ou estresse prejudica TTG; consumo inadequado
+             de carboidratos antes do teste invalida o resultado.
+
+
+2.3 EXAMES PARA MONITORAÇÃO
+
+                Princípios e recomendações: a glicose é medida
+             por procedimento químico automatizado.
+
+     2.3.1   Glicose sanguínea
+                A monitoração requer que o paciente acompanhe
+             a evolução do nível de glicose no sangue.
+
+     2.3.2   Frutosamina sérica
+                Avaliação a meio-termo do controle da glicose
+             através de medidas da proteína glicada no soro;
+             atualmente testada apenas no laboratório.
+
+     2.3.3   Hemoglobina glicosada no soro ou HbA1c-
+               Avalia o controle da glicose a longo prazo, atual-
+             mente é testada apenas no laboratório.
+
+             Interpretação
+                Da glicose sanguínea: o controle rígido do diabetes
+             requer monitoração frequente dos níveis de glicose.
+                Da frutosamina sérica: permite a avaliação dos
+             níveis médios de glicose para as primeiras 2 a 3
+             semanas.
+                Da hemoglobina glicosada no soro ou HbA1c-: pos-
+             sibilita a avaliação dos níveis médios de glicose para

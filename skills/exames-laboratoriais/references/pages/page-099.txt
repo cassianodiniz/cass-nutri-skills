@@ -1,0 +1,44 @@
+PDF_PHYSICAL_PAGE=99
+70              Capítulo 2 Interpretação de Exames de Importância em Nutrição para Diabetes Mellitus
+
+
+
+     passa do estado de “alimentado” para o estado de
+     “jejum”. Os níveis de insulina também diminuem, o
+     que mantém os níveis de glicose sanguínea em que-
+     da muito lenta. Além disso, a glicose armazenada é
+     liberada do fígado de volta à corrente sanguínea com
+     ajuda do glucagon, um hormônio que é também libe-
+     rado do pâncreas. Normalmente, a capacidade do or-
+     ganismo de balancear a glicose, insulina e glucagon
+     (e outros hormônios contrarreguladores) mantém os
+     níveis de glicose dentro da variação normal. O gluca-
+     gon propicia a defesa primária contra hipoglicemia;
+     sem ele não ocorre recuperação total. A epinefrina
+     não é necessária quando o glucagon está presente.
+     Na ausência de glucagon, entretanto, a epinefrina tem
+     importante papel.
+         A hipoglicemia só é a causa para qualquer sintoma
+     se os níveis sanguíneos forem determinados como
+     abaixo do normal no momento em que os sintomas
+     ocorrem.
+
+     Tipos de glicemia
+         Se os níveis de glicose sanguínea forem inferiores
+     aos limites normais em 2 a 5 horas após a refeição,
+     isso é geralmente referido como hipoglicemia reativa
+     (assim denominada porque o organismo está reagin-
+     do ao alimento), ou hipoglicemia pós-prandial.
+         A hipoglicemia pós-prandial pode ser causada
+     por hiperinsulinismo, hipoglicemia reativa hipoglicê-
+     mica ou síndromes raras, como intolerância hereditá-
+     ria à frutose, galactosemia ou sensibilidade à leucina.
+     O hiperinsulinismo alimentar é o tipo mais comum de
+     hipoglicemia pós-prandial documentada e é observa-
+     da em pacientes que se submeteram à gastrectomia
+     ou a algum outro tipo de cirurgia gástrica. Esses
+     procedimentos estão associados à rápida liberação
+     do alimento ao intestino delgado, rápida absorção de
+     glicose e resposta exagerada à insulina. Esses pa-
+     cientes respondem melhor a alimentações pequenas
+     e frequentes.

@@ -1,0 +1,49 @@
+PDF_PHYSICAL_PAGE=239
+210                                      Capítulo 6 Interpretação de Importância em Nutrição sobre Hemograma
+
+
+
+TABELA 6-5. Peso, altura, IMC e estado nutricional do paciente durante vários
+dias.
+
+ DIA             PESO (kg)     ALTURA (m)             IMC (kg/ m2)          ESTADO NUTRICIONAL
+
+ 30/09/08           57            1,60                    22,26                     Adequado
+
+ 02/10/08           56            1,60                    21,87                      Magreza
+
+ 07/10/08          55,3           1,60                    21,60                      Magreza
+
+ 09/10/08          55,9           1,60                    21,83                      Magreza
+
+
+
+
+               Circunferência média do braço = 78,17%
+                  Classificação: Desnutrição moderada
+               Circunferência muscular do braço = 40,58%
+                  Classificação: Desnutrição grave
+               Prega cutânea tricipital = 44,64%
+                  Classificação: Desnutrição grave
+               GEE = 2.105,86 kcal
+
+		Interpretação dos dados laboratoriais
+                   Os exames laboratoriais são importantes, pois per-
+               mitem acompanhar o estado nutricional do paciente,
+               resultando em uma melhor intervenção nutricional. Os
+               exames realizados pelo paciente em estudo durante
+               o período de internação estão listados no Tabela 6-5.
+                   O resultado do hemograma realizado mostra que o
+               paciente apresenta um quadro de anemia. As anemias
+               podem ter várias causas. Elas podem ocorrer devido a
+               falta ou baixa ingestão de ferro, vitamina B12 e ácido fó-
+               lico, perdas crônicas, sangramento do tubo digestivo,
+               inflamação do intestino e outras patologias que na fase
+               aguda apresentem sangramento (Costa, 2008).
+                   Os baixos valores de hemoglobina indicam que
+               a anemia do paciente pode ser resultante da baixa
+               ingestão de ferro. A hemoglobina é um pigmento en-
+               contrado nas hemácias que tem como função o trans-
+               porte de oxigênio. Devido à diminuição desse pig-
+               mento, houve diminuição do tamanho das hemácias
+               e concentração da hemoglobina, resultando assim

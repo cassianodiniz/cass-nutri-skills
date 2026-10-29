@@ -1,5 +1,11 @@
 # Alterações
 
+## 0.7.0
+
+- Distribuição completa das fontes, livros, páginas, tabelas, imagens e índices disponíveis, conforme pedido do usuário.
+- Consultas usam arquivos da skill instalada, sem configuração ou download separado de corpus.
+- Incluídos cinco PDFs originais: Cozzolino, Costa e os três documentos de nutrição com canetas.
+
 ## 0.6.0
 
 - Adicionada Exames Laboratoriais (`exames-laboratoriais`) a partir da skill local de Costa (2013).

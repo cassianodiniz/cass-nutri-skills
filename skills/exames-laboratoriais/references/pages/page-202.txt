@@ -1,0 +1,44 @@
+PDF_PHYSICAL_PAGE=202
+Capítulo 5 Interpretação Metabólica sobre Deficiências Vitamínicas          173
+
+
+                         critérios sanguíneos do estado bioquímico B1. Existe
+                         um método indireto capaz de estimar a atividade
+                         trancetolásica eritrocitária que se baseia na função da
+                         tiamina nessa reação.
+                             A trancetolase tem como coenzima a forma fosfo-
+                         rilada da vitamina B1, o TPP. A fim de compreender
+                         o grau de impregnação dessa enzima, vitamina B1-
+                         dependente, analisa-se a atividade trancetolásica
+                         eritrocitária, in vitro, antes e após adição de TPP. Os
+                         eritrócitos são os primeiros tecidos a serem afetados
+                         pela sua depleção.
+                             Uma deficiência biológica da vitamina traduz-se,
+                         em um primeiro momento, por uma diminuição da
+                         atividade basal da trancetolase eritrocitária (ETK),
+                         que evidencia o grau de impregnação dessa enzima
+                         por sua coenzima. A determinação da atividade tran-
+                         cetolásica eritrocitária, após adição de TPP (ETK+),
+                         permite calcular o coeficiente, a partir da fórmula
+                         α-ETK = ETK+/ETK–. O valor desse coeficiente traduz
+                         a afinidade da apoenzima pelo TPP e representa um
+                         indicador funcional do estado vitamínico B1.
+                             Apesar de ser considerado um bom teste de avalia-
+                         ção do estado vitamínico B1, deve-se lembrar que vá-
+                         rios fatores nutricionais e metabólicos podem, eventual-
+                         mente, alterar a síntese da apoenzima e a sua afinidade
+                         com a coenzima. Brubacher evidencia a possibilidade
+                         de uma redução da síntese da apoenzima em indiví-
+                         duos com baixos ou muito baixos níveis de vitamina B1,
+                         levando a um valor normal do coeficiente α-ETK.
+
+        5.2.2            Vitamina B2
+                             Dentre os testes disponíveis, atualmente, para se
+                         avaliar o estado vitamínico B2, a análise da sua forma
+                         ativa, flavina adenina dinudeotídeo (FAD), nos eritró-
+                         citos, e a determinação do coeficiente α-EGR (α-EGR
+                         = EGR saturada/ EGR basal) são os mais frequente-
+                         mente usados.
+                             Como para a vitamina B1, a relação entre a ativida-
+                         de basal e a atividade saturada da glutationa redutase
+                         traduz o caráter funcional da vitamina B2.

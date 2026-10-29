@@ -1,0 +1,43 @@
+PDF_PHYSICAL_PAGE=164
+Capítulo 4 Interpretação Metabólica sobre Exames de Importância nas Doenças Hepáticas   135
+
+
+  4.3 EXAMES LABORATORIAIS NAS DOENÇAS HEPÁTICAS
+
+                           A expressão laboratorial das doenças hepáticas é
+                        múltipla, pois a avaliação da agressão hepatocelular
+                        e a etiologia das doenças metabólicas são realizadas
+                        através de testes bioquímicos; os exames sorológi-
+                        cos definem os marcadores das hepatites virais; os
+                        anticorpos caracterizam as doenças autoimunes e o
+                        estudo da coagulação sanguínea pode demonstrar a
+                        reserva funcional parenquimatosa.
+                           Os principais testes de atividade bioquímica utili-
+                        zados para avaliação hepática podem ser classifica-
+                        dos em:
+                        a) Testes de avaliação de lesão de hepatócitos
+                           (ava­liam a lesão e a necrose celular):
+                           • Aminotransferases: alanina aminotransferase
+                               (ALT) e aspartato aminotransferase (AST).
+                           • Desidrogenase láctica (DHL).
+                        b) Testes de avaliação do fluxo biliar (que pode
+                           estar livre ou ocorrer colestase decorrente de obs-
+                           truções intra ou extra-hepáticas):
+                           • Gamaglutamiltransferase (GGT), enzima abun-
+                               dante na membrana das células do fígado, rins,
+                               pâncreas, intestino e próstata, que se eleva
+                               após o consumo de álcool e em quase todas as
+                               doenças hepáticas, não sendo útil para deter-
+                               minar a causa da doença hepática.
+                           • Bilirrubina total (BT) e frações (bilirrubina con-
+                               jugada ou direta (BD) e não conjugada ou in-
+                               direta (BI), cujo comportamento permite avaliar
+                               os pacientes que cursam com icterícia e as
+                               síndromes genéticas com hiperbilirrubinemia).
+                           • Fosfatase alcalina (FA), enzima cujos níveis
+                               séricos podem alterar-se por doenças colestáti-
+                               cas ou infiltrativas do fígado, por obstruções no
+                               sistema biliar, por doenças ósseas, medicações
+                               e tumores de origem hepática e não hepática.
+                        c) Testes de avaliação da síntese hepatocelular
+                           (avaliam a função de síntese hepática):

@@ -1,0 +1,46 @@
+PDF_PHYSICAL_PAGE=117
+88                Capítulo 2 Interpretação de Exames de Importância em Nutrição para Diabetes Mellitus
+
+
+
+         Recente intervenção com utilização do IG/CG
+     como estratégia revelou que os indivíduos que partici-
+     param do estudo puderam realizar mudanças dietéti-
+     cas segundo as recomendações sobre IG e CG; eles
+     selecionaram em suas dietas maiores quantidades
+     de porções de frutas na sua forma integral e leite e
+     derivados sem gordura.
+         Apesar de as atuais evidências serem inconsis-
+     tentes para concluir que dietas de baixos IG e CG
+     reduzem o risco de desenvolvimento de diabetes e de
+     ainda não haver consenso na comunidade científica
+     quanto à utilização desses conceitos, alimentos que
+     apresentam baixos valores de IG e CG são ricos em
+     fibras e outros nutrientes importantes, devendo ser
+     incentivados. Portanto, na prática clínica, a utilização
+     desses conceitos no contexto de uma alimentação
+     saudável e equilibrada pode ser uma boa estratégia.
+         Segundo Gouveia e Bruno (2001), ao se utilizar
+     tratamento com múltiplas doses de insulina o paciente
+     terá que definir qual a sua razão insulina × carboidrato,
+     isto é, de quantas unidades de insulina ultrarrápida ou
+     rápida precisará para cobrir os gramas de carboidrato.
+         Pode-se partir de uma regra geral em que uma
+     unidade de insulina cobre 15 g de carboidrato ou uma
+     substituição de carboidrato. Ou pode-se definir esta
+     razão partindo do peso corporal, de acordo com o
+     esquema a seguir.
+
+           PESO (kg)                 UNIDADES DE INSULINA: G DE CARBOIDRATO
+
+            45 a 49                                             1:16
+           49,5 a 58                                            1:15
+          58,5 a 62,5                                           1:14
+            63 a 67                                             1:13
+           67,5 a 76                                            1:12
+          76,5 a 80,5                                           1:11
+            81 a 85                                             1:10
+          85,5 a 89,5                                            1:9
+            90 a 98,5                                           1:8
+           99 a 107,5                                           1:7
+             ≥ 108                                              1:6

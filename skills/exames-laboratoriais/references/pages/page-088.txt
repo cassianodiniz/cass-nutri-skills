@@ -1,0 +1,43 @@
+PDF_PHYSICAL_PAGE=88
+Capítulo 2 Interpretação de Exames de Importância em Nutrição para Diabetes Mellitus   59
+
+
+  2.1 PRINCÍPIOS, RECOMENDAÇÕES, INTERPRETAÇÕES E
+      LIMITAÇÕES DOS EXAMES
+
+
+
+
+  2.2 EXAMES PARA DIAGNOSTICAR
+
+
+        2.2.1            Glicose no soro ou plasma
+                            Após jejum de 12 horas ou uma amostra randomi-
+                         zada do sangue.
+
+        2.2.2            Teste de tolerância à glicose (TTG)
+                            O teste TTG se realiza com o consumo de 75 g
+                         de glicose (durante a gravidez, entre a 24a e a 28a
+                         semana) administrados após o jejum: glicose sérica
+                         medida antes e cinco vezes durante 3 horas após a
+                         dose oral ou nos tempos 0 e 120 min após a ingestão.
+
+                         Interpretação
+                             Do teste de glicose no soro ou plasma: ≥ 2 níveis no
+                         jejum > 126 mg/dL são diagnósticos; nível randômico
+                         ≥ 200 seguido pelo nível do jejum > 126 é diagnósti-
+                         co. Níveis do jejum entre 110 e 126 indicam tolerância
+                         prejudicada à glicose (TPG) ou tolerância à glicose
+                         diminuída.
+                             Do teste TTG: níveis séricos > 200 em 2 horas é
+                         diagnóstico; em 2 horas o nível < 140 e todos os ní-
+                         veis entre 0 e 2 horas < 200 são normais: 140 a 199
+                         em 2 horas é um valor que indica TTG. O teste de
+                         diabetes gestacional pode ser realizado em uma ou
+                         duas etapas: em uma etapa, com base no TTG com
+                         75 g de glicose, com glicemia de jejum ≥ a 126 mg/
+                         dL; glicemia duas horas após 75 g ≥ a 140 mg/dL e
+                         no rastreamento com o teste de 50 gramas de glico-
+                         se uma hora após ≥ 185/dL. Em duas etapas, testes
+                         positivos de glicemia de jejum ≥ 85 mg/dL ou glicemia
+                         uma hora após 50 g de glicose ≥ 140 mg/dL.

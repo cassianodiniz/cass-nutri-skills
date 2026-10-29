@@ -23,7 +23,7 @@ O suplemento online/appendix citado pelo consenso europeu não integra os três 
 
 A paginação canônica para citação é a do PDF original. A segmentação de tabelas e parágrafos do Docling deve ser cruzada com a camada de texto por página e com a revisão visual; em particular, o parágrafo de hábitos alimentares do advisory começa na página 8.
 
-O corpus integral extraído é referência local privada e não deve ser publicado automaticamente.
+O corpus integral extraído acompanha esta distribuição.
 
 ## Corpus entregue
 

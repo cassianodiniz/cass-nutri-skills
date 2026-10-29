@@ -1,0 +1,42 @@
+PDF_PHYSICAL_PAGE=120
+Capítulo 2 Interpretação de Exames de Importância em Nutrição para Diabetes Mellitus   91
+
+
+                         essa etapa, os gramas de cada macronutrientes são
+                         somados em cada coluna. Ao final, o total de calorias
+                         e o percentual de calorias de cada macronutriente po-
+                         dem, então, ser determinados. Após esses cálculos,
+                         também são obtidas as quantidades e percentuais
+                         dos tipos de gordura, colesterol total e sódio da dieta.
+                         As escolhas e as trocas dos alimentos podem ser
+                         realizadas por meio da lista do sistema de equivalen-
+                         tes que foi elaborada e atualizada recentemente por
+                         grande parte dos autores deste livro (Costa, 2013).
+                             Na contagem de carboidratos, multiplica-se a
+                         quantidade distribuída do equivalente de alimento
+                         para a refeição pela quantidade equivalente de
+                         carboidrato. Ao final, o total de equivalentes de car-
+                         boidrato em cada refeição dará o percentual de ade-
+                         quação da contagem e suas respectivas unidades de
+                         insulina, sendo proposta uma distribuição percentual
+                         das refeições da seguinte forma: desjejum (15%), lan-
+                         che (10%), almoço (30%), lanche (10%), jantar (25%)
+                         e ceia (10%).
+                             A seguir, demonstramos um exemplo prático de
+                         como trabalhar com a planilha de equivalentes. Para
+                         essa finalidade, considerou-se uma oferta calórica
+                         de 2.000 kcal/dia. Realiza-se, inicialmente, o cálculo
+                         das calorias e a composição de macronutrientes da
+                         dieta com base nas recomendações para o indivíduo,
+                         a depender da situação patológica. Em seguida, es-
+                         tabelecem-se os equivalentes tentando se aproximar
+                         ao máximo das recomendações de uma alimentação
+                         equilibrada, respeitando os limites do paciente em
+                         relação à doença e a seus hábitos alimentares.
+
+
+
+
+  2.7 CASO CLÍNICO COMENTADO
+
+                               Ver Tabelas 2-8 e 2-9.

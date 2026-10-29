@@ -1,0 +1,18 @@
+{
+  "version": 1,
+  "items": [
+    {
+      "source_file": "/Users/cassianodiniz/Downloads/Nutritional priorities to support GLP-1 therapy for obesity.pdf",
+      "filename": "Nutritional priorities to support GLP-1 therapy for obesity.pdf",
+      "page": 7,
+      "visible_chars": null,
+      "reasons": [
+        "embedded_image"
+      ],
+      "image": "Nutritional-priorities-to-support-GLP-1-therapy-for-obesity/page-0007.png",
+      "status": "recovered",
+      "resolution_file": "recoveries/advisory-p0007.md",
+      "notes": "Figura 1 e Tabela 4 conferidas visualmente. Oito prioridades e os cinco passos recuperados; nota Ask preservada. Segmentação de parágrafo da página 8 documentada."
+    }
+  ]
+}

@@ -1,0 +1,52 @@
+PDF_PHYSICAL_PAGE=122
+Capítulo 2 Interpretação de Exames de Importância em Nutrição para Diabetes Mellitus                            93
+
+
+TABELA 2-8. Mapa conceitual para estudo de caso
+
+  PERFIL DO PACIENTE                   HISTÓRICO MÉDICO                     DADOS LABORATORIAIS
+
+  Homem, com 51                        Paciente com                         14/11/2008 e 25/11/2008
+   anos de idade, deu                    diabetes mellitus                  – Glicemia de jejum: 306,02 mg/dL e
+   entrada no HULW                       descompensado;                       143 mg/dL (diabetes); Normal: 70 a
+   dia 13/11/2008;                       doença intestinal                    99 mg/dL**
+   eupineico; acianótico;                disabsortiva; pólipo               – Ureia: 34,19 mg/dL e 20,68 mg/dL
+   anictérico; afebril;                  retal estirpado,                     (normal); Normal: 10 a 45 mg/dL***
+   consciente e                          afirmado por                       – Creatinina: 0,58 mg/dL e 0,53 mg/dL
+   orientado; apresenta                  colonoscopia; possui                 (normal); Normal: 0,5 a 1,2 mg/dL***
+   diarreia líquido-                     histórico de etilismo,             – Proteínas totais: 6,92 g/dL e 7,15 g/
+   pastosa; anorexia;                    relatando ter deixado                dL; Normal: 6,0 a 8,5 g/dL
+   perda de peso (5                      de beber há cinco                  – Albumina: 3,75 g/dL e 3,68 g/dL
+   kg em 5 meses);                       anos; hipertensão na                 (normal); Normal: 3,5 a 5 g/dL*
+   tonturas; cefaleia;                   família.                           – Globulina: 3,17 g/dL e 3,47g/dL
+   edema; pirose;                      PA: 100/60 mmHg.                       (elevado); Normal: 1,5 a 3,0 g/dL
+   insônia; convulsões de                                                   – Sódio: 141 mEq/L e 142 mEq/L
+   membros inferiores e                                                       (normal); Normal: 135 a 145 mEq/L*
+   diminuição da força.                                                     – Potássio: 4,8 mEq/L e 4,5 mEq/L
+                                                                              (normal); Normal: 3,5 a 5,1 mEq/L*
+                                                                            – Colesterol total: 108,1 mg/dL e 120,3
+                                                                              mg/dL (desejável); Desejável: < 200
+                                                                              mg/dL*
+                                                                            – HDL: 42,6 mg/dL e 37mg/dL (baixo);
+                                                                              Desejável: > 45*
+                                                                            – LDL: 49,7 mg/dL e 69,6 mg/dL
+                                                                              (Desejável); Desejável: < 100 mg/
+                                                                              dL*
+                                                                            – TGL: 79,2 mg/dL e 68,5 mg/dL
+                                                                              (desejável); Normal: < 150 mg/dL*
+
+* Valores de referência segundo Krause, 2005.
+** Valores de referência segundo Sociedade Brasileira de Diabetes, 2008.
+*** Valores de referência segundo Cuppari, 2005.
+
+
+
+
+TABELA 2-9. Continuação do mapa conceitual para estudo de caso
+
+  CONDUTA DIETÉTICA                                                 MEDICAÇÕES
+
+  Via de administração oral;                                        Insulina: 34 UI e 16 UI à noite
+  Nutrientes: macronutrientes normais (DRIs,
+  2001), fracionamento em 6 refeições;
+  Horários: 3 em 3 h.

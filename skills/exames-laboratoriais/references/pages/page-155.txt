@@ -1,0 +1,43 @@
+PDF_PHYSICAL_PAGE=155
+126                 Capítulo 3 Interpretação de Exames de Importância em Nutrição para Doença Renal
+
+
+
+       ao cardápio realizou-se o seguinte cálculo, segundo
+       Costa et al (2000):
+          Grupo de carne em geral = 7 g de PTN/porção
+          E, segundo a tabela de composição química dos
+       alimentos de Guilherme Franco, a soja crua possui
+       36,10 g de PTN em 100 g.
+          Então:
+          100g --- 36,10 g de PTN
+          Xg      --- 7 g de PTN
+          → X = 19,39 ~ 20 g de carne de soja
+
+       Colação
+       • Gelatina – 1 porção média ~ 50 g → 1 Eq
+
+          A introdução da soja ou de qualquer outra legumi-
+       nosa deve ser recomendada devido à sua importância
+       no tratamento de pessoas com problemas renais, pois
+       nelas há, provavelmente, menor concentração de fós-
+       foro, que contribui para desacelerar a progressão da
+       insuficiência renal, diminuindo a deposição de fosfato
+       de cálcio no tecido renal, o qual pode causar lesão
+       renal (Costa et al., 2008).
+          Observação: Cálculo efetuado com a ficha de
+       equivalentes de cálculo para paciente renal conside-
+       rando-se a adequação de ácidos graxos monoinsa-
+       turados, poli-insaturados e saturados, além de coles-
+       terol, sódio, potássio e fósforo, segundo Costa et al.,
+       2000, e ficha atualizada em 2005.
+
+		Balanço hídrico (BH)
+          BH = 1.000 – 500 + diurese de 24 h
+          BH = 1.000 – 500 + 500
+          BH = 1.000 mL = 1 L
+
+		Cálculo do sódio
+          1.000 mg de NaCl      ---- 400 mg de Na
+          		     X 		           ---- (2.500 mg – 1.395 mg)
+          → X = 2.762,5 mg de NaCl ~ 3 g

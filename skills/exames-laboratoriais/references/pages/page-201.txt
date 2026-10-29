@@ -1,0 +1,45 @@
+PDF_PHYSICAL_PAGE=201
+172                                 Capítulo 5 Interpretação Metabólica sobre Deficiências Vitamínicas
+
+
+
+                  Em se tratando das vitaminas lipossolúveis, o
+              preenchimento de um inquérito alimentar diário, du-
+              rante várias semanas, seria necessário, porém, essa
+              é uma tarefa impossível de se realizar com indivíduos
+              em grande parte ocupados por sua vida ativa, e, por
+              outro lado, seria difícil obter um preenchimento com
+              menor margem de erro.
+                  Enfim, mesmo considerando os limites do méto-
+              do de inquérito alimentar de sete dias, ele constitui,
+              ainda, uma das melhores técnicas de avaliação do
+              consumo individual, permitindo personalizar o perfil
+              vitamínico alimentar de cada indivíduo e evidenciar as
+              diferenças interindivíduos e intergrupos.
+                  Vários parâmetros são habitualmente utilizados
+              para avaliar o estado bioquímico de diferentes vitami-
+              nas: concentração das formas circulantes das vitami-
+              nas; excreção urinária das vitaminas ou de seus me-
+              tabólitos; determinação do coeficiente de ativação de
+              uma enzima, na qual a forma ativa da vitamina exerce
+              uma função de cofator indispensável; teste de “sobre-
+              carga” de nutriente, em que a utilização metabólica
+              é dependente da vitamina, havendo avaliação das
+              concentrações de diferentes metabólitos sanguíneos
+              que caracterizam o nível dessa utilização; e, por fim,
+              testes terapêuticos, que permitem corrigir os sinais
+              clínicos de carência.
+
+
+5.2 MÉTODOS DE AVALIAÇÃO BIOQUÍMICA DO
+    ESTADO VITAMÍNICO
+
+
+      5.2.1   Vitamina B1
+                 Para analisar o estado vitamínico bioquímico B1, os
+              métodos de avaliação diretos são representados pela
+              análise microbiológica e espectrofluorimétrica da tia-
+              mina, no sangue total, e a análise da forma ativa da tia-
+              mina (TPP) eritrocitária, utilizando-se o método HPLC.
+              Considera-se, atualmente, a concentração eri­trocitária
+              da forma fosforilada da tiamina como um dos melhores

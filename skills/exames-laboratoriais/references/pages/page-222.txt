@@ -1,0 +1,43 @@
+PDF_PHYSICAL_PAGE=222
+Capítulo 6 Interpretação de Importância em Nutrição sobre Hemograma       193
+
+
+                        Função: Avaliação das séries vermelhas, branca e
+                        plaquetas.
+                            Os dados fornecidos pelo hemograma são essen-
+                        ciais na investigação das doenças hematológicas. O
+                        hemograma constitui um importante exame laborato-
+                        rial que permite avaliar o estado de saúde geral de
+                        um indivíduo. As alterações observadas nesse exame
+                        permitem ao médico avaliar patologias relacionadas
+                        às séries vermelha (anemias, policitemia, malária),
+                        branca (leucemias, infecções diversas) e plaquetas
+                        (púrpuras, trombocitopenias) e relacioná-las aos
+                        achados clínicos observados no paciente.
+                            No hemograma a série vermelha, a série branca e
+                        plaquetas são avaliadas quanto ao número e à cito-
+                        morfologia. Para a série vermelha, são analisados os
+                        seguintes parâmetros: contagem de eritrócitos (hemá-
+                        cias), valor do hematócrito, quantidade de hemoglo-
+                        bina, volume corpuscular Médio (VCM), hemoglobina
+                        corpuscular média (HCM) e concentração de hemo-
+                        globina corpuscular média (CHCM); com respeito à
+                        série branca, são analisados os leucócitos.
+
+
+  6.1 VALORES LABORATORIAIS DE REFERÊNCIA
+
+                           Na Tabela 6-1 são apresentados os valores de re-
+                        ferência do hemograma segundo Korolkovas (2008).
+
+
+  6.2 SÉRIE VERMELHA
+
+
+		Hematimetria
+                            Para verificação do número total de eritrócitos por
+                        mL de sangue realiza-se a hematimetria, cujos va-
+                        lores de referência variam de acordo com a idade e
+                        o sexo, devendo apresentar 4.500.000 a 6.000.000
+                        para homens, 4.000.000 a 5.500.000 para mulheres e
+                        5.000.000 a 7.000.000 para recém-nascidos. Em geral,

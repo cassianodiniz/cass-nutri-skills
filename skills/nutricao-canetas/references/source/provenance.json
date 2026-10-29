@@ -1,0 +1,29 @@
+[
+  {
+    "chapter": "ch01",
+    "filename": "Consensus Statement (análogos de GLP-1).pdf",
+    "original_path": "references/source/ch01-original.pdf",
+    "sha256": "f0ae496e90142b66a96bc18f0384badcd867f79b561be786a19e92d1d7fc8733",
+    "pages": 24,
+    "global_start": 1,
+    "global_end": 24
+  },
+  {
+    "chapter": "ch02",
+    "filename": "Nutritional priorities to support GLP-1 therapy for obesity.pdf",
+    "original_path": "references/source/ch02-original.pdf",
+    "sha256": "52c47038a7d9a5fa025b88f08909fdab5d456ef78f88a017667a34e65c681bc5",
+    "pages": 24,
+    "global_start": 25,
+    "global_end": 48
+  },
+  {
+    "chapter": "ch03",
+    "filename": "Bridging the nutrition guidance gap for GLP-1 receptor agonist therapy assisted weight loss.pdf",
+    "original_path": "references/source/ch03-original.pdf",
+    "sha256": "133d7ae41c081f435a7103e41461686ce7869f0f3454a8d53bb5d43d274461b5",
+    "pages": 3,
+    "global_start": 49,
+    "global_end": 51
+  }
+]

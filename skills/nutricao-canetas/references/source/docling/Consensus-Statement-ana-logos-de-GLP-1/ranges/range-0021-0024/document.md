@@ -1,0 +1,156 @@
+- 59 Stefanakis K, Kokkorakis M, Mantzoros CS. The impact of weight loss on fat-free mass, muscle, bone and hematopoiesis health: implications for emerging pharmacotherapies aiming at fat reduction and lean mass preservation. Metabolism 2024; 161: 156057 .
+- 60 He L, Li Q, Yang Y, et al. Pharmacovigilance study of GLP-1 receptor agonists for metabolic and nutritional adverse events. Front Pharmacol 2024; 15: 1416985.
+- 61 Carlsen H, Pajari AM. Dietary fiber-a scoping review for Nordic Nutrition Recommendations 2023. Food Nutr Res 2023; 67: 9979.
+- 62 European Food Safety Authority Panel on Dietetic Products, Nutrition and Allergies. Scientific opinion on dietary reference values for carbohydrates and dietary fibre. EFSA J 2016; 8: 1462.
+- 63 van der Schoot A, Drysdale C, Whelan K, Dimidi E. The effect of fiber supplementation on chronic constipation in adults: an updated systematic review and meta-analysis of randomized controlled trials. Am J Clin Nutr 2022; 116: 953-69.
+- 64 Dimidi E, van der Schoot A, Barrett K, et al. British Dietetic Association Guidelines for the Dietary Management of Chronic Constipation in Adults. J Hum Nutr Diet 2025; 38: e70133.
+- 65 Markland AD, Palsson O, Goode PS, Burgio KL, Busby-Whitehead J, Whitehead WE. Association of low dietary intake of fiber and liquids with constipation: evidence from the National Health and Nutrition Examination Survey. Am J Gastroenterol 2013; 108: 796-803.
+- 66 Wang DC, Peng XF, Chen WX, Yu M. The association of moisture intake and constipation among US adults: evidence from NHANES 2005-2010. BMC Public Health 2025; 25: 399.
+- 67 European Food Safety Authority Panel on Dietetic Products, Nutrition and Allergies. Scientific opinion on dietary reference values for water. EFSA J 2016; 8: 1459.
+- 68 Cederholm T, Bosaeus I. Malnutrition in adults. N Engl J Med 2024; 391: 155-65.
+- 69 Allen LH. Micronutrients-assessment, requirements, deficiencies, and interventions. N Engl J Med 2025; 392: 1006-16.
+- 70 Dobbie LJ, Parretti HM, Fallows E, et al. Ten top tips for the management of GLP-1 receptor agonists in adults within primary care. Obes Facts 2025; 18: 535-40.
+- 71 Seier S, Stamp-Larsen K, Jensen SBK, Torekov SS, Gudbergsen H. Treat to target in weight management with semaglutide: real-world evidence from an eHealth clinic. Diabetes Obes Metab 2025; 27: 6979-87 .
+- 72 Jalleh RJ, Marathe CS, Rayner CK, et al. Physiology and pharmacology of effects of GLP-1-based therapies on gastric, biliary and intestinal motility. Endocrinology 2024; 166: 155.
+- 73 Winzeler B, Sailer CO, Coynel D, et al. A randomized controlled trial of the GLP-1 receptor agonist dulaglutide in primary polydipsia. J Clin Invest 2021; 131: e151800.
+- 74 Lambert K, Neale E, Nichols L, et al. Interventions for improving adherence to dietary salt and fluid restrictions in people with chronic kidney disease (stage 4 and 5). Cochrane Database Syst Rev 2022; 10: CD015181.
+- 75 Heidenreich PA, Bozkurt B, Aguilar D, et al. 2022 AHA/ACC/ HFSA Guideline for the Management of Heart Failure: a report of the American College of Cardiology/American Heart Association Joint Committee on clinical practice guidelines. J Am Coll Cardiol 2022; 79: e263-421.
+- 76 Hobson RM, Maughan RJ. Hydration status and the diuretic action of a small dose of alcohol. Alcohol Alcohol 2010; 45: 366-73.
+- 77 Mehta RL, Burdmann EA, Cerdá J, et al. Recognition and management of acute kidney injury in the International Society of Nephrology 0by25 Global Snapshot: a multinational cross-sectional study. Lancet 2016; 387: 2017-25.
+- 78 Natale P, Green SC, Tunnicliffe DJ, Pellegrino G, Toyama T, Strippoli GFM. Glucagon-like peptide 1 (GLP-1) receptor agonists for people with chronic kidney disease and diabetes. Cochrane Database Syst Rev 2025; 2: CD015849.
+- 79 Dong S, Sun C. Can glucagon-like peptide-1 receptor agonists cause acute kidney injury? An analytical study based on post-marketing approval pharmacovigilance data. Front Endocrinol 2022; 13: 1032199.
+- 80 Fishkin A, Rozenberg A, Schechter M, et al. Kidney outcomes with glucagon-like peptide-1 receptor agonists versus other glucoselowering agents in people with type 2 diabetes: a systematic review and meta-analysis of real-world data. Diabetes Metab Res Rev 2025; 41: e70066.
+- 81 Veronese N, Gianfredi V, Solmi M, et al. The impact of dietary fiber consumption on human health: an umbrella review of evidence from 17 155 277 individuals. Clin Nutr 2025; 51: 325-33.
+- 82 Zhang W, Fan M, Wang C, et al. Hair loss after metabolic and bariatric surgery: a systematic review and meta-analysis. Obes Surg 2021; 31: 2649-59.
+- 83 Desai DD, Sikora M, Nohria A, et al. GLP-1 agonists and hair loss: a call for further investigation. Int J Dermatol 2024; 63: 1128-30.
+- 84 Pacei F, Tesone A, Laudi N, et al. The relevance of thiamine evaluation in a practical setting. Nutrients 2020; 12: 1-17 .
+- 85 Karimi Behnagh A, Eghbali M, Abdolmaleki F, Abbasi M, Mottaghi A. Pre- and post-surgical prevalence of thiamine deficiency in patients undergoing bariatric surgery: a systematic review and meta-analysis. Obes Surg 2024; 34: 653-65.
+- 86 Gras C, De Wit V, Oussedik N, et al. Semaglutide-induced Wernicke encephalopathy: a comprehensive analysis. Eur J Clin Nutr 2025; 79: 1160-63.
+- 87 Chiang CH, Jaroenlapnopparat A, Colak SC, et al. Glucagon-like peptide-1 receptor agonists and gastrointestinal adverse events: a systematic review and meta-analysis. Gastroenterology 2025; 169: 1268-81.
+- 88 Barazzoni R, Gortan Cappellari G. Double burden of malnutrition in persons with obesity. Rev Endocr Metab Disord 2020; 21: 307-13.
+- 89 Churuangsuk C, Griffiths D, Lean MEJ, Combet E. Impacts of carbohydrate-restricted diets on micronutrient intakes and status: a systematic review. Obes Rev 2019; 20: 1132-47 .
+- 90 Carrillo-Álvarez E. Perspective: food and nutrition insecurity in Europe: challenges and opportunities for dietitians. Adv Nutr 2023; 14: 995-1004.
+- 91 ElSayed NA, McCoy RG, Aleppo G, et al. 13. Older adults: standards of care in diabetes-2025. Diabetes Care 2025; 48 (suppl 1) : S266-82.
+- 92 Kanai R, Kinoshita S, Kanbe I, et al. Once-weekly semaglutide administered after laparoscopic sleeve gastrectomy: effects on body weight, glycemic control, and measured nutritional metrics in Japanese patients having both obesity and type 2 diabetes. Obes Pillars 2024; 9: 100098.
+- 93 Spreckley M, Ruggiero CF, Brown A. Bridging the nutrition guidance gap for GLP-1 receptor agonist therapy assisted weight loss: lessons from bariatric surgery. Int J Obes 2025; 2025: 1-3.
+- 94 Bal BS, Finelli FC, Shope TR, Koch TR. Nutritional deficiencies after bariatric surgery. Nat Rev Endocrinol 2012; 8: 544-56.
+- 95 Mechanick JI, Apovian C, Brethauer S, et al. Clinical practice guidelines for the perioperative nutrition, metabolic, and nonsurgical support of patients undergoing bariatric procedures-2019 update: cosponsored by American Association of Clinical Endocrinologists/American College of Endocrinology, the Obesity Society, American Society for Metabolic &amp; Bariatric Surgery, Obesity Medicine Association, and American Society of Anesthesiologists. Surg Obes Relat Dis 2020; 16: 175-247 .
+- 96 O'Kane M, Parretti HM, Pinkney J, et al. British Obesity and Metabolic Surgery Society Guidelines on Perioperative and Postoperative Biochemical Monitoring and Micronutrient Replacement for Patients Undergoing Bariatric Surgery2020 update. Obes Rev 2020; 21: e13087 .
+- 97 O'Brien PE, MacDonald L, Anderson M, Brennan L, Brown WA. Long-term outcomes after bariatric surgery: fifteen-year follow-up of adjustable gastric banding and a systematic review of the bariatric surgical literature. Ann Surg 2013; 257: 87-94.
+- 98 Cohen RV, Busetto L, Levinson R, et al. International Consensus Position Statement on the Role of Obesity Management Medications in the Context of Metabolic Bariatric Surgery: expert guideline by the International Federation for the Surgery of Obesity and Metabolic Disorders (IFSO). Br J Surg 2024; 111: znae283.
+- 99 Skipper A, Coltman A, Tomesko J, et al. Position of the Academy of Nutrition and Dietetics: malnutrition (undernutrition) screening tools for all adults. J Acad Nutr Diet 2020; 120: 709-13.
+- 100	 Petra G, Kritsotakis EI, Gouvas N, et al. Multicentre prospective study on the diagnostic and prognostic validity of malnutrition assessment tools in surgery. Br J Surg 2025; 112: znaf013.
+- 101 van Vliet IMY, Gomes-Neto AW, de Jong MFC, Bakker SJL, Jager-Wittenaar H, Navis GJ. Malnutrition screening on hospital admission: impact of overweight and obesity on comparative performance of MUST and PG-SGA SF. Eur J Clin Nutr 2021; 75: 1398-406.
+
+- 102	 De Groot LM, Lee G, Ackerie A, van der Meij BS. Malnutrition screening and assessment in the cancer care ambulatory setting: mortality predictability and validity of the patient-generated subjective global assessment short form (PG-SGA SF) and the GLIM criteria. Nutrients 2020; 12: 1-13.
+- 103	 Jensen GL, Cederholm T, Correia MITD, et al. GLIM consensus approach to diagnosis of malnutrition: a 5-year update. JPEN J Parenter Enteral Nutr 2025; 49: 414-27 .
+- 104	 Cederholm T, Jensen GL, Correia MITD, et al. GLIM criteria for the diagnosis of malnutrition-a consensus report from the global clinical nutrition community. Clin Nutr 2019; 38: 1-9.
+- 105	 Cristancho C, Mogensen KM, Robinson MK. Malnutrition in patients with obesity: an overview perspective. Nutr Clin Pract 2024; 39: 1300-16.
+- 106	 Compher C, Cederholm T, Correia MITD, et al. Guidance for assessment of the muscle mass phenotypic criterion for the Global Leadership Initiative on Malnutrition diagnosis of malnutrition. JPEN J Parenter Enteral Nutr 2022; 46: 1232-42.
+- 107 Uhlmann K, Schaller F, Lehmann U. Current practice of assessing and monitoring muscle strength, muscle mass and muscle function during nutritional care by dietitians in Switzerland-an online survey. Nutrients 2022; 14: 1741.
+- 108	 Espinosa-Salas S, Gonzalez-Arias M. Nutrition: micronutrient intake, imbalances, and interventions. StatPearls, 2023.
+- 109	 Astrup A, Bügel S. Overfed but undernourished: recognizing nutritional inadequacies/deficiencies in patients with overweight or obesity. Int J Obes 2019; 43: 219-32.
+- 110 Jun S, Cowan AE, Bhadra A, et al. Older adults with obesity have higher risks of some micronutrient inadequacies and lower overall dietary quality compared to peers with a healthy weight, National Health and Nutrition Examination Surveys (NHANES), 2011-2014. Public Health Nutr 2020; 23: 2268-79.
+- 111 Baldwin C, Smith R, Gibbs M, Weekes CE, Emery PW. Quality of the evidence supporting the role of oral nutritional supplements in the management of malnutrition: an overview of systematic reviews and meta-analyses. Adv Nutr 2021; 12: 503-22.
+- 112 Busetto L, Dicker D, Azran C, et al. Practical Recommendations of the Obesity Management Task Force of the European Association for the Study of Obesity for the Post-Bariatric Surgery Medical Management. Obes Facts 2017; 10: 597-632.
+- 113 Drummen M, Tischmann L, Gatta-Cherifi B, et al. High compared with moderate protein intake reduces adaptive thermogenesis and induces a negative energy balance during long-term weight-loss maintenance in participants with prediabetes in the postobese state: a PREVIEW study. J Nutr 2020; 150: 458-63.
+- 114 Neeland IJ, Linge J, Birkenfeld AL. Changes in lean body mass with glucagon-like peptide-1-based therapies and mitigation strategies. Diabetes Obes Metab 2024; 26 (suppl 4) : 16-27 .
+- 115 Melville H, Lister NB, Libesman S, et al. The prevalence of eating disorders and disordered eating in adults seeking obesity treatment: a systematic review with meta-analyses. Int J Eat Disord 2025; 58: 1644-61.
+- 116 Nagata JM, Garber AK, Tabler JL, Murray SB, Bibbins-Domingo K. Prevalence and correlates of disordered eating behaviors among young adults with overweight or obesity. J Gen Intern Med 2018; 33: 1337-43.
+- 117 Duncan AE, Ziobrowski HN, Nicol G. The prevalence of past 12-month and lifetime DSM-IV eating disorders by BMI category in US men and women. Eur Eat Disord Rev 2017; 25: 165-71.
+- 118 Aoun L, Almardini S, Saliba F, et al. GLP-1 receptor agonists: a novel pharmacotherapy for binge eating (binge eating disorder and bulimia nervosa)? A systematic review. J Clin Transl Endocrinol 2024; 35: 100333.
+- 119 Radkhah H, Rahimipour Anaraki S, Parhizkar Roudsari P, et al. The impact of glucagon-like peptide-1 (GLP-1) agonists in the treatment of eating disorders: a systematic review and metaanalysis. Eat Weight Disord 2025; 30: 10.
+- 120	 Bartel S, McElroy SL, Levangie D, Keshen A. Use of glucagon-like peptide-1 receptor agonists in eating disorder populations. Int J Eat Disord 2024; 57: 286-93.
+- 121 House ET, Lister NB, Seidler AL, et al. Identifying eating disorders in adolescents and adults with overweight or obesity: a systematic review of screening questionnaires. Int J Eat Disord 2022; 55: 1171-93.
+- 122	 Chen X, Zhao P, Wang W, Guo L, Pan Q. The antidepressant effects of GLP-1 receptor agonists: a systematic review and meta-analysis. Am J Geriatr Psychiatry 2024; 32: 117-27 .
+- 123	 Breit S, Hubl D. The effect of GLP-1RAs on mental health and psychotropics-induced metabolic disorders: a systematic review. Psychoneuroendocrinology 2025; 176: 107415.
+- 124	 Plenn E, Amin D, Henry J, Leavitt G, Walker J, Soleymani T. A qualitative analysis of patient experiences using semaglutide 2·4 mg for weight loss. Obes Sci Pract 2025; 11: e70085.
+- 125	 Brown A, Flint SW. 'My words would have more weight': exploring weight stigma in UK dietetic practice and dietitian's lived experiences of weight stigma. J Hum Nutr Diet 2024; 37: 1143-58.
+- 126	 Lawrence BJ, Kerr D, Pollard CM, et al. Weight bias among health care professionals: a systematic review and meta-analysis. Obesity 2021; 29: 1802-12.
+- 127	 Post SM, Stock ML, Persky S. Comparing the impact of GLP-1 agonists vs lifestyle interventions and weight controllability information on stigma and weight-related cognitions. Int J Behav Med 2025; 32: 528-40.
+- 128	 Naveed M, Perez C, Ahmad E, Russell L, Lees Z, Maybury C. GLP-1 medication and weight loss: Barriers and motivators among 1659 participants managed in a virtual setting. Diabetes Obes Metab 2025; 27: 3780-88.
+- 129	 Jung FUCE, Luck-Sikorski C, Wiemers N, Riedel-Heller SG. Dietitians and nutritionists: stigma in the context of obesity. a systematic review. PLoS One 2015; 10: e0140276.
+- 130	 Hanson P, Shuttlewood E, Halder L, et al. Application of mindfulness in a tier 3 obesity service improves eating behavior and facilitates successful weight loss. J Clin Endocrinol Metab 2019; 104: 793-800.
+- 131 Kudlek L, Eustachio Colombo P, Mueller J, et al. Individual participant data meta-analysis of eating behaviour traits as effect modifiers in acceptance and commitment therapy-based weight management interventions. Int J Obes 2025; 49: 1142-52.
+- 132	 Post SM, Persky S. The effect of GLP-1 receptor agonist use on negative evaluations of women with higher and lower body weight. Int J Obes 2024; 48: 1019-26.
+- 133	 Despain D, Hoffman BL. Optimizing nutrition, diet, and lifestyle communication in GLP-1 medication therapy for weight management: a qualitative research study with registered dietitians. Obes Pillars 2024; 12: 100143.
+- 134	 Osborne D, Abdelgadir E. Mental health outcomes in obesity interventions with GLP-1 receptor agonists: is it similar to other obesity interventions? A narrative review with systematic evidence synthesis. Int J Obes 2026; published online Jan 5. https://doi. org/10.1038/s41366-025-02002-1.
+- 135	 Morgan JF, Reid F, Lacey JH. The SCOFF questionnaire: a new screening tool for eating disorders. West J Med 2000; 172: 164-65.
+- 136	 Pierret ACS, Mizuno Y, Saunders P, et al. Glucagon-like peptide 1 receptor agonists and mental health: a systematic review and metaanalysis. JAMA Psychiatry 2025; 82: 643-53.
+- 137 West S, Scragg J, Aveyard P, et al. Weight regain after cessation of medication for weight management: systematic review and metaanalysis. BMJ 2026; 392: e085304.
+- 138	 Kenkre JS, Gesell S, Keller A, Milani RM, Scholtz S, Barley EA. Alcohol misuse post metabolic and bariatric surgery: a systematic review of longer-term studies with focus on new onset alcohol use disorder and differences between surgery types. Curr Obes Rep 2024; 13: 596-616.
+- 139	 Hendershot CS, Bremmer MP, Paladino MB, et al. Once-weekly semaglutide in adults with alcohol use disorder: a randomized clinical trial. JAMA Psychiatry 2025; 82: 395-405.
+- 140	 Klausen MK, Jensen ME, Møller M, et al. Exenatide once weekly for alcohol use disorder investigated in a randomized, placebocontrolled clinical trial. JCI Insight 2022; 7: e159863.
+- 141 Arillotta D, Floresta G, Papanti Pelletier GD, et al. Exploring the potential impact of GLP-1 receptor agonists on substance use, compulsive behavior, and libido: insights from social media using a mixed-methods approach. Brain Sci 2024; 14: 617 .
+- 142 Schoretsanitis G, Weiler S, Barbui C, Raschi E, Gastaldon C. Disproportionality analysis from World Health Organization data on semaglutide, liraglutide, and suicidality. JAMA Netw Open 2024; 7: e2423385.
+
+- 143	 McIntyre RS, Mansur RB, Rosenblat JD, et al. Glucagon-like peptide-1 receptor agonists (GLP-1 RAs) and suicidality: a replication study using reports to the World Health Organization pharmacovigilance database (VigiBase). J Affect Disord 2025; 369: 922-27 .
+- 144 Tang H, Lu Y, Donahoo WT, et al. Glucagon-like peptide-1 receptor agonists and risk for suicidal ideation and behaviors in US older adults with type 2 diabetes : a target trial emulation study. Ann Intern Med 2024; 177: 1004-15.
+- 145	 van Reekum EA, Darcy M, Drage J, et al. Psychiatric and cognitive functioning after metabolic and bariatric surgery: a systematic review and meta-analysis. Obes Rev 2025; 26: e13968.
+- 146	 Ganeshalingam AA, Uhrenholt N, Arnfred S, et al. Semaglutide treatment of antipsychotic-treated patients with schizophrenia, prediabetes, and obesity: the HISTORI Randomized Clinical Trial. JAMA Psychiatry 2025; 82: 1065-74.
+- 147 Herman BK, Deal LS, DiBenedetti DB, Nelson L, Fehnel SE, Brown TM. Development of the 7-Item Binge-Eating Disorder Screener (BEDS-7). Prim Care Companion CNS Disord 2016; 18 : 15m01896
+- 148	 De R, Smith ECC, Navagnanavel J, et al. The impact of weight gain on antipsychotic nonadherence or discontinuation: a systematic review and meta-analysis. Acta Psychiatr Scand 2025; 151: 109-26.
+- 149	 Treasure J, Duarte TA, Schmidt U. Eating disorders. Lancet 2020; 395: 899-911.
+- 150	 Castellini G, Graffigna G. 'Food is more than just a source of nutrients': a qualitative phenomenological study on food involvement. Appetite 2022; 178: 106179.
+- 151 Linge J, Petersson M, Forsgren MF, Sanyal AJ, Dahlqvist Leinhard O. Adverse muscle composition predicts all-cause mortality in the UK Biobank imaging study. J Cachexia Sarcopenia Muscle 2021; 12: 1513-26.
+- 152	 Landré B, Czernichow S, Goldberg M, Zins M, Ankri J, Herr M. Association between life-course obesity and frailty in older adults: findings in the GAZEL cohort. Obesity 2020; 28: 388-96.
+- 153	 Caturano A, Amaro A, Berra CC, Conte C. Sarcopenic obesity and weight loss-induced muscle mass loss. Curr Opin Clin Nutr Metab Care 2025; 28: 339-50.
+- 154	 Beavers KM, Cortes TM, Foy CM, et al. GLP1Ra-based therapies and DXA-acquired musculoskeletal health outcomes: a focused metaanalysis of placebo-controlled trials. Obesity 2025; 33: 225-37 .
+- 155	 Karakasis P, Patoulias D, Fragakis N, Mantzoros CS. Effect of glucagon-like peptide-1 receptor agonists and co-agonists on body composition: systematic review and network meta-analysis. Metabolism 2025; 164: 156113.
+- 156	 Dash S. Opportunities to optimize lifestyle interventions in combination with glucagon-like peptide-1-based therapy. Diabetes Obes Metab 2024; 26 (suppl 4) : 3-15.
+- 157 Sanchis-Gomar F, Neeland IJ, Lavie CJ. Balancing weight and muscle loss in GLP1 receptor agonist therapy. Nat Rev Endocrinol 2025; 21: 584-85.
+- 158	 Nevill AM, Lang JJ, Niemz M, Tomkinson GR. How should youth handgrip strength be normalized? New insights using 3-D allometry with 'generalizable' norm-referenced values, data from NHANES. Sports Med 2025; 55: 2303-12.
+- 159	 Pouget M, Pinel A, Miolanne M, et al. Improving the functional detection of sarcopenic obesity: prevalence and handgrip scoring in the OBESAR cohort. Obesity 2024; 32: 2237-45.
+- 160	 Abdalla PP, Bohn L, Dos Santos AP, et al. Adjusting grip strength to body size: analyses from 6 countries. J Am Med Dir Assoc 2022; 23: 903.e13-21.
+- 161 Locatelli JC, Costa JG, Haynes A, et al. Incretin-based weight loss pharmacotherapy: can resistance exercise optimize changes in body composition? Diabetes Care 2024; 47: 1718-30.
+- 162	 Neeland IJ, Linge J, Birkenfeld AL. Changes in lean body mass with glucagon-like peptide-1-based therapies and mitigation strategies. Diabetes Obes Metab 2024; 26 (suppl 4) : 16-27 .
+- 163	 Holmes CJ, Racette SB. The utility of body composition assessment in nutrition and clinical practice: an overview of current methodology. Nutrients 2021; 13: 2493.
+- 164	 Silveira EA, Castro MCR, Rezende ATO, et al. Body composition assessment in individuals with class II/III obesity: a narrative review. BMC Nutr 2024; 10: 142.
+- 165	 Prado CM, Landi F, Chew STH, et al. Advances in muscle health and nutrition: a toolkit for healthcare professionals. Clin Nutr 2022; 41: 2244-63.
+- 166	 Norman K, Stobäus N, Gonzalez MC, Schulzke JD, Pirlich M. Hand grip strength: outcome predictor and marker of nutritional status. Clin Nutr 2011; 30: 135-42.
+- 167 Busetto L, Dicker D, Frühbeck G, et al. A new framework for the diagnosis, staging and management of obesity in adults. Nat Med 2024; 30: 2395-99.
+- 168	 Wu Q, Ling Y, Yuan G, et al. Association between lipid accumulation products and relative handgrip strength: a large population-based study. Sci Rep 2025; 15: 11562.
+- 169	 Boyle LD, Akbas F, Yazıcı D, McGowan BM, Yumuk V. Pharmacotherapy for older people with obesity. Eur J Intern Med 2024; 130: 33-37 .
+- 170 Alsaqaaby MS, Cooney S, le Roux CW, Pournaras DJ. Sex, race, and BMI in clinical trials of medications for obesity over the past three decades: a systematic review. Lancet Diabetes Endocrinol 2024; 12: 414-21.
+- 171 Rossi AP, Rubele S, Calugi S, et al. Weight cycling as a risk factor for low muscle mass and strength in a population of males and females with obesity. Obesity 2019; 27: 1068-75.
+- 172 Turicchi J, O'Driscoll R, Finlayson G, Beaulieu K, Deighton K, Stubbs RJ. Associations between the rate, amount, and composition of weight loss as predictors of spontaneous weight regain in adults achieving clinically significant weight loss: a systematic review and meta-regression. Obes Rev 2019; 20: 935-46.
+- 173	 Beavers KM, Lyles MF, Davis CC, Wang X, Beavers DP, Nicklas BJ. Is lost lean mass from intentional weight loss recovered during weight regain in postmenopausal women? Am J Clin Nutr 2011; 94: 767-74.
+- 174 Oppert JM, Ciangura C, Bellicha A. Health-enhancing physical activity in obesity management: the need to (seriously) go beyond weight loss. Int J Obes 2025; 49: 211-13.
+- 175 Bellicha A, van Baak MA, Battista F, et al. Effect of exercise training on weight loss, body composition changes, and weight maintenance in adults with overweight or obesity: an overview of 12 systematic reviews and 149 studies. Obes Rev 2021; 22 (suppl 4) : e13256.
+- 176 Piercy KL, Troiano RP, Ballard RM, et al. The Physical Activity Guidelines for Americans. JAMA 2018; 320: 2020-28.
+- 177 Cuthbertson DJ, Dobbie LJ. Role of exercise and physical activity in promoting weight loss and weight loss maintenance. In: Kopelman PG, Caterson ID, Dietz WH, Armstrong S, Sweeting AN, Wilding JPH, eds. Clinical obesity in adults and children, 4th edn. Wiley, 2022: 262-78.
+- 178 Wadden TA, Bailey TS, Billings LK, et al. Effect of subcutaneous semaglutide vs placebo as an adjunct to intensive behavioral therapy on body weight in adults with overweight or obesity: the STEP 3 randomized clinical trial. JAMA 2021; 325: 1403-13.
+- 179 Oppert JM, Bellicha A, van Baak MA, et al. Exercise training in the management of overweight and obesity in adults: synthesis of the evidence and recommendations from the European Association for the Study of Obesity Physical Activity Working Group. Obes Rev 2021; 22 (suppl 4) : e13273.
+- 180	 Oppert JM, Ciangura C, Bellicha A. Physical activity and exercise for weight loss and maintenance in people living with obesity. Rev Endocr Metab Disord 2023; 24: 937-49.
+- 181 Bushman BA. Developing the P (for progression) in a FITT-VP exercise prescription. ACSM Health Fit J 2018; 22: 6-9.
+- 182	 Chang YH, Chou YC, Chang YC, Tan KH, Wu MH. The effects of high-intensity power training versus traditional resistance training on exercise performance. Int J Environ Res Public Health 2022; 19: 9400.
+- 183	 Fassio A, Idolazzi L, Rossini M, et al. The obesity paradox and osteoporosis. Eat Weight Disord 2018; 23: 293-302.
+- 184	 Gandham A, Zengin A, Bonham MP, et al. Incidence and predictors of fractures in older adults with and without obesity defined by body mass index versus body fat percentage. Bone 2020; 140: 115546.
+- 185	 Papageorgiou M, Kerschan-Schindl K, Sathyapalan T, Pietschmann P. Is weight loss harmful for skeletal health in obese older adults? Gerontology 2020; 66: 2-14.
+- 186	 Johnson KC, Bray GA, Cheskin LJ, et al. The effect of intentional weight loss on fracture risk in persons with diabetes: results from the Look AHEAD randomized clinical trial. J Bone Miner Res 2017; 32: 2278-87 .
+
+- 187 Paccou J, Compston JE. Bone health in adults with obesity before and after interventions to promote weight loss. Lancet Diabetes Endocrinol 2024; 12: 748-60.
+- 188	 Paccou J, Tsourdi E, Meier C, et al. Bariatric surgery and skeletal health: a narrative review and position statement for management by the European Calcified Tissue Society (ECTS). Bone 2022; 154: 116236.
+- 189	 Hansen MS, Wölfel EM, Jeromdesella S, et al. Once-weekly semaglutide versus placebo in adults with increased fracture risk: a randomised, double-blinded, two-centre, phase 2 trial. EClinicalMedicine 2024; 72: 102624.
+- 190	 Karam L, Mabilleau G, Paccou J. Effects of glucagon-like peptide-1 receptor agonists on bone health in people living with obesity. Osteoporos Int 2025; 36: 2115-26.
+- 191 Nicholson WK, Silverstein M, Wong JB, et al. Screening for osteoporosis to prevent fractures: US Preventive Services Task Force Recommendation Statement. JAMA 2025; 333: 498-508.
+- 192	 Palermo A, Tsourdi E, Yavropoulou MP, et al. The effects of obesity and weight loss interventions on bone health: a narrative review. Curr Diab Rep 2025; 25: 52.
+- 193	 Waterhouse M, Ebeling PR, McLeod DSA, et al. The effect of monthly vitamin D supplementation on fractures: a tertiary outcome from the population-based, double-blind, randomised, placebo-controlled D-Health trial. Lancet Diabetes Endocrinol 2023; 11: 324-32.
+- 194	 Chevalley T, Brandi ML, Cashman KD, et al. Role of vitamin D supplementation in the management of musculoskeletal diseases: update from an European Society of Clinical and Economical Aspects of Osteoporosis, Osteoarthritis and Musculoskeletal Diseases (ESCEO) working group. Aging Clin Exp Res 2022; 34: 2603-23.
+- 195	 Harvey NC, Biver E, Kaufman JM, et al. The role of calcium supplementation in healthy musculoskeletal ageing: an expert consensus meeting of the European Society for Clinical and Economic Aspects of Osteoporosis, Osteoarthritis and Musculoskeletal Diseases (ESCEO) and the International Foundation for Osteoporosis (IOF). Osteoporos Int 2017; 28: 447-62.
+- 196	 Paccou J, Gagnon C, Yu EW, Rosen CJ. Effects of weight-loss interventions on bone health in people living with obesity. J Bone Miner Res 2025; 40: 1319-31.
+- 197 Kumar S, Smith C, Clifton-Bligh RJ, Beck BR, Girgis CM. Exercise for postmenopausal bone health-can we raise the bar? Curr Osteoporos Rep 2025; 23: 20.
+- 198	 Jensen SBK, Sørensen V, Sandsdal RM, et al. Bone health after exercise alone, GLP-1 receptor agonist treatment, or combination treatment: a secondary analysis of a randomized clinical trial. JAMA Netw Open 2024; 7: e2416775.
+- 199	 Coulman KD, Margelyte R, Jones T, et al. Access to publicly funded weight management services in England using routine data from primary and secondary care (2007-2020): an observational cohort study. PLoS Med 2023; 20: e1004282.
+- 200	 Mekonnen A, Vasilevski V, Chapman A, et al. Barriers and enablers to effective weight management for people living with overweight and obesity: a rapid scoping review. Obes Rev 2025; 26: e13858.
+- 201	 Kendrick KN, Bode Padron KJ, Bomani NZ, et al. Equity in obesity review. Endocrinol Metab Clin North Am 2023; 52: 617-27 .
+- 202	 Karagiannis T, Bekiari E, Tsapas A. Socioeconomic aspects of incretin-based therapy. Diabetologia 2023; 66: 1859-68.
+- 203	 Waldrop SW, Johnson VR, Stanford FC. Inequalities in the provision of GLP-1 receptor agonists for the treatment of obesity. Nat Med 2024; 30: 22-25.
+- 204	 Food and Agriculture Organization of the UN. Changing policy concepts of food security. Food and Agriculture Organization of the United Nations. June 30, 2006. https://reliefweb.int/report/world/ policy-brief-food-security-issue-2-june-2006 (accessed Nov 20, 2025).
+- 205	 Johnstone A, Lonnie M, FIO-Food project team. The cost-of-living crisis is feeding the paradox of obesity and food insecurities in the UK. Obesity 2023; 31: 1461-62.
+- 206	 Stone RA, Brown A, Douglas F, et al. The impact of the cost of living crisis and food insecurity on food purchasing behaviours and food preparation practices in people living with obesity. Appetite 2024; 196: 107255.
+- 207	 Craig H, Sharib JR, Ridberg R, et al. Development, implementation, and validation of 2-item nutrition security screener. Curr Dev Nutr 2024; 8: 103151.
+- 208	 Czernichow S, Rassy N, Carette C, Shoung N, Hu FB, Rives-Lange C. Nutritional and functional outcomes in trials of nutrient-stimulated hormone-based therapy-a systematic mapping review. Obes Rev 2025; 26: e13890.
+- 209	 Tinsley GM, Heymsfield SB. Fundamental body composition principles provide context for fat-free and skeletal muscle loss with GLP-1 RA treatments. J Endocr Soc 2024; 8: bvae164.
+
+Copyright © 2026 Elsevier Ltd. All rights reserved, including those for text and data mining, AI training, and similar technologies.

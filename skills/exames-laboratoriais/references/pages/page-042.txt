@@ -1,0 +1,56 @@
+PDF_PHYSICAL_PAGE=42
+Capítulo 1 Interpretação de Exames de Importância em Nutrição para Cardiopatias e/ou Hiperlipoproteinemias                 13
+
+
+QUADRO 1-1. Fatores de risco a cada 10 anos
+
+  PASSO 1
+
+                  IDADE                                     HOMENS                                     MULHERES
+
+                 30 a 34                                        –1                                           –9
+                 35 a 39                                         0                                           –4
+                 40 a 44                                         1                                            0
+                 45 a 49                                         2                                            3
+                 50 a 54                                         3                                            6
+                 55 a 59                                         4                                            7
+                 60 a 64                                         5                                            8
+                 65 a 69                                         6                                            8
+                 70 a 74                                         7                                            8
+
+
+  PASSO 2
+
+         COLESTEROL TOTAL                                   HOMENS                                     MULHERES
+
+                 < 160                                          –3                                           –2
+               160 a 199                                         0                                            0
+               200 a 239                                         1                                            1
+               240 a 279                                         2                                            1
+                 ≥ 280                                           3                                            3
+
+
+  PASSO 3
+
+                  HDL-C                                     HOMENS                                     MULHERES
+
+                  <35                                            2                                            2
+                 35 a 44                                         1                                            2
+                 45 a 49                                         0                                            1
+                 50 a 59                                         0                                            0
+                  ≥ 60                                          –1                                           –3
+
+
+  PASSO 4
+
+             PAS*                            PAD**                           HOMENS                          MULHERES
+
+           < 120                             < 80                                0                                –3
+         120 a 129                          80 a 84                              0                                 0
+         130 a 139                          85 a 89                              1                                 0
+         140 a 159                          90 a 99                              2                                 2
+           ≥ 160                             ≥ 110                               3                                 3
+
+*PAS: pressão arterial sistólica; **PAD: pressão arterial diastólica.
+Quando os valores de PAS e PAD discordarem, deve-se utilizar o mais alto.
+                                                                                                                       Continua

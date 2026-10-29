@@ -1,0 +1,44 @@
+PDF_PHYSICAL_PAGE=152
+Capítulo 3 Interpretação de Exames de Importância em Nutrição para Doença Renal   123
+
+
+		Diagnóstico
+                              Síndrome nefrótica.
+
+		Avaliação nutricional
+
+                                     P      78   
+                               IMC =   =          = 30,11 kg/m²
+                                  A²     (1,61)²
+                                     (Obesidade Grau I)
+
+                            A avaliação nutricional realizada através do índice
+                        de massa corporal não é suficiente, pois uma das ca-
+                        racterísticas marcantes do indivíduo com doença renal
+                        é o edema, e este mascara o real peso do paciente,
+                        mesmo utilizando-se a redução de peso com base
+                        na prevenção do edema. Então, o acompanhamento
+                        nutricional bem conduzido desses pacientes requer a
+                        obtenção e análise de vários parâmetros que avaliem
+                        diferentes aspectos do estado nutricional, pois não há
+                        um parâmetro isolado que forneça uma informação
+                        ampla sobre a condição nutricional do paciente, de-
+                        vendo ser empregados métodos objetivos e subjetivos.
+
+		Necessidades energéticas
+                        Peso ideal = 20,8 × A² = 20,8 × 2,59 = 53,87 kg
+                        TMB = 8,7 × 53,87 + 829 = 1.297,67 kcal
+                        VET = 1.297,67 × 1,56 = 2.024,36 kcal
+
+		Distribuição percentual dos macronutrientes
+                        Proteínas = 0,8 g de PTN/kg/ dia
+                           0,8 × 53,87 kg = 43,10 g de PTN/dia × 4 =
+                              172,40 kcal
+                           2024,36 kcal --- 100% → × = 8,52% ~ 9%
+                           172,40 kcal --- x%
+                        Carboidratos: 61%
+                           2024,36 kcal --- 100% → × = 1.234,86 kcal ÷ 4 =
+                              308,71 g × kcals --- 61%
+                        Lipídeos: 30%
+                           2024,36 kcal --- 100% → × = 607,31 ÷ 9 =
+                              67,49 g × kcals --- 30%

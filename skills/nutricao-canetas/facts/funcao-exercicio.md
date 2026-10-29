@@ -16,4 +16,4 @@ Proteína e treino de força se complementam; aumentar proteína isoladamente n�
 
 Saúde óssea: adequação de cálcio e vitamina D e exercícios resistidos/com sustentação de peso são componentes do cuidado; avaliar risco de osteoporose conforme indicação. E p.12 alerta que FRAX não foi validado para grandes perdas ponderais e pode subestimar risco na obesidade. Não prometer prevenção de fraturas apenas com suplementos.
 
-Fontes integrais: E (`../references/chapters/ch01-consenso-europeu-source.md`, no corpus privado), A (`../references/chapters/ch02-advisory-americano-source.md`, no corpus privado), B (`../references/chapters/ch03-ponte-bariatrica-source.md`, no corpus privado).
+Fontes integrais: [E](../references/chapters/ch01-consenso-europeu-source.md), [A](../references/chapters/ch02-advisory-americano-source.md), [B](../references/chapters/ch03-ponte-bariatrica-source.md).

@@ -1,0 +1,59 @@
+PDF_PHYSICAL_PAGE=270
+                                ÍNDICE REMISSIVO
+
+
+A                                                Compostos oxidados, 20
+Ácido(s)                                         Conduta nutricional, importância dos exames
+   esteárico, 31                                    laboratoriais, 154
+   graxos                                        Controle glicêmico, meta recomendada pela
+      monoinsaturados, 25                           SBD, 63
+      poli-insaturados, 23                       Creatinina
+      saturados, 25                                 clearance de, 105
+   úrico                                            intervalo de referência, 105
+      intervalo de referência, 105                  valores anormais, 106
+      valores anormais, 105                      Critério
+Adenina dinudeotídeo, 173                           da National Diabetes Data Group, 64
+                                                    de Coustan e Carpentier, 63
+Alanina aminotrasferase (ALT), 136
+Albumina, 136, 153
+Alimentação, influência nos valores sanguíneos   D
+   de marcadores inflamatórios, 217-225          Deficiência(s)
+Alimento(s)                                         hormonal, estados de, 71
+   com ações imunomoduladoras, 220                  vitamínicas, interpretação metabólica
+   consumo em relação                                  sobre, 169-189
+      à glicemia, visão atual, 82                Desnutrição calórico-proteica, 134, 145, 149
+      à função renal, visão atual, 117           Dextrose, 682
+   funcionais com destaque para doenças          Diabetes
+      cardiovasculares, propriedade dos, 41         mellitus
+ALT (alanina aminotransferase), intervalo de           interpretação de exames de
+   referência, 152                                         importância em nutrição para,
+Amostra, estocagem e manipulação da, 7                     57-102
+Apoproteínas, 20                                       tipo 2
+Aspartato aminotransferase (AST) 136                       avaliação laboratorial para
+Automonitoração da glicose sanguínea, 75                       acompanhamento de pacientes
+                                                               com, 68
+                                                           fatores de risco para, 62
+B                                                          triagem em indivíduos
+Barreira filtrante, 110                                        assintomáticos quanto ao risco
+Bilirrubina total, 135, 150                                    de, 60
+   valores de referência, 151                    Dieta(s)
+Bolus de alimentação, 89                            muito restrita em proteína suplementada
+                                                       com aminoácidos essenciais e
+C                                                      cetoácidos, 116
+Cafeína, efeito nos níveis lipídicos, 4, 5          recomendada para redução de
+Camellia sinensis, 32                                  triglicerídeos e LDL-C sanguíneos, 236
+Célula de Kupffer, 133                              rica(s)
+Cetoácidos, 116                                        em gordura, 4
+Cetoacidose diabética, 78                              em óleo de peixe, 4
+Chá-verde, 32                                    Diretrizes para prevenção dos sintomas
+Cirrose hepática, ALT, AST, 147                     hipoglicêmicos, 73
+Clearance de creatinina, 105                     Dislipidemia, 26
+Colesterol                                       Doença(s)
+   interpretação, 7                                 arterial coronariana, 24
+   limitações e/ou interações, 7                    cardíaca
+   princípios e recomendação, 7                        coronariana “novas” fatores de risco
+Colesterolemia                                             lipídicos e lipoproteicos para, 19
+   interpretação da, 16                                interpretação sobre colesterolemia e
+   no perfil lipídico para crianças e                      outros exames de importância na, 18
+      adolescentes, interpretação dos valores       de Wilson, 142
+      de referência para, 15                        hepática(s)

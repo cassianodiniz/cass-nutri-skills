@@ -39,4 +39,4 @@ Esses passos operacionalizam a individualização e a revisão de exposição to
 
 Vômitos persistentes demandam avaliação clínica urgente, inclusive pela possibilidade de desidratação, desequilíbrios eletrolíticos e deficiência de tiamina; não aguardar um calendário de rotina para agir. E p.7. Ingestão <800 kcal/dia sustentada, por exemplo ≥1 semana, ou necessidades não atendidas apesar do suporte exige revisão multidisciplinar do tratamento. E p.10. Isso não se resolve somente com multivitamínico.
 
-Fontes integrais: E (`../references/chapters/ch01-consenso-europeu-source.md`, no corpus privado), A (`../references/chapters/ch02-advisory-americano-source.md`, no corpus privado), B (`../references/chapters/ch03-ponte-bariatrica-source.md`, no corpus privado).
+Fontes integrais: [E](../references/chapters/ch01-consenso-europeu-source.md), [A](../references/chapters/ch02-advisory-americano-source.md), [B](../references/chapters/ch03-ponte-bariatrica-source.md).
