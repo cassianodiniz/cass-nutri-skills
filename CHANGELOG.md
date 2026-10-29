@@ -1,5 +1,10 @@
 # Alterações
 
+## 0.6.0
+
+- Adicionada Exames Laboratoriais (`exames-laboratoriais`) a partir da skill local de Costa (2013).
+- Fontes, tabelas e revisão visual mantidas privadas no corpus externo; fluxo e scripts originais preservados.
+
 ## 0.5.0
 
 - Adicionada Nutrição Canetas (`nutricao-canetas`), com resumos e instruções da skill local.

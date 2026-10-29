@@ -1,6 +1,6 @@
 # Cass Nutri Skills
 
-Plugin para nutricionistas. Versão 0.5.0. Contém **dieta**, **biodisp-nutrients** e **nutricao-canetas**.
+Plugin para nutricionistas. Versão 0.6.0. Contém **dieta**, **biodisp-nutrients**, **nutricao-canetas** e **exames-laboratoriais**.
 O nutricionista toma as decisões clínicas; a skill executa a prescrição informada,
 confere o cálculo e prepara o documento depois da revisão autorizada.
 
@@ -101,3 +101,14 @@ e banco de busca permanecem privados, fora do plugin. Configure a pasta externa
 em `~/.nutricao-canetas/config.json` com `{"corpus": "/caminho/absoluto"}`;
 o destino padrão é `~/.nutricao-canetas/corpus`. Cada usuário fornece sua cópia
 autorizada. A skill declara a limitação quando as fontes não estão disponíveis.
+
+## Exames Laboratoriais
+
+Nome exibido: **Exames Laboratoriais**; acionamento: `exames-laboratoriais`.
+Integra a skill do livro de Costa (2013), preservando a distinção entre valores
+visualmente conferidos e extração não verificada. É consulta histórica, não
+diretriz atual. O plugin distribui as instruções; PDF, 273 páginas extraídas,
+base de tabelas verificadas e imagens permanecem privados fora do plugin.
+Configure `~/.exames-laboratoriais/config.json` com o caminho absoluto em `corpus`;
+o padrão é `~/.exames-laboratoriais/corpus/`. Cada usuário fornece uma cópia
+autorizada. O verificador original deve passar antes das consultas.

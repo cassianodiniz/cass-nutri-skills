@@ -1,0 +1,4 @@
+interface:
+  display_name: "Exames Laboratoriais"
+  short_description: "Consulta histórica com tabelas conferidas"
+  default_prompt: "Use $exames-laboratoriais para consultar o livro de Costa (2013), preservando a proveniência e os limites de revisão visual."
